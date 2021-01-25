@@ -7,6 +7,8 @@
 
 <link href="https://www.kela.fi/kelafi-theme/images/favicon.ico" rel="Shortcut Icon" />
 
+
+
 <meta property="og:title" content="Käyttöesimerkit datan itsenäiskäyttöön R-kielellä" />
 <meta property="og:description" content="code.sourceCode  span { display: inline-block; line-height: 1.25; } code.sourceCode  span { color: inherit; text-decoration: inherit; } code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode { white-space: pre; position: relative; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { code.sourceCode { white-space: pre-wrap; } code.sourceCode  span { text-indent: -5em; padding-left: 5em; } } pre." />
 <meta property="og:type" content="article" />
@@ -181,9 +183,7 @@
 </header>
 <article class="blog-post">
     
-<script src="index_files/accessible-code-block/empty-anchor.js"></script>
-<link href="index_files/anchor-sections/anchor-sections.css" rel="stylesheet" />
-<script src="index_files/anchor-sections/anchor-sections.js"></script>
+<script src="https://koronamittarit.kela.fi/esimerkit/index_files/accessible-code-block/empty-anchor.js"></script>
 <style type="text/css">
 code.sourceCode > span { display: inline-block; line-height: 1.25; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -250,7 +250,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </style>
 
 
-<p><span class="badge badge-kela">Sivu päivitetty <code>2021-01-22 13:08:28</code><br/>Data päivitetty <code>2021-01-22 13:03:17</code></span></p>
+<p><span class="badge badge-kela">Sivu päivitetty <code>2021-01-25 10:08:36</code><br/>Data päivitetty <code>2021-01-25 10:02:16</code></span></p>
 <div id="etuushakemukset-data" class="section level1">
 <h1>Etuushakemukset data</h1>
 <ul>
@@ -275,26 +275,33 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-13"><a href="#cb1-13"></a>  <span class="dt">ikaluokka =</span> <span class="kw">col_character</span>(),</span>
 <span id="cb1-14"><a href="#cb1-14"></a>  <span class="dt">sukupuoli =</span> <span class="kw">col_character</span>(),</span>
 <span id="cb1-15"><a href="#cb1-15"></a>  <span class="dt">saapuneet_hakemukset =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-16"><a href="#cb1-16"></a>  <span class="dt">updated =</span> <span class="kw">col_datetime</span>()</span>
-<span id="cb1-17"><a href="#cb1-17"></a>) -&gt;<span class="st"> </span>data_cols</span>
-<span id="cb1-18"><a href="#cb1-18"></a></span>
-<span id="cb1-19"><a href="#cb1-19"></a></span>
-<span id="cb1-20"><a href="#cb1-20"></a>dat &lt;-<span class="st"> </span>readr<span class="op">::</span><span class="kw">read_csv</span>(<span class="st">&quot;https://raw.githubusercontent.com/kelaresearchandanalytics/koronamittarit/master/docs/data/data_etuudet.csv&quot;</span>, </span>
-<span id="cb1-21"><a href="#cb1-21"></a>                       <span class="dt">col_types =</span> data_cols) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb1-22"><a href="#cb1-22"></a><span class="st">  </span><span class="co"># releveloidaan ikäluokka</span></span>
-<span id="cb1-23"><a href="#cb1-23"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">ikaluokka =</span> <span class="kw">factor</span>(ikaluokka),</span>
-<span id="cb1-24"><a href="#cb1-24"></a>         <span class="dt">ikaluokka =</span> <span class="kw">fct_relevel</span>(ikaluokka, <span class="kw">c</span>(<span class="st">&quot;kaikki&quot;</span>,<span class="st">&quot;alle 25&quot;</span>))) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb1-25"><a href="#cb1-25"></a><span class="st">  </span><span class="co"># Etuuksien järjestys</span></span>
-<span id="cb1-26"><a href="#cb1-26"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">etuus =</span> <span class="kw">factor</span>(etuus, <span class="dt">levels =</span> <span class="kw">c</span>(<span class="st">&quot;Työttömyysturva&quot;</span>,</span>
-<span id="cb1-27"><a href="#cb1-27"></a>                                          <span class="st">&quot;Yrittäjien työmarkkinatuki&quot;</span>,</span>
-<span id="cb1-28"><a href="#cb1-28"></a>                                          <span class="st">&quot;Yleinen asumistuki&quot;</span>, </span>
-<span id="cb1-29"><a href="#cb1-29"></a>                                          <span class="st">&quot;Perustoimeentulotuki&quot;</span>,</span>
-<span id="cb1-30"><a href="#cb1-30"></a>                                          <span class="st">&quot;Sairauspäiväraha&quot;</span>,</span>
-<span id="cb1-31"><a href="#cb1-31"></a>                                          <span class="st">&quot;Tartuntatautipäiväraha&quot;</span>,</span>
-<span id="cb1-32"><a href="#cb1-32"></a>                                          <span class="st">&quot;Epidemiatuki&quot;</span>)),</span>
-<span id="cb1-33"><a href="#cb1-33"></a>         <span class="dt">vuosi =</span> <span class="kw">factor</span>(vuosi)) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb1-34"><a href="#cb1-34"></a><span class="st">  </span><span class="kw">arrange</span>(etuus,viikko,paiva)</span>
-<span id="cb1-35"><a href="#cb1-35"></a><span class="kw">head</span>(dat)</span></code></pre></div>
+<span id="cb1-16"><a href="#cb1-16"></a>  <span class="dt">data =</span> <span class="kw">col_character</span>(),</span>
+<span id="cb1-17"><a href="#cb1-17"></a>  <span class="dt">saajat_kaikki =</span> <span class="kw">col_double</span>(),</span>
+<span id="cb1-18"><a href="#cb1-18"></a>  <span class="dt">saajat_uudet =</span> <span class="kw">col_double</span>(),</span>
+<span id="cb1-19"><a href="#cb1-19"></a>  <span class="dt">saajakotitaloudet_kaikki =</span> <span class="kw">col_double</span>(),</span>
+<span id="cb1-20"><a href="#cb1-20"></a>  <span class="dt">saajakotitaloudet_uudet =</span> <span class="kw">col_double</span>(),</span>
+<span id="cb1-21"><a href="#cb1-21"></a>  <span class="dt">saajaruokakunnat_kaikki =</span> <span class="kw">col_double</span>(),</span>
+<span id="cb1-22"><a href="#cb1-22"></a>  <span class="dt">saajaruokakunnat_uudet =</span> <span class="kw">col_double</span>(),</span>
+<span id="cb1-23"><a href="#cb1-23"></a>  <span class="dt">updated =</span> <span class="kw">col_datetime</span>()</span>
+<span id="cb1-24"><a href="#cb1-24"></a>) -&gt;<span class="st"> </span>data_cols</span>
+<span id="cb1-25"><a href="#cb1-25"></a></span>
+<span id="cb1-26"><a href="#cb1-26"></a></span>
+<span id="cb1-27"><a href="#cb1-27"></a>dat &lt;-<span class="st"> </span>readr<span class="op">::</span><span class="kw">read_csv</span>(<span class="st">&quot;https://raw.githubusercontent.com/kelaresearchandanalytics/koronamittarit/master/docs/data/data_etuudet.csv&quot;</span>, </span>
+<span id="cb1-28"><a href="#cb1-28"></a>                       <span class="dt">col_types =</span> data_cols) <span class="op">%&gt;%</span><span class="st"> </span></span>
+<span id="cb1-29"><a href="#cb1-29"></a><span class="st">  </span><span class="co"># releveloidaan ikäluokka</span></span>
+<span id="cb1-30"><a href="#cb1-30"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">ikaluokka =</span> <span class="kw">factor</span>(ikaluokka),</span>
+<span id="cb1-31"><a href="#cb1-31"></a>         <span class="dt">ikaluokka =</span> <span class="kw">fct_relevel</span>(ikaluokka, <span class="kw">c</span>(<span class="st">&quot;kaikki&quot;</span>,<span class="st">&quot;alle 25&quot;</span>))) <span class="op">%&gt;%</span><span class="st"> </span></span>
+<span id="cb1-32"><a href="#cb1-32"></a><span class="st">  </span><span class="co"># Etuuksien järjestys</span></span>
+<span id="cb1-33"><a href="#cb1-33"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">etuus =</span> <span class="kw">factor</span>(etuus, <span class="dt">levels =</span> <span class="kw">c</span>(<span class="st">&quot;Työttömyysturva&quot;</span>,</span>
+<span id="cb1-34"><a href="#cb1-34"></a>                                          <span class="st">&quot;Yrittäjien työmarkkinatuki&quot;</span>,</span>
+<span id="cb1-35"><a href="#cb1-35"></a>                                          <span class="st">&quot;Yleinen asumistuki&quot;</span>, </span>
+<span id="cb1-36"><a href="#cb1-36"></a>                                          <span class="st">&quot;Perustoimeentulotuki&quot;</span>,</span>
+<span id="cb1-37"><a href="#cb1-37"></a>                                          <span class="st">&quot;Sairauspäiväraha&quot;</span>,</span>
+<span id="cb1-38"><a href="#cb1-38"></a>                                          <span class="st">&quot;Tartuntatautipäiväraha&quot;</span>,</span>
+<span id="cb1-39"><a href="#cb1-39"></a>                                          <span class="st">&quot;Epidemiatuki&quot;</span>)),</span>
+<span id="cb1-40"><a href="#cb1-40"></a>         <span class="dt">vuosi =</span> <span class="kw">factor</span>(vuosi)) <span class="op">%&gt;%</span><span class="st"> </span></span>
+<span id="cb1-41"><a href="#cb1-41"></a><span class="st">  </span><span class="kw">arrange</span>(etuus,viikko,paiva)</span>
+<span id="cb1-42"><a href="#cb1-42"></a><span class="kw">head</span>(dat)</span></code></pre></div>
 <pre><code>## # A tibble: 6 x 19
 ##   etuus vuosi aikatyyppi kuukausi viikko paiva      viikonpaiva alue  ikaluokka
 ##   &lt;fct&gt; &lt;fct&gt; &lt;chr&gt;         &lt;int&gt;  &lt;int&gt; &lt;date&gt;     &lt;chr&gt;       &lt;chr&gt; &lt;fct&gt;    
@@ -305,9 +312,9 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 ## 5 Työt… 2020  paiva             1      1 2020-01-05 sunnuntai   Koko… kaikki   
 ## 6 Työt… 2021  paiva             1      1 2021-01-04 maanantai   Koko… kaikki   
 ## # … with 10 more variables: sukupuoli &lt;chr&gt;, saapuneet_hakemukset &lt;dbl&gt;,
-## #   data &lt;chr&gt;, saajat_kaikki &lt;lgl&gt;, saajat_uudet &lt;lgl&gt;,
-## #   saajakotitaloudet_kaikki &lt;lgl&gt;, saajakotitaloudet_uudet &lt;lgl&gt;,
-## #   saajaruokakunnat_kaikki &lt;lgl&gt;, saajaruokakunnat_uudet &lt;lgl&gt;, updated &lt;dttm&gt;</code></pre>
+## #   data &lt;chr&gt;, saajat_kaikki &lt;dbl&gt;, saajat_uudet &lt;dbl&gt;,
+## #   saajakotitaloudet_kaikki &lt;dbl&gt;, saajakotitaloudet_uudet &lt;dbl&gt;,
+## #   saajaruokakunnat_kaikki &lt;dbl&gt;, saajaruokakunnat_uudet &lt;dbl&gt;, updated &lt;dttm&gt;</code></pre>
 </div>
 </div>
 <div id="aikasarja-viikkotasolla-etuuksittain" class="section level2">
@@ -345,7 +352,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb3-30"><a href="#cb3-30"></a><span class="st">        </span><span class="kw">scale_y_continuous</span>(<span class="dt">labels =</span> <span class="cf">function</span>(x) <span class="kw">format</span>(x, <span class="dt">big.mark =</span> <span class="st">&quot; &quot;</span>,</span>
 <span id="cb3-31"><a href="#cb3-31"></a>                                                       <span class="dt">scientific =</span> <span class="ot">FALSE</span>),</span>
 <span id="cb3-32"><a href="#cb3-32"></a>                           <span class="dt">limits =</span> <span class="kw">c</span>(<span class="dv">0</span>,<span class="ot">NA</span>))</span></code></pre></div>
-<img src="index_files/figure-html/aikasarjakuva-1.png" width="864" />
+<img src="https://koronamittarit.kela.fi/esimerkit/index_files/figure-html/aikasarjakuva-1.png" width="864" />
 </div>
 </div>
 <div id="työttömyysturvan-hakemusten-ero-maakunnittain-kartalla-viikolla-14" class="section level2">
@@ -383,7 +390,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb4-30"><a href="#cb4-30"></a>       <span class="dt">fill =</span> <span class="st">&quot;%&quot;</span>)</span></code></pre></div>
 </div>
 <div class="plot">
-<img src="index_files/figure-html/kartta2-1.png" width="672" />
+<img src="https://koronamittarit.kela.fi/esimerkit/index_files/figure-html/kartta2-1.png" width="672" />
 </div>
 </div>
 </div>
