@@ -10,7 +10,7 @@
 
 
 <meta property="og:title" content="Aineiston ja mittarien kuvaus" />
-<meta property="og:description" content="Aineistot Mittarit   Sivu päivitetty 2021-01-26 12:03:31Data päivitetty 2021-01-26 11:31:48
+<meta property="og:description" content="Aineistot Mittarit   Sivu päivitetty 2021-01-27 10:08:32Data päivitetty 2021-01-27 10:02:37
 Aineistot Etuushakemukset ja etuuksien saajat Käytetty aineisto on peräisin Kelan etuusjärjestelmään kertyvistä rekisteritiedoista. Aineisto sisältää seuraavat muuttujat:
   etuus - Etuus vuosi - Vuosi aikatyyppi - Datan aikaresoluutio: kuukausi, viikko tai päivä kuukausi - Kuukauden järjestysnumero viikko - Viikon numero paiva - Päivämäärä ISO 8601 -standardin muodossa (VVVV-KK-PP) viikonpaiva - Viikonpäivän nimi suomeksi alue - Aluejako: Koko Suomi tai maakunta." />
 <meta property="og:type" content="article" />
@@ -19,7 +19,7 @@ Aineistot Etuushakemukset ja etuuksien saajat Käytetty aineisto on peräisin Ke
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Aineiston ja mittarien kuvaus"/>
-<meta name="twitter:description" content="Aineistot Mittarit   Sivu päivitetty 2021-01-26 12:03:31Data päivitetty 2021-01-26 11:31:48
+<meta name="twitter:description" content="Aineistot Mittarit   Sivu päivitetty 2021-01-27 10:08:32Data päivitetty 2021-01-27 10:02:37
 Aineistot Etuushakemukset ja etuuksien saajat Käytetty aineisto on peräisin Kelan etuusjärjestelmään kertyvistä rekisteritiedoista. Aineisto sisältää seuraavat muuttujat:
   etuus - Etuus vuosi - Vuosi aikatyyppi - Datan aikaresoluutio: kuukausi, viikko tai päivä kuukausi - Kuukauden järjestysnumero viikko - Viikon numero paiva - Päivämäärä ISO 8601 -standardin muodossa (VVVV-KK-PP) viikonpaiva - Viikonpäivän nimi suomeksi alue - Aluejako: Koko Suomi tai maakunta."/>
 
@@ -195,7 +195,7 @@ Aineistot Etuushakemukset ja etuuksien saajat Käytetty aineisto on peräisin Ke
 </ul>
 </div>
 
-<p><span class="badge badge-kela">Sivu päivitetty <code>2021-01-26 12:03:31</code><br/>Data päivitetty <code>2021-01-26 11:31:48</code></span></p>
+<p><span class="badge badge-kela">Sivu päivitetty <code>2021-01-27 10:08:32</code><br/>Data päivitetty <code>2021-01-27 10:02:37</code></span></p>
 <div id="aineistot" class="section level2">
 <h2>Aineistot</h2>
 <div id="etuushakemukset-ja-etuuksien-saajat" class="section level3">
@@ -291,6 +291,34 @@ Aineistot Etuushakemukset ja etuuksien saajat Käytetty aineisto on peräisin Ke
 <li>Lataa metadata tiedostona: <a href="/data/metadata_asiakaspalvelu.csv">metadata_koronatestit.csv</a></li>
 </ul>
 </div>
+<div id="matkakorvaukset" class="section level3">
+<h3>Matkakorvaukset</h3>
+<p>Käytetty aineisto on peräisin Kelan etuusjärjestelmään kertyvistä rekisteritiedoista. Aineisto sisältää seuraavat muuttujat:</p>
+<div class="eiluokkaa">
+
+</div>
+<ul>
+<li><code>vuosi</code><br/><i> - Vuosi</i></li>
+<li><code>viikko</code><br/><i> - Viikon numero</i></li>
+<li><code>matkojen_maara</code><br/><i> - Korvattujen matkojen lukumäärät. Matkaksi tilastoidaan yhdensuuntainen, yhdellä kulkuneuvolla samana matkapäivänä tehty matka.</i></li>
+<li><code>matkojen_maara_kertyma</code><br/><i> - Korvattujen matkojen määrän kertymän vuoden alusta</i></li>
+<li><code>alue</code><br/><i> - Aluejako: Koko Suomi tai maakunta. Maakunta asiakkaan vakituisen asuinkunnan mukainen. Ahvenanmaa ei ole mukana tarkastelussa, koska Ahvenanmaan saaja- ja hakemusmäärät ovat tarkastelluissa etuuksissa selvästi muita maakuntia pienempiä. Perustoimeentulotuen toimeenpano Ahvenanmaan maakunnassa ei kuulu Kelan tehtäviin.</i></li>
+<li><code>aikatyyppi</code><br/><i> - Datan aikaresoluutio: kuukausi, viikko tai päivä</i></li>
+<li><code>pituus_keskiarvo</code><br/><i> - Korvattujen matkojen pituuksien keskiarvo viikkotasolla kilometreinä</i></li>
+<li><code>pituus_viikkosumma</code><br/><i> - Korvattujen matkojen pituuksien summa kilometreinä viikkotasolla</i></li>
+<li><code>pituus_viikkosumma_kertyma</code><br/><i> - Korvattujen matkojen pituuksien summan kertymä vuoden alusta viikkotasolla kilometreinä</i></li>
+<li><code>asiakkaiden_maara</code><br/><i> - NA</i></li>
+<li><code>paiva</code><br/><i> - Päivämäärä ISO 8601 -standardin muodossa (VVVV-KK-PP)</i></li>
+<li><code>updated</code><br/><i> - Data päivitetty</i></li>
+</ul>
+<div style:"padding-top: 10px"></div>
+<ul>
+<li>Selaa <a href="https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/data_matkat.csv">dataa selaimessa</a></li>
+<li>Selaa <a href="https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/metadata_matkat.csv">metadataa selaimessa</a></li>
+<li>Lataa data tiedostona: <a href="/data/data_matkat.csv">data_matkat.csv</a></li>
+<li>Lataa metadata tiedostona: <a href="/data/metadata_matkat.csv">metadata_matkat.csv</a></li>
+</ul>
+</div>
 </div>
 <div id="mittarit" class="section level2">
 <h2>Mittarit</h2>
@@ -342,22 +370,14 @@ Ks. myös Kelan tutkimusblogit <a href="https://tutkimusblogi.kela.fi/arkisto/52
 <div id="matkakorvausten-mittarit" class="section level3">
 <h3>Matkakorvausten mittarit</h3>
 <p>Sairausvakuutus korvaa vakuutetulle osan sairauden, raskauden ja synnytyksen vuoksi tehtyjen matkojen kustannuksista ja kuntoutujalle osan kuntoutuksesta aiheutuneiden matkojen kustannuksista.</p>
-<p>Korvattujen matkojen lukumäärät. Matkaksi tilastoidaan yhdensuuntainen, yhdellä kulkuneuvolla samana matkapäivänä tehty matka.
-Matkoista perittyjen maksujen ja niistä maksettujen sairaanhoitokorvausten euromäärät.
-Korvaus, % Luku kertoo sairausvakuutuskorvauksena vakuutetulle maksetun prosenttiosuuden perityistä matkakustannuksista.
-Suhdeluvut kustannukset, e/matka ja korvaukset, e/matka. Suhdeluvut kertovat matkoista keskimäärin perittyjen maksujen ja niistä maksettujen korvausten suuruudet.</p>
-<ul>
-<li>matkamäärä</li>
-<li>matkan pituus</li>
-<li>matkan pituuden summa</li>
-</ul>
-<div style:"padding-top: 10px"></div>
-<ul>
-<li>Selaa <a href="https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/data_matkat.csv">dataa selaimessa</a></li>
-<li>Selaa <a href="https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/metadata_matkat.csv">metadataa selaimessa</a></li>
-<li>Lataa data tiedostona: <a href="/data/data_matkat.csv">data_koronatestit.csv</a></li>
-<li>Lataa metadata tiedostona: <a href="/data/metadata_matkat.csv">metadata_koronatestit.csv</a></li>
-</ul>
+<div class="eiluokkaa">
+
+</div>
+<p>Korvattujen matkojen lukumäärät. Matkaksi tilastoidaan yhdensuuntainen, yhdellä kulkuneuvolla samana matkapäivänä tehty matka.</p>
+<p>Korvattujen matkojen määrän kertymän vuoden alusta</p>
+<p>Korvattujen matkojen pituuksien keskiarvo viikkotasolla kilometreinä</p>
+<p>Korvattujen matkojen pituuksien summa kilometreinä viikkotasolla</p>
+<p>Korvattujen matkojen pituuksien summan kertymä vuoden alusta viikkotasolla kilometreinä</p>
 </div>
 </div>
 
