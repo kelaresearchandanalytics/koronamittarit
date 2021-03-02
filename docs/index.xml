@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etusivu on Kelan koronamittarit</title>
-    <link>https://koronamittarit.kela.fi/</link>
+    <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/</link>
     <description>Recent content in Etusivu on Kelan koronamittarit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 19:55:24 +0200</lastBuildDate><atom:link href="https://koronamittarit.kela.fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 19:55:24 +0200</lastBuildDate><atom:link href="https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Etuuksien saajat tammikuussa 2021</title>
-      <link>https://koronamittarit.kela.fi/2021/02/2021_month_1_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2021_month_1_fi/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2021/02/2021_month_1_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2021_month_1_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä pysyi vuoden vaihtuessa lähes ennallaan. Tukea sai tammikuussa 32 000 henkilöä enemmän kuin vuotta aiemmin. Heistä 22 000 oli &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saaneiden kotitalouksien ja henkilöiden määrä laski kahdella prosentilla vuoden vaihtuessa. Saajia oli 895 henkilöä vähemmän kuin vuoden 2019 tammikuussa, mutta kotitalouksia 2 900 enemmän. Saajina on siis enemmän yhden hengen kotitalouksia ja vähemmän useamman hengen kotitalouksia kuin vuotta aiemmin.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä pysyi ennallaan noin 402 000 ruokakunnassa. Tukea sai tammikuussa 28 000 ruokakuntaa enemmän kuin vuotta aiemmin.&lt;/p&gt;
@@ -23,7 +23,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#tpovhwlmyl .gt_table {
+#qdjdemzcvl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -48,7 +48,7 @@
   border-left-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_heading {
+#qdjdemzcvl .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -60,7 +60,7 @@
   border-right-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_title {
+#qdjdemzcvl .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -70,7 +70,7 @@
   border-bottom-width: 0;
 }
 
-#tpovhwlmyl .gt_subtitle {
+#qdjdemzcvl .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -80,13 +80,13 @@
   border-top-width: 0;
 }
 
-#tpovhwlmyl .gt_bottom_border {
+#qdjdemzcvl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_col_headings {
+#qdjdemzcvl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -101,7 +101,7 @@
   border-right-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_col_heading {
+#qdjdemzcvl .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -121,7 +121,7 @@
   overflow-x: hidden;
 }
 
-#tpovhwlmyl .gt_column_spanner_outer {
+#qdjdemzcvl .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -133,15 +133,15 @@
   padding-right: 4px;
 }
 
-#tpovhwlmyl .gt_column_spanner_outer:first-child {
+#qdjdemzcvl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tpovhwlmyl .gt_column_spanner_outer:last-child {
+#qdjdemzcvl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tpovhwlmyl .gt_column_spanner {
+#qdjdemzcvl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -153,7 +153,7 @@
   width: 100%;
 }
 
-#tpovhwlmyl .gt_group_heading {
+#qdjdemzcvl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -175,7 +175,7 @@
   vertical-align: middle;
 }
 
-#tpovhwlmyl .gt_empty_group_heading {
+#qdjdemzcvl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -190,15 +190,15 @@
   vertical-align: middle;
 }
 
-#tpovhwlmyl .gt_from_md &gt; :first-child {
+#qdjdemzcvl .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#tpovhwlmyl .gt_from_md &gt; :last-child {
+#qdjdemzcvl .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#tpovhwlmyl .gt_row {
+#qdjdemzcvl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -217,7 +217,7 @@
   overflow-x: hidden;
 }
 
-#tpovhwlmyl .gt_stub {
+#qdjdemzcvl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -229,7 +229,7 @@
   padding-left: 12px;
 }
 
-#tpovhwlmyl .gt_summary_row {
+#qdjdemzcvl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -239,7 +239,7 @@
   padding-right: 5px;
 }
 
-#tpovhwlmyl .gt_first_summary_row {
+#qdjdemzcvl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -249,7 +249,7 @@
   border-top-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_grand_summary_row {
+#qdjdemzcvl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -259,7 +259,7 @@
   padding-right: 5px;
 }
 
-#tpovhwlmyl .gt_first_grand_summary_row {
+#qdjdemzcvl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -269,11 +269,11 @@
   border-top-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_striped {
+#qdjdemzcvl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tpovhwlmyl .gt_table_body {
+#qdjdemzcvl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -282,7 +282,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_footnotes {
+#qdjdemzcvl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -296,13 +296,13 @@
   border-right-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_footnote {
+#qdjdemzcvl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tpovhwlmyl .gt_sourcenotes {
+#qdjdemzcvl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -316,46 +316,46 @@
   border-right-color: #D3D3D3;
 }
 
-#tpovhwlmyl .gt_sourcenote {
+#qdjdemzcvl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tpovhwlmyl .gt_left {
+#qdjdemzcvl .gt_left {
   text-align: left;
 }
 
-#tpovhwlmyl .gt_center {
+#qdjdemzcvl .gt_center {
   text-align: center;
 }
 
-#tpovhwlmyl .gt_right {
+#qdjdemzcvl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tpovhwlmyl .gt_font_normal {
+#qdjdemzcvl .gt_font_normal {
   font-weight: normal;
 }
 
-#tpovhwlmyl .gt_font_bold {
+#qdjdemzcvl .gt_font_bold {
   font-weight: bold;
 }
 
-#tpovhwlmyl .gt_font_italic {
+#qdjdemzcvl .gt_font_italic {
   font-style: italic;
 }
 
-#tpovhwlmyl .gt_super {
+#qdjdemzcvl .gt_super {
   font-size: 65%;
 }
 
-#tpovhwlmyl .gt_footnote_marks {
+#qdjdemzcvl .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;tpovhwlmyl&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;qdjdemzcvl&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
@@ -545,10 +545,10 @@
     
     <item>
       <title>Etuuksien saajat vuonna 2020</title>
-      <link>https://koronamittarit.kela.fi/2021/02/2020_vuosi_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2020_vuosi_fi/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2021/02/2020_vuosi_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2020_vuosi_fi/</guid>
       <description>&lt;p&gt;Koronakriisi lisäsi vuonna 2020 eniten työttömyysturvan ja tartuntatautipäivärahan tarvetta. Kelan maksamaa &lt;strong&gt;työttömyysturvaa&lt;/strong&gt; sai vuonna 2020 yhteensä 412 000 saajaa, joista 44 000 oli &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia. Yrittäjät mukaan luettuna työttömyysturvan saajien määrä kasvoi 24 prosentilla vuodesta 2019, ilman yrittäjiä 11 prosenttia. Sellaisia työttömyysturvan saajia, jotka eivät olleet saaneet tukea ensimmäistä tukikuukautta edeltäneiden 12 kuukauden aikana (uudet saajat), oli vuonna 2020 hieman yli 134 000, kun vuonna 2019 heitä oli noin 90 000.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahaa&lt;/strong&gt; maksettiin vuonna 2020 yhteensä 27 100 henkilölle, kun vuonna 2019 sen saajia oli vain 120. Lisäksi keväisten poikkeusolojen ajalta maksettiin &lt;strong&gt;väliaikaista epidemiatukea&lt;/strong&gt; hieman alle 3 000 henkilölle. &lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä sen sijaan laski edellisvuodesta. Sairauspoissaolojen kehityksestä ja koronavuoden vaikutuksesta siihen voi lukea tarkemmin &lt;a href=&#34;https://tutkimusblogi.kela.fi/arkisto/5764&#34;&gt;Kelan tutkimusblogista&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotuen&lt;/strong&gt; saajien ja saajakotitalouksien sekä &lt;strong&gt;yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä kasvoi edellisvuodesta 5 prosentilla. Molemmissa kasvu oli odotettua vähäisempää, mutta tukia sai kuitenkin 2000-luvun ennätysmäärä kotitalouksia ja ruokakuntia. Perustoimeentulotuessa uusia saajia oli 21 000 ja uusia saajakotitalouksia 14 000 enemmän kuin vuonna 2019. Uusia yleistä asumistukea saaneita ruokakuntia oli vuonna 2020 noin 121 000, mikä on 20 500 ruokakuntaa enemmän kuin vuonna 2019.&lt;/p&gt;
@@ -558,7 +558,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#nwmliglidw .gt_table {
+#gozsqfxinn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -583,7 +583,7 @@
   border-left-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_heading {
+#gozsqfxinn .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -595,7 +595,7 @@
   border-right-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_title {
+#gozsqfxinn .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -605,7 +605,7 @@
   border-bottom-width: 0;
 }
 
-#nwmliglidw .gt_subtitle {
+#gozsqfxinn .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -615,13 +615,13 @@
   border-top-width: 0;
 }
 
-#nwmliglidw .gt_bottom_border {
+#gozsqfxinn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_col_headings {
+#gozsqfxinn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -636,7 +636,7 @@
   border-right-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_col_heading {
+#gozsqfxinn .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -656,7 +656,7 @@
   overflow-x: hidden;
 }
 
-#nwmliglidw .gt_column_spanner_outer {
+#gozsqfxinn .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -668,15 +668,15 @@
   padding-right: 4px;
 }
 
-#nwmliglidw .gt_column_spanner_outer:first-child {
+#gozsqfxinn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nwmliglidw .gt_column_spanner_outer:last-child {
+#gozsqfxinn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nwmliglidw .gt_column_spanner {
+#gozsqfxinn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -688,7 +688,7 @@
   width: 100%;
 }
 
-#nwmliglidw .gt_group_heading {
+#gozsqfxinn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -710,7 +710,7 @@
   vertical-align: middle;
 }
 
-#nwmliglidw .gt_empty_group_heading {
+#gozsqfxinn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -725,15 +725,15 @@
   vertical-align: middle;
 }
 
-#nwmliglidw .gt_from_md &gt; :first-child {
+#gozsqfxinn .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#nwmliglidw .gt_from_md &gt; :last-child {
+#gozsqfxinn .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#nwmliglidw .gt_row {
+#gozsqfxinn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -752,7 +752,7 @@
   overflow-x: hidden;
 }
 
-#nwmliglidw .gt_stub {
+#gozsqfxinn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -764,7 +764,7 @@
   padding-left: 12px;
 }
 
-#nwmliglidw .gt_summary_row {
+#gozsqfxinn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -774,7 +774,7 @@
   padding-right: 5px;
 }
 
-#nwmliglidw .gt_first_summary_row {
+#gozsqfxinn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -784,7 +784,7 @@
   border-top-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_grand_summary_row {
+#gozsqfxinn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -794,7 +794,7 @@
   padding-right: 5px;
 }
 
-#nwmliglidw .gt_first_grand_summary_row {
+#gozsqfxinn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -804,11 +804,11 @@
   border-top-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_striped {
+#gozsqfxinn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nwmliglidw .gt_table_body {
+#gozsqfxinn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -817,7 +817,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_footnotes {
+#gozsqfxinn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -831,13 +831,13 @@
   border-right-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_footnote {
+#gozsqfxinn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nwmliglidw .gt_sourcenotes {
+#gozsqfxinn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -851,46 +851,46 @@
   border-right-color: #D3D3D3;
 }
 
-#nwmliglidw .gt_sourcenote {
+#gozsqfxinn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nwmliglidw .gt_left {
+#gozsqfxinn .gt_left {
   text-align: left;
 }
 
-#nwmliglidw .gt_center {
+#gozsqfxinn .gt_center {
   text-align: center;
 }
 
-#nwmliglidw .gt_right {
+#gozsqfxinn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nwmliglidw .gt_font_normal {
+#gozsqfxinn .gt_font_normal {
   font-weight: normal;
 }
 
-#nwmliglidw .gt_font_bold {
+#gozsqfxinn .gt_font_bold {
   font-weight: bold;
 }
 
-#nwmliglidw .gt_font_italic {
+#gozsqfxinn .gt_font_italic {
   font-style: italic;
 }
 
-#nwmliglidw .gt_super {
+#gozsqfxinn .gt_super {
   font-size: 65%;
 }
 
-#nwmliglidw .gt_footnote_marks {
+#gozsqfxinn .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;nwmliglidw&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;gozsqfxinn&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;8&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat vuonna 2020&lt;/th&gt;
@@ -1009,10 +1009,10 @@
     
     <item>
       <title>Etuuksien saajat joulukuussa</title>
-      <link>https://koronamittarit.kela.fi/2021/01/2020_kuukausi_12_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/01/2020_kuukausi_12_fi/</link>
       <pubDate>Mon, 25 Jan 2021 10:01:01 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2021/01/2020_kuukausi_12_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/01/2020_kuukausi_12_fi/</guid>
       <description>&lt;p&gt;Joulukuussa 2020 kaikkien seuraamiemme Kelan etuuksien saajamäärät kasvoivat edelliskuusta ja saajia oli kaikissa etuuksissa enemmän kuin vuoden 2019 joulukuussa.&lt;/p&gt;
 &lt;p&gt;Koko syksyn jatkunut laskusuunta &lt;strong&gt;työttömyysturvan&lt;/strong&gt; saajien määrässä pysähtyi ja saajia oli joulukuussa yli 5 000 saajaa marraskuuta enemmän, mikä johtunee loppuvuodesta tiukentuneista rajoituksista. &lt;strong&gt;Yrittäjien työmarkkinatuen&lt;/strong&gt; tarve kasvoi noin tuhannella saajalla marraskuuhun verrattuna.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajien määrä kasvoi marraskuusta vain vähän – 260 ruokakunnalla – ja &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä 3 210 kotitaloudella.&lt;/p&gt;
@@ -1022,7 +1022,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#xhwbxxsnai .gt_table {
+#kzyuxlpmwt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1047,7 +1047,7 @@
   border-left-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_heading {
+#kzyuxlpmwt .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1059,7 +1059,7 @@
   border-right-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_title {
+#kzyuxlpmwt .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1069,7 +1069,7 @@
   border-bottom-width: 0;
 }
 
-#xhwbxxsnai .gt_subtitle {
+#kzyuxlpmwt .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1079,13 +1079,13 @@
   border-top-width: 0;
 }
 
-#xhwbxxsnai .gt_bottom_border {
+#kzyuxlpmwt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_col_headings {
+#kzyuxlpmwt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1100,7 +1100,7 @@
   border-right-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_col_heading {
+#kzyuxlpmwt .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1120,7 +1120,7 @@
   overflow-x: hidden;
 }
 
-#xhwbxxsnai .gt_column_spanner_outer {
+#kzyuxlpmwt .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1132,15 +1132,15 @@
   padding-right: 4px;
 }
 
-#xhwbxxsnai .gt_column_spanner_outer:first-child {
+#kzyuxlpmwt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xhwbxxsnai .gt_column_spanner_outer:last-child {
+#kzyuxlpmwt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xhwbxxsnai .gt_column_spanner {
+#kzyuxlpmwt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1152,7 +1152,7 @@
   width: 100%;
 }
 
-#xhwbxxsnai .gt_group_heading {
+#kzyuxlpmwt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1174,7 +1174,7 @@
   vertical-align: middle;
 }
 
-#xhwbxxsnai .gt_empty_group_heading {
+#kzyuxlpmwt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1189,15 +1189,15 @@
   vertical-align: middle;
 }
 
-#xhwbxxsnai .gt_from_md &gt; :first-child {
+#kzyuxlpmwt .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#xhwbxxsnai .gt_from_md &gt; :last-child {
+#kzyuxlpmwt .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#xhwbxxsnai .gt_row {
+#kzyuxlpmwt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1216,7 +1216,7 @@
   overflow-x: hidden;
 }
 
-#xhwbxxsnai .gt_stub {
+#kzyuxlpmwt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1228,7 +1228,7 @@
   padding-left: 12px;
 }
 
-#xhwbxxsnai .gt_summary_row {
+#kzyuxlpmwt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1238,7 +1238,7 @@
   padding-right: 5px;
 }
 
-#xhwbxxsnai .gt_first_summary_row {
+#kzyuxlpmwt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1248,7 +1248,7 @@
   border-top-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_grand_summary_row {
+#kzyuxlpmwt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1258,7 +1258,7 @@
   padding-right: 5px;
 }
 
-#xhwbxxsnai .gt_first_grand_summary_row {
+#kzyuxlpmwt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1268,11 +1268,11 @@
   border-top-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_striped {
+#kzyuxlpmwt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xhwbxxsnai .gt_table_body {
+#kzyuxlpmwt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1281,7 +1281,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_footnotes {
+#kzyuxlpmwt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1295,13 +1295,13 @@
   border-right-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_footnote {
+#kzyuxlpmwt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xhwbxxsnai .gt_sourcenotes {
+#kzyuxlpmwt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1315,46 +1315,46 @@
   border-right-color: #D3D3D3;
 }
 
-#xhwbxxsnai .gt_sourcenote {
+#kzyuxlpmwt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xhwbxxsnai .gt_left {
+#kzyuxlpmwt .gt_left {
   text-align: left;
 }
 
-#xhwbxxsnai .gt_center {
+#kzyuxlpmwt .gt_center {
   text-align: center;
 }
 
-#xhwbxxsnai .gt_right {
+#kzyuxlpmwt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xhwbxxsnai .gt_font_normal {
+#kzyuxlpmwt .gt_font_normal {
   font-weight: normal;
 }
 
-#xhwbxxsnai .gt_font_bold {
+#kzyuxlpmwt .gt_font_bold {
   font-weight: bold;
 }
 
-#xhwbxxsnai .gt_font_italic {
+#kzyuxlpmwt .gt_font_italic {
   font-style: italic;
 }
 
-#xhwbxxsnai .gt_super {
+#kzyuxlpmwt .gt_super {
   font-size: 65%;
 }
 
-#xhwbxxsnai .gt_footnote_marks {
+#kzyuxlpmwt .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;xhwbxxsnai&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;kzyuxlpmwt&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
@@ -1535,10 +1535,10 @@
     
     <item>
       <title>Viikko 49</title>
-      <link>https://koronamittarit.kela.fi/2020/12/2020_week_49_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_week_49_fi/</link>
       <pubDate>Tue, 08 Dec 2020 10:53:45 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2020/12/2020_week_49_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_week_49_fi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt; -sivulta löytyvät nyt kaikkien seurattujen etuuksien saajamäärät marraskuulta niin yleisesti kuin &lt;a href=&#34;etuuksien_saajat.html#saajat-maakunnittain&#34;&gt;maakunnittain&lt;/a&gt; ja &lt;a href=&#34;etuuksien_saajat.html#saajat-sukupuolittain-ja-ikäluokittain&#34;&gt;ikäryhmittäin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajaruokakuntien määrä jatkoi kasvuaan ylittäen nyt jo yli 400 000 ruokakunnan rajan. Uusia ruokakuntia ei kuitenkaan tullut tuen piiriin enää yhtä paljon kuin aiemmin.&lt;/p&gt;
 &lt;p&gt;Myös &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä kasvoi edelleen lokakuusta. Saajakotitalouksia oli marraskuussa 3 prosenttia enemmän kuin viime vuoden marraskuussa.&lt;/p&gt;
@@ -1566,10 +1566,10 @@
     
     <item>
       <title>Etuuksien saajat marraskuussa</title>
-      <link>https://koronamittarit.kela.fi/2020/12/2020_kuukausi_11_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_kuukausi_11_fi/</link>
       <pubDate>Tue, 01 Dec 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2020/12/2020_kuukausi_11_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_kuukausi_11_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä laski edelleen lokakuusta kahdella prosentilla, mutta on edelleen huomattavasti (+18%) suurempi kuin viime vuonna.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yrittäjien työmarkkinatukea&lt;/strong&gt; sai hieman harvempi kuin edelliskuussa, mutta edelleen lähes 21 000 henkilöä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä jatkoi kasvuaan ja nousi ensimmäistä kertaa yli 400 000 ruokakunnan, mikä on yli 30 000 ruokakuntaa enemmän kuin edellisvuoden marraskuussa.&lt;/p&gt;
@@ -2092,18 +2092,18 @@
     
     <item>
       <title>Viikko 47</title>
-      <link>https://koronamittarit.kela.fi/2020/12/2020_viikko_47_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_viikko_47_fi/</link>
       <pubDate>Tue, 01 Dec 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2020/12/2020_viikko_47_fi/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt; -sivulta löytyvät kaikkien seurattujen etuuksien saajamäärät lokakuulta.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sairauspäivärahaa&lt;/strong&gt; lukuun ottamatta muissa etuuksissa oli lokakuussa enemmän saajia kuin vuotta aiemmin. &lt;strong&gt;Yleisen asumistuen&lt;/strong&gt;, &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; ja varsinkin &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä kasvoi myös edelliskuusta. Katso tarkemmat analyysit &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat.html#saajat-maakunnittain&#34;&gt;maakunnittain&lt;/a&gt; ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat.html#saajat-sukupuolittain-ja-ikäluokittain&#34;&gt;ikäryhmittäin&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_viikko_47_fi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt; -sivulta löytyvät kaikkien seurattujen etuuksien saajamäärät lokakuulta.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sairauspäivärahaa&lt;/strong&gt; lukuun ottamatta muissa etuuksissa oli lokakuussa enemmän saajia kuin vuotta aiemmin. &lt;strong&gt;Yleisen asumistuen&lt;/strong&gt;, &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; ja varsinkin &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä kasvoi myös edelliskuusta. Katso tarkemmat analyysit &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat.html#saajat-maakunnittain&#34;&gt;maakunnittain&lt;/a&gt; ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat.html#saajat-sukupuolittain-ja-ikäluokittain&#34;&gt;ikäryhmittäin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt;, &lt;strong&gt;yleisen asumistuen&lt;/strong&gt;, &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; ja &lt;strong&gt;sairauspäivärahan&lt;/strong&gt; hakemusmäärissä on ollut edelleen normaalia viikottaista vaihtelua ja viikolla 47 hakemusten määrä kaikissa etuuksissa oli hyvin lähellä edellisvuoden vastaavan viikon hakemusmääriä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yrittäjien työmarkkinatukea&lt;/strong&gt; on loka-marraskuussa hakenut viikottain hieman yli 300 henkilöä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahahakemusten&lt;/strong&gt; määrä kävi tähänastisessa huipussaan 2 500 hakemuksessa viikolla 45, minkä jälkeen hakemusten määrä hieman laski.&lt;/p&gt;
-&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
+&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
 &lt;p&gt;Yksityisen terveydenhuollon &lt;strong&gt;koronavirustutkimuksista&lt;/strong&gt; maksettiin noin 2 000 korvausta molemmilla edellisillä viikoilla.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://koronamittarit.kela.fi/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://koronamittarit.kela.fi/koronatestit/&#34;&gt;Koronatutkimukset&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronatestit/&#34;&gt;Koronatutkimukset&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;{{&lt; blogdown/postref &gt;}}index_files/figure-html/kartta_vko47-1.png&#34; alt=&#34;Karttakuvio jossa esitetään maakuntatasolla tartuntatautipäivärahan kahden viikon hakemusmäärien viimeiseltä kahdelta viikolta ja niitä edeltäneiltä kahdelta viikolta&#34; width=&#34;1152&#34; /&gt;
@@ -2113,23 +2113,23 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/tilannekuvakartta_viikko_48.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tilannekuvakartta_viikko_48.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Viikko 45</title>
-      <link>https://koronamittarit.kela.fi/2020/11/2020_viikko_45_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/11/2020_viikko_45_fi/</link>
       <pubDate>Tue, 17 Nov 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2020/11/2020_viikko_45_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/11/2020_viikko_45_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt;, &lt;strong&gt;yleisen asumistuen&lt;/strong&gt; ja &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; hakemusmäärät ovat olleet parin viikon ajan hieman viime vuoden tasoa korkeammalla ja muuten niissä on ollut normaalia viikottaista vaihtelua.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahahakemusten&lt;/strong&gt; määrä on pysytellyt edelleen selvästi viime vuotta matalammalla tasolla.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahahakemusten&lt;/strong&gt; määrä nousi jälleen uusiin ennätyslukemiin viikolla 45, jolloin hakemuksia jätettiin yli 2 000. Hakemuksia on jätetty aiempaa enemmän kaikissa ikäluokissa.&lt;/p&gt;
-&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
+&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
 &lt;p&gt;Yksityisen terveydenhuollon &lt;strong&gt;koronavirustutkimuksista&lt;/strong&gt; maksettujen korvausten määrä on pysynyt melko tasaisena viikon 41 huipun jälkeen. Tutkimukset on nyt jaoteltu tarkemmin kolmeen ryhmään: antigeenitutkimuksiin, nukleiinihappotutkimus ja vasta-ainetesteihin.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://koronamittarit.kela.fi/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://koronamittarit.kela.fi/koronatestit/&#34;&gt;Koronatestit&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronatestit/&#34;&gt;Koronatestit&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;{{&lt; blogdown/postref &gt;}}index_files/figure-html/kartta_vko46-1.png&#34; alt=&#34;Karttakuvio jossa esitetään maakuntatasolla tartuntatautipäivärahan kahden viikon hakemusmäärien viimeiseltä kahdelta viikolta ja niitä edeltäneiltä kahdelta viikolta&#34; width=&#34;1152&#34; /&gt;
@@ -2139,23 +2139,23 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/tilannekuvakartta_viikko_46.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tilannekuvakartta_viikko_46.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Viikko 43</title>
-      <link>https://koronamittarit.kela.fi/2020/11/2020_viikko_43_fi/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/11/2020_viikko_43_fi/</link>
       <pubDate>Tue, 03 Nov 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/2020/11/2020_viikko_43_fi/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/11/2020_viikko_43_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt;, &lt;strong&gt;yleisen asumistuen&lt;/strong&gt; ja &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; hakemusmäärät ovat pysytelleet hyvin lähellä viime vuoden tasoa ja niissä on ollut normaalia viikottaista vaihtelua.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahahakemuksia&lt;/strong&gt; on jätetty hieman viime vuotta vähemmän jo useana viikkona peräkkäin.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahahakemusten&lt;/strong&gt; määrä nousi ennätyslukemiin viikolla 42, jolloin hakemuksia jätettiin noin 1 400. Erityisesti nuoret ovat hakeneet tartuntatautipäivärahaa selvästi viime kevättä enemmän. Viime aikoina myös erityisesti Etelä- ja Keski-Pohjanmaan, Pohjanmaan, Keski-Suomen sekä Itä-Suomen maakunnissa on ollut tarvetta tartuntatautipäivärahalle selvästi aiempaa enemmän.&lt;/p&gt;
-&lt;p&gt;Nostimmekin tilanneseurantaan uuden karttakuvan, jossa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
+&lt;p&gt;Nostimmekin tilanneseurantaan uuden karttakuvan, jossa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
 &lt;p&gt;Yksityisen terveydenhuollon &lt;strong&gt;koronavirustutkimuksista&lt;/strong&gt; maksettujen korvausten määrä on jälleen tasaantunut viikon 41 huipun jälkeen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://koronamittarit.kela.fi/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatestien lukumäärät &lt;a href=&#34;https://koronamittarit.kela.fi/koronatestit/&#34;&gt;Koronatestit&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatestien lukumäärät &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronatestit/&#34;&gt;Koronatestit&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;{{&lt; blogdown/postref &gt;}}index_files/figure-html/kartta_vko43-1.png&#34; alt=&#34;Karttakuvio jossa esitetään maakuntatasolla tartuntatautipäivärahan kahden viikon hakemusmäärien viimeiseltä kahdelta viikolta ja niitä edeltäneiltä kahdelta viikolta&#34; width=&#34;1152&#34; /&gt;
@@ -2165,19 +2165,19 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/tilannekuvakartta_viikko_44.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tilannekuvakartta_viikko_44.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Aineiston ja mittarien kuvaus</title>
-      <link>https://koronamittarit.kela.fi/data_ja_mittarit/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/data_ja_mittarit/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/data_ja_mittarit/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -2186,7 +2186,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:08:36&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 10:03:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:31:28&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 11:04:56&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;aineistot&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Aineistot&lt;/h2&gt;
 &lt;div id=&#34;etuushakemukset-ja-etuuksien-saajat&#34; class=&#34;section level3&#34;&gt;
@@ -2220,8 +2220,8 @@
 &lt;ul&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/data_etuudet.csv&#34;&gt;dataa selaimessa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/metadata_etuudet.csv&#34;&gt;metadataa selaimessa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/data_etuudet.csv&#34;&gt;data_etuudet.csv&lt;/a&gt;. Katso myös &lt;a href=&#34;esimerkit.html&#34;&gt;käyttöesimerkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/metadata_etuudet.csv&#34;&gt;metadata_etuudet.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/data_etuudet.csv&#34;&gt;data_etuudet.csv&lt;/a&gt;. Katso myös &lt;a href=&#34;esimerkit.html&#34;&gt;käyttöesimerkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/metadata_etuudet.csv&#34;&gt;metadata_etuudet.csv&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;lääkekorvaukset&#34; class=&#34;section level3&#34;&gt;
@@ -2247,8 +2247,8 @@
 &lt;ul&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/data_koronatestit.csv&#34;&gt;dataa selaimessa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/metadata_koronatestit.csv&#34;&gt;metadataa selaimessa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/data_koronatestit.csv&#34;&gt;data_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/metadata_koronatestit.csv&#34;&gt;metadata_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/data_koronatestit.csv&#34;&gt;data_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/metadata_koronatestit.csv&#34;&gt;metadata_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;asiakaspalvelu&#34; class=&#34;section level3&#34;&gt;
@@ -2278,8 +2278,8 @@
 &lt;ul&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/data_asiakaspalvelu.csv&#34;&gt;dataa selaimessa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/metadata_asiakaspalvelu.csv&#34;&gt;metadataa selaimessa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/data_asiakaspalvelu.csv&#34;&gt;data_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/metadata_asiakaspalvelu.csv&#34;&gt;metadata_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/data_asiakaspalvelu.csv&#34;&gt;data_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/metadata_asiakaspalvelu.csv&#34;&gt;metadata_koronatestit.csv&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;matkakorvaukset&#34; class=&#34;section level3&#34;&gt;
@@ -2306,8 +2306,8 @@
 &lt;ul&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/data_matkat.csv&#34;&gt;dataa selaimessa&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Selaa &lt;a href=&#34;https://github.com/kelaresearchandanalytics/koronamittarit/blob/master/docs/data/metadata_matkat.csv&#34;&gt;metadataa selaimessa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/data_matkat.csv&#34;&gt;data_matkat.csv&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://koronamittarit.kela.fi/data/metadata_matkat.csv&#34;&gt;metadata_matkat.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa data tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/data_matkat.csv&#34;&gt;data_matkat.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lataa metadata tiedostona: &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data/metadata_matkat.csv&#34;&gt;metadata_matkat.csv&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2376,12 +2376,12 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
     
     <item>
       <title>Etuuksien saajat</title>
-      <link>https://koronamittarit.kela.fi/etuuksien_saajat/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/etuuksien_saajat/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -2397,7 +2397,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:08:45&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 10:03:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:31:36&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 11:04:56&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div style = &#34;padding-top : 25px;&#34;&gt;
 &lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
 &lt;p&gt;Sivustolla julkaistut työttömyysturvan saajien määrätiedot on korjattu ma 18.1.2021. Aiemmin tukea saaneiden luku on virheellisesti sisältänyt myös yrittäjien työmarkkinatuen saajat. Virhe on vaikuttanut sekä kuvioihin että taulukoihin.&lt;/p&gt;
@@ -2408,7 +2408,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;h3&gt;Työttömyysturva&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_tyottomyysturva-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_tyottomyysturva-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_tyottomyysturva)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2422,7 +2422,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;h3&gt;Perustoimeentulotuki&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_uudet-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_uudet-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_uudet)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2436,7 +2436,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;h3&gt;Sairauspäiväraha, tartuntatautipäiväraha ja epidemiatuki&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_sairaus-1.png&#34; alt=&#34;Kuviossa esitetään Kelan sairauspäivärahan, tartuntatautipäivärahan ja epidemiatuen saajien määriä kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_sairaus-1.png&#34; alt=&#34;Kuviossa esitetään Kelan sairauspäivärahan, tartuntatautipäivärahan ja epidemiatuen saajien määriä kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_sairaus)Kuviossa esitetään Kelan sairauspäivärahan, tartuntatautipäivärahan ja epidemiatuen saajien määriä kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2450,7 +2450,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;h3&gt;Yleinen asumistuki&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_asumistuki-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_asumistuki-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_asumistuki)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2468,7 +2468,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/div&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_tyottomyysturva_maakunnittain-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_tyottomyysturva_maakunnittain-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_tyottomyysturva_maakunnittain)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2479,7 +2479,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_uudet_maakunta-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_uudet_maakunta-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_uudet_maakunta)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2490,7 +2490,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_sairaus_maakunta-1.png&#34; alt=&#34;Kuviossa esitetään Kelan sairauspäivärahaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_sairaus_maakunta-1.png&#34; alt=&#34;Kuviossa esitetään Kelan sairauspäivärahaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_sairaus_maakunta)Kuviossa esitetään Kelan sairauspäivärahaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2501,7 +2501,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_asumistuki_maakunta-1.png&#34; alt=&#34;Kuviossa esitetään Kelan yleisen asumistuen saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_asumistuki_maakunta-1.png&#34; alt=&#34;Kuviossa esitetään Kelan yleisen asumistuen saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_asumistuki_maakunta)Kuviossa esitetään Kelan yleisen asumistuen saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2515,7 +2515,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;h2&gt;Saajat sukupuolittain ja ikäluokittain&lt;/h2&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_tyottomyysturva_sukupuolittain-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_tyottomyysturva_sukupuolittain-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_tyottomyysturva_sukupuolittain)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2526,7 +2526,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_uudet_supuika-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_uudet_supuika-1.png&#34; alt=&#34;Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_uudet_supuika)Kuviossa esitetään Kelan perusturvaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2537,7 +2537,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_sairaus_supuika-1.png&#34; alt=&#34;Kuviossa esitetään Kelan sairauspäivärahaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/index_files/figure-html/etuuksien_saajat_sairaus_supuika-1.png&#34; alt=&#34;Kuviossa esitetään Kelan sairauspäivärahaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:etuuksien_saajat_sairaus_supuika)Kuviossa esitetään Kelan sairauspäivärahaetuuksien saajien määriä etuuksittain kuukausitasolla verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -2552,23 +2552,23 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
     
     <item>
       <title>Kelan asiakaspalvelu</title>
-      <link>https://koronamittarit.kela.fi/asiakaspalvelu/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/asiakaspalvelu/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/leaflet/leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/leaflet/leaflet.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/leafletfix/leafletfix.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/proj4/proj4.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/Proj4Leaflet/proj4leaflet.js&#34;&gt;&lt;/script&gt;
-&lt;link href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/rstudio_leaflet/rstudio_leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/leaflet-binding/leaflet.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/leaflet-providers/leaflet-providers_1.9.0.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/leaflet-providers-plugin/leaflet-providers-plugin.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/leaflet/leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/leaflet/leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/leafletfix/leafletfix.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/proj4/proj4.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/Proj4Leaflet/proj4leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/rstudio_leaflet/rstudio_leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/leaflet-binding/leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/leaflet-providers/leaflet-providers_1.9.0.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/leaflet-providers-plugin/leaflet-providers-plugin.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -2588,7 +2588,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:07:19&lt;/code&gt;&lt;/br&gt;Data päivitetty &lt;code&gt;2021-03-02 10:03:34&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:30:12&lt;/code&gt;&lt;/br&gt;Data päivitetty &lt;code&gt;2021-03-02 11:05:03&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Asiakkaat voivat hoitaa Kela-asioitaan monin eri tavoin. Lähes kaikkia Kelan etuuksia on mahdollista hakea verkossa Kelan asiointipalvelussa. Henkilökohtaista neuvontaa haluavat asiakkaat voivat myös soittaa puhelinpalveluun tai mennä paikan päälle joko Kelan palvelupisteeseen tai asiointipisteeseen. Puhelinpalvelussa tai palvelupisteessä asioita voi hoitaa asiointivuoroa odottamalla tai ajanvarauksella.&lt;/p&gt;
 &lt;p&gt;Turvallisen asioinnin varmistamiseksi Kela on suositellut koronaepidemia-aikana erityisesti verkkoasiointia ja asiointia puhelimitse. Monet palvelupisteissä työskennelleet palveluasiantuntijat siirtyivät keväällä hoitamaan puhelinpalvelua. Tämä vaikutti puhelinpalvelun palvelutasoon seuraavasti: asiakkaiden jonotusaika lyheni (kuvio 1), ja Kelassa pystyttiin vastaamaan yhä useampaan puheluun (kuvio 2). Monimutkaisempien asioiden hoitamiseen hyvin sopivassa ajanvarauspalvelussa vapaita aikoja alkoi saada aiempaa nopeammin niin Kelan puhelinpalvelussa kuin palvelupisteissäkin (kuvio 3 ja 4). Verkossa tehtävien etuushakemusten osuuteen koronapandemia-ajan erityisjärjestelyillä on ollut vähemmän vaikutusta (kuvio 5).&lt;/p&gt;
 &lt;div class=&#34;eiluokkaa&#34;&gt;
@@ -2604,7 +2604,7 @@ Puhelinpalvelun jonotusajan keskiarvo viikolla 8 oli 8,9 minuuttia.
 &lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/figure-html/pupa_aika-1.png&#34; alt=&#34;Puhelinpalvelun jonotusaika minuutteina viikkotasolla. Eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/figure-html/pupa_aika-1.png&#34; alt=&#34;Puhelinpalvelun jonotusaika minuutteina viikkotasolla. Eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:pupa_aika)Puhelinpalvelun jonotusaika minuutteina viikkotasolla. Eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -2624,7 +2624,7 @@ Puhelinpalvelun vastausprosentti viikolla 8 oli 67,1 prosenttia.
 &lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/figure-html/pupa_prosentti-1.png&#34; alt=&#34;Puhelinpalvelun vastausprosentti viikkotasolla.Eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/figure-html/pupa_prosentti-1.png&#34; alt=&#34;Puhelinpalvelun vastausprosentti viikkotasolla.Eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:pupa_prosentti)Puhelinpalvelun vastausprosentti viikkotasolla.Eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -2647,7 +2647,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/figure-html/saatavuusaika_kokomaa-1.png&#34; alt=&#34;Saatavuusaika viikkotasolla eri palvelukanavittain. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/figure-html/saatavuusaika_kokomaa-1.png&#34; alt=&#34;Saatavuusaika viikkotasolla eri palvelukanavittain. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:saatavuusaika_kokomaa)Saatavuusaika viikkotasolla eri palvelukanavittain. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -2665,7 +2665,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#fwbfbajonq .gt_table {
+#qcbqgohqdc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2690,7 +2690,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-left-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_heading {
+#qcbqgohqdc .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2702,7 +2702,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_title {
+#qcbqgohqdc .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2712,7 +2712,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-width: 0;
 }
 
-#fwbfbajonq .gt_subtitle {
+#qcbqgohqdc .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2722,13 +2722,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-width: 0;
 }
 
-#fwbfbajonq .gt_bottom_border {
+#qcbqgohqdc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_col_headings {
+#qcbqgohqdc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2743,7 +2743,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_col_heading {
+#qcbqgohqdc .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2763,7 +2763,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#fwbfbajonq .gt_column_spanner_outer {
+#qcbqgohqdc .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2775,15 +2775,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 4px;
 }
 
-#fwbfbajonq .gt_column_spanner_outer:first-child {
+#qcbqgohqdc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fwbfbajonq .gt_column_spanner_outer:last-child {
+#qcbqgohqdc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fwbfbajonq .gt_column_spanner {
+#qcbqgohqdc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2795,7 +2795,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   width: 100%;
 }
 
-#fwbfbajonq .gt_group_heading {
+#qcbqgohqdc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2817,7 +2817,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#fwbfbajonq .gt_empty_group_heading {
+#qcbqgohqdc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2832,15 +2832,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#fwbfbajonq .gt_from_md &gt; :first-child {
+#qcbqgohqdc .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#fwbfbajonq .gt_from_md &gt; :last-child {
+#qcbqgohqdc .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#fwbfbajonq .gt_row {
+#qcbqgohqdc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2859,7 +2859,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#fwbfbajonq .gt_stub {
+#qcbqgohqdc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2871,7 +2871,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-left: 12px;
 }
 
-#fwbfbajonq .gt_summary_row {
+#qcbqgohqdc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2881,7 +2881,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#fwbfbajonq .gt_first_summary_row {
+#qcbqgohqdc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2891,7 +2891,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_grand_summary_row {
+#qcbqgohqdc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2901,7 +2901,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#fwbfbajonq .gt_first_grand_summary_row {
+#qcbqgohqdc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2911,11 +2911,11 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_striped {
+#qcbqgohqdc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fwbfbajonq .gt_table_body {
+#qcbqgohqdc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2924,7 +2924,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_footnotes {
+#qcbqgohqdc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2938,13 +2938,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_footnote {
+#qcbqgohqdc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#fwbfbajonq .gt_sourcenotes {
+#qcbqgohqdc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2958,46 +2958,46 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fwbfbajonq .gt_sourcenote {
+#qcbqgohqdc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#fwbfbajonq .gt_left {
+#qcbqgohqdc .gt_left {
   text-align: left;
 }
 
-#fwbfbajonq .gt_center {
+#qcbqgohqdc .gt_center {
   text-align: center;
 }
 
-#fwbfbajonq .gt_right {
+#qcbqgohqdc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fwbfbajonq .gt_font_normal {
+#qcbqgohqdc .gt_font_normal {
   font-weight: normal;
 }
 
-#fwbfbajonq .gt_font_bold {
+#qcbqgohqdc .gt_font_bold {
   font-weight: bold;
 }
 
-#fwbfbajonq .gt_font_italic {
+#qcbqgohqdc .gt_font_italic {
   font-style: italic;
 }
 
-#fwbfbajonq .gt_super {
+#qcbqgohqdc .gt_super {
   font-size: 65%;
 }
 
-#fwbfbajonq .gt_footnote_marks {
+#qcbqgohqdc .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;fwbfbajonq&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;qcbqgohqdc&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saatavuusajan keskiarvo viikolla 8 (vuorokautta)&lt;/th&gt;
@@ -3056,7 +3056,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;/div&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/figure-html/saatavuusaika_yksikot-1.png&#34; alt=&#34;Saatavuusaika viikkotasolla eri palvelukanavittain. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/figure-html/saatavuusaika_yksikot-1.png&#34; alt=&#34;Saatavuusaika viikkotasolla eri palvelukanavittain. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:saatavuusaika_yksikot)Saatavuusaika viikkotasolla eri palvelukanavittain. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -3082,7 +3082,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#emtjznmmlt .gt_table {
+#lxrsfjkhts .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3107,7 +3107,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-left-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_heading {
+#lxrsfjkhts .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3119,7 +3119,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_title {
+#lxrsfjkhts .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -3129,7 +3129,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-width: 0;
 }
 
-#emtjznmmlt .gt_subtitle {
+#lxrsfjkhts .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -3139,13 +3139,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-width: 0;
 }
 
-#emtjznmmlt .gt_bottom_border {
+#lxrsfjkhts .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_col_headings {
+#lxrsfjkhts .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3160,7 +3160,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_col_heading {
+#lxrsfjkhts .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3180,7 +3180,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#emtjznmmlt .gt_column_spanner_outer {
+#lxrsfjkhts .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3192,15 +3192,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 4px;
 }
 
-#emtjznmmlt .gt_column_spanner_outer:first-child {
+#lxrsfjkhts .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#emtjznmmlt .gt_column_spanner_outer:last-child {
+#lxrsfjkhts .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#emtjznmmlt .gt_column_spanner {
+#lxrsfjkhts .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3212,7 +3212,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   width: 100%;
 }
 
-#emtjznmmlt .gt_group_heading {
+#lxrsfjkhts .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3234,7 +3234,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#emtjznmmlt .gt_empty_group_heading {
+#lxrsfjkhts .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3249,15 +3249,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#emtjznmmlt .gt_from_md &gt; :first-child {
+#lxrsfjkhts .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#emtjznmmlt .gt_from_md &gt; :last-child {
+#lxrsfjkhts .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#emtjznmmlt .gt_row {
+#lxrsfjkhts .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3276,7 +3276,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#emtjznmmlt .gt_stub {
+#lxrsfjkhts .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3288,7 +3288,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-left: 12px;
 }
 
-#emtjznmmlt .gt_summary_row {
+#lxrsfjkhts .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3298,7 +3298,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#emtjznmmlt .gt_first_summary_row {
+#lxrsfjkhts .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3308,7 +3308,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_grand_summary_row {
+#lxrsfjkhts .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3318,7 +3318,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#emtjznmmlt .gt_first_grand_summary_row {
+#lxrsfjkhts .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3328,11 +3328,11 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_striped {
+#lxrsfjkhts .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#emtjznmmlt .gt_table_body {
+#lxrsfjkhts .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3341,7 +3341,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_footnotes {
+#lxrsfjkhts .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3355,13 +3355,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_footnote {
+#lxrsfjkhts .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#emtjznmmlt .gt_sourcenotes {
+#lxrsfjkhts .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3375,46 +3375,46 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#emtjznmmlt .gt_sourcenote {
+#lxrsfjkhts .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#emtjznmmlt .gt_left {
+#lxrsfjkhts .gt_left {
   text-align: left;
 }
 
-#emtjznmmlt .gt_center {
+#lxrsfjkhts .gt_center {
   text-align: center;
 }
 
-#emtjznmmlt .gt_right {
+#lxrsfjkhts .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#emtjznmmlt .gt_font_normal {
+#lxrsfjkhts .gt_font_normal {
   font-weight: normal;
 }
 
-#emtjznmmlt .gt_font_bold {
+#lxrsfjkhts .gt_font_bold {
   font-weight: bold;
 }
 
-#emtjznmmlt .gt_font_italic {
+#lxrsfjkhts .gt_font_italic {
   font-style: italic;
 }
 
-#emtjznmmlt .gt_super {
+#lxrsfjkhts .gt_super {
   font-size: 65%;
 }
 
-#emtjznmmlt .gt_footnote_marks {
+#lxrsfjkhts .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;emtjznmmlt&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;lxrsfjkhts&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Verkon kautta saapuneiden hakemusten osuus helmikuussa (% kaikista hakemuksista)&lt;/th&gt;
@@ -3536,7 +3536,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;/div&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/index_files/figure-html/verkkohakemukset_maakunnittain-1.png&#34; alt=&#34;Verkkohakemisten osuus hakemuksista maakunnittain 2020 ja 2021.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/index_files/figure-html/verkkohakemukset_maakunnittain-1.png&#34; alt=&#34;Verkkohakemisten osuus hakemuksista maakunnittain 2020 ja 2021.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:verkkohakemukset_maakunnittain)Verkkohakemisten osuus hakemuksista maakunnittain 2020 ja 2021.
 &lt;/p&gt;
@@ -3556,7 +3556,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#iicsvqzyvv .gt_table {
+#qxcuziwdam .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3581,7 +3581,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-left-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_heading {
+#qxcuziwdam .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3593,7 +3593,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_title {
+#qxcuziwdam .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -3603,7 +3603,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-width: 0;
 }
 
-#iicsvqzyvv .gt_subtitle {
+#qxcuziwdam .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -3613,13 +3613,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-width: 0;
 }
 
-#iicsvqzyvv .gt_bottom_border {
+#qxcuziwdam .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_col_headings {
+#qxcuziwdam .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3634,7 +3634,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_col_heading {
+#qxcuziwdam .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3654,7 +3654,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#iicsvqzyvv .gt_column_spanner_outer {
+#qxcuziwdam .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3666,15 +3666,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 4px;
 }
 
-#iicsvqzyvv .gt_column_spanner_outer:first-child {
+#qxcuziwdam .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#iicsvqzyvv .gt_column_spanner_outer:last-child {
+#qxcuziwdam .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#iicsvqzyvv .gt_column_spanner {
+#qxcuziwdam .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3686,7 +3686,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   width: 100%;
 }
 
-#iicsvqzyvv .gt_group_heading {
+#qxcuziwdam .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3708,7 +3708,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#iicsvqzyvv .gt_empty_group_heading {
+#qxcuziwdam .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3723,15 +3723,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#iicsvqzyvv .gt_from_md &gt; :first-child {
+#qxcuziwdam .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#iicsvqzyvv .gt_from_md &gt; :last-child {
+#qxcuziwdam .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#iicsvqzyvv .gt_row {
+#qxcuziwdam .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3750,7 +3750,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#iicsvqzyvv .gt_stub {
+#qxcuziwdam .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3762,7 +3762,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-left: 12px;
 }
 
-#iicsvqzyvv .gt_summary_row {
+#qxcuziwdam .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3772,7 +3772,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#iicsvqzyvv .gt_first_summary_row {
+#qxcuziwdam .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3782,7 +3782,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_grand_summary_row {
+#qxcuziwdam .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3792,7 +3792,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#iicsvqzyvv .gt_first_grand_summary_row {
+#qxcuziwdam .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3802,11 +3802,11 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_striped {
+#qxcuziwdam .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#iicsvqzyvv .gt_table_body {
+#qxcuziwdam .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3815,7 +3815,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_footnotes {
+#qxcuziwdam .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3829,13 +3829,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_footnote {
+#qxcuziwdam .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#iicsvqzyvv .gt_sourcenotes {
+#qxcuziwdam .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3849,46 +3849,46 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#iicsvqzyvv .gt_sourcenote {
+#qxcuziwdam .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#iicsvqzyvv .gt_left {
+#qxcuziwdam .gt_left {
   text-align: left;
 }
 
-#iicsvqzyvv .gt_center {
+#qxcuziwdam .gt_center {
   text-align: center;
 }
 
-#iicsvqzyvv .gt_right {
+#qxcuziwdam .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#iicsvqzyvv .gt_font_normal {
+#qxcuziwdam .gt_font_normal {
   font-weight: normal;
 }
 
-#iicsvqzyvv .gt_font_bold {
+#qxcuziwdam .gt_font_bold {
   font-weight: bold;
 }
 
-#iicsvqzyvv .gt_font_italic {
+#qxcuziwdam .gt_font_italic {
   font-style: italic;
 }
 
-#iicsvqzyvv .gt_super {
+#qxcuziwdam .gt_super {
   font-size: 65%;
 }
 
-#iicsvqzyvv .gt_footnote_marks {
+#qxcuziwdam .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;iicsvqzyvv&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;qxcuziwdam&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Verkon kautta saapuneiden hakemusten osuus helmikuussa 2021 (% kaikista hakemuksista) top 15 kuntaa&lt;/th&gt;
@@ -4003,12 +4003,12 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
     
     <item>
       <title>Kelan etuushakemukset</title>
-      <link>https://koronamittarit.kela.fi/etuushakemukset/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/etuushakemukset/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -4022,7 +4022,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;div class=&#34;eiluokka&#34;&gt;
 
 &lt;/div&gt;
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:09:18&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 10:03:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:32:07&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 11:32:05&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Saapuneiden hakemusten määriä tarkastellaan &lt;em&gt;viikkotasolla&lt;/em&gt; vertaillen vuoteen 2020. Koko maan ohella saapuneita hakemuksia analysoidaan maakunnittain sekä ikäluokittain ja sukupuolittain. &lt;em&gt;Päiväkohtaisissa&lt;/em&gt; tiedoissa on mukana vain tämä vuosi ja tarkastelutasona koko Suomi ja kaikki hakijat.&lt;/p&gt;
 &lt;p&gt;Tässä raportissa uusin viikko on 8 ja uusin päivä on maanantai 2021-03-01&lt;/p&gt;
 &lt;p&gt;Katso tarkemmat tiedot käytetyistä mittareista &lt;a href=&#34;data_ja_mittarit.html&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt; -sivulta.&lt;/p&gt;
@@ -4037,7 +4037,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#fysxsvhrtu .gt_table {
+#eigjzhtrpo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4062,7 +4062,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-left-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_heading {
+#eigjzhtrpo .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4074,7 +4074,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_title {
+#eigjzhtrpo .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -4084,7 +4084,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-width: 0;
 }
 
-#fysxsvhrtu .gt_subtitle {
+#eigjzhtrpo .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -4094,13 +4094,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-width: 0;
 }
 
-#fysxsvhrtu .gt_bottom_border {
+#eigjzhtrpo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_col_headings {
+#eigjzhtrpo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4115,7 +4115,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_col_heading {
+#eigjzhtrpo .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4135,7 +4135,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#fysxsvhrtu .gt_column_spanner_outer {
+#eigjzhtrpo .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4147,15 +4147,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 4px;
 }
 
-#fysxsvhrtu .gt_column_spanner_outer:first-child {
+#eigjzhtrpo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fysxsvhrtu .gt_column_spanner_outer:last-child {
+#eigjzhtrpo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fysxsvhrtu .gt_column_spanner {
+#eigjzhtrpo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4167,7 +4167,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   width: 100%;
 }
 
-#fysxsvhrtu .gt_group_heading {
+#eigjzhtrpo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4189,7 +4189,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#fysxsvhrtu .gt_empty_group_heading {
+#eigjzhtrpo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4204,15 +4204,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#fysxsvhrtu .gt_from_md &gt; :first-child {
+#eigjzhtrpo .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#fysxsvhrtu .gt_from_md &gt; :last-child {
+#eigjzhtrpo .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#fysxsvhrtu .gt_row {
+#eigjzhtrpo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4231,7 +4231,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#fysxsvhrtu .gt_stub {
+#eigjzhtrpo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4243,7 +4243,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-left: 12px;
 }
 
-#fysxsvhrtu .gt_summary_row {
+#eigjzhtrpo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4253,7 +4253,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#fysxsvhrtu .gt_first_summary_row {
+#eigjzhtrpo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4263,7 +4263,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_grand_summary_row {
+#eigjzhtrpo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4273,7 +4273,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#fysxsvhrtu .gt_first_grand_summary_row {
+#eigjzhtrpo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4283,11 +4283,11 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_striped {
+#eigjzhtrpo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fysxsvhrtu .gt_table_body {
+#eigjzhtrpo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4296,7 +4296,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_footnotes {
+#eigjzhtrpo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4310,13 +4310,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_footnote {
+#eigjzhtrpo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#fysxsvhrtu .gt_sourcenotes {
+#eigjzhtrpo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4330,46 +4330,46 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#fysxsvhrtu .gt_sourcenote {
+#eigjzhtrpo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#fysxsvhrtu .gt_left {
+#eigjzhtrpo .gt_left {
   text-align: left;
 }
 
-#fysxsvhrtu .gt_center {
+#eigjzhtrpo .gt_center {
   text-align: center;
 }
 
-#fysxsvhrtu .gt_right {
+#eigjzhtrpo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fysxsvhrtu .gt_font_normal {
+#eigjzhtrpo .gt_font_normal {
   font-weight: normal;
 }
 
-#fysxsvhrtu .gt_font_bold {
+#eigjzhtrpo .gt_font_bold {
   font-weight: bold;
 }
 
-#fysxsvhrtu .gt_font_italic {
+#eigjzhtrpo .gt_font_italic {
   font-style: italic;
 }
 
-#fysxsvhrtu .gt_super {
+#eigjzhtrpo .gt_super {
   font-size: 65%;
 }
 
-#fysxsvhrtu .gt_footnote_marks {
+#eigjzhtrpo .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;fysxsvhrtu&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;eigjzhtrpo&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saapuneet hakemukset maanantaina 2021-03-01&lt;/th&gt;
@@ -4464,7 +4464,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/paivataso_kuva-1.png&#34; alt=&#34;Päiväkohtainen etuushakemuston tarkastelu etuuksittain. Vaaka-akselilla aika ja pystyakselilla hakemusten määrä. Eri etuudet erivärisillä viivoilla.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/paivataso_kuva-1.png&#34; alt=&#34;Päiväkohtainen etuushakemuston tarkastelu etuuksittain. Vaaka-akselilla aika ja pystyakselilla hakemusten määrä. Eri etuudet erivärisillä viivoilla.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:paivataso_kuva)Päiväkohtainen etuushakemuston tarkastelu etuuksittain. Vaaka-akselilla aika ja pystyakselilla hakemusten määrä. Eri etuudet erivärisillä viivoilla.
 &lt;/p&gt;
@@ -4482,7 +4482,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;p&gt;Suurimmat viikkotason hakijamäärät etuuksittain ovat vuoden 2019 alusta olleet: työttömyysturva viikolla 14 vuonna 2020 (27318 kpl), yrittäjien työmarkkinatuki viikolla 16 vuonna 2020 (8785 kpl), yleinen asumistuki viikolla 36 vuonna 2020 (22090 kpl), perustoimeentulotuki viikolla 3 vuonna 2019 (44241 kpl), sairauspäiväraha viikolla 50 vuonna 2019 (16599 kpl) ja tartuntatautipäiväraha viikolla 8 vuonna 2021 (4092 kpl).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_kaikki_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_kaikki_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_kaikki_kuva)Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -4497,7 +4497,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#qwtellsmsf .gt_table {
+#lmibgyridp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4522,7 +4522,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-left-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_heading {
+#lmibgyridp .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4534,7 +4534,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_title {
+#lmibgyridp .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -4544,7 +4544,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-width: 0;
 }
 
-#qwtellsmsf .gt_subtitle {
+#lmibgyridp .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -4554,13 +4554,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-width: 0;
 }
 
-#qwtellsmsf .gt_bottom_border {
+#lmibgyridp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_col_headings {
+#lmibgyridp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4575,7 +4575,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_col_heading {
+#lmibgyridp .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4595,7 +4595,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#qwtellsmsf .gt_column_spanner_outer {
+#lmibgyridp .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4607,15 +4607,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 4px;
 }
 
-#qwtellsmsf .gt_column_spanner_outer:first-child {
+#lmibgyridp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qwtellsmsf .gt_column_spanner_outer:last-child {
+#lmibgyridp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qwtellsmsf .gt_column_spanner {
+#lmibgyridp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4627,7 +4627,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   width: 100%;
 }
 
-#qwtellsmsf .gt_group_heading {
+#lmibgyridp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4649,7 +4649,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#qwtellsmsf .gt_empty_group_heading {
+#lmibgyridp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4664,15 +4664,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#qwtellsmsf .gt_from_md &gt; :first-child {
+#lmibgyridp .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#qwtellsmsf .gt_from_md &gt; :last-child {
+#lmibgyridp .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#qwtellsmsf .gt_row {
+#lmibgyridp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4691,7 +4691,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#qwtellsmsf .gt_stub {
+#lmibgyridp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4703,7 +4703,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-left: 12px;
 }
 
-#qwtellsmsf .gt_summary_row {
+#lmibgyridp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4713,7 +4713,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#qwtellsmsf .gt_first_summary_row {
+#lmibgyridp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4723,7 +4723,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_grand_summary_row {
+#lmibgyridp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4733,7 +4733,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#qwtellsmsf .gt_first_grand_summary_row {
+#lmibgyridp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4743,11 +4743,11 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_striped {
+#lmibgyridp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qwtellsmsf .gt_table_body {
+#lmibgyridp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4756,7 +4756,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_footnotes {
+#lmibgyridp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4770,13 +4770,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_footnote {
+#lmibgyridp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qwtellsmsf .gt_sourcenotes {
+#lmibgyridp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4790,46 +4790,46 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#qwtellsmsf .gt_sourcenote {
+#lmibgyridp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qwtellsmsf .gt_left {
+#lmibgyridp .gt_left {
   text-align: left;
 }
 
-#qwtellsmsf .gt_center {
+#lmibgyridp .gt_center {
   text-align: center;
 }
 
-#qwtellsmsf .gt_right {
+#lmibgyridp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qwtellsmsf .gt_font_normal {
+#lmibgyridp .gt_font_normal {
   font-weight: normal;
 }
 
-#qwtellsmsf .gt_font_bold {
+#lmibgyridp .gt_font_bold {
   font-weight: bold;
 }
 
-#qwtellsmsf .gt_font_italic {
+#lmibgyridp .gt_font_italic {
   font-style: italic;
 }
 
-#qwtellsmsf .gt_super {
+#lmibgyridp .gt_super {
   font-size: 65%;
 }
 
-#qwtellsmsf .gt_footnote_marks {
+#lmibgyridp .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;qwtellsmsf&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;lmibgyridp&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;19&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saapuneet hakemukset viikottain 2020 ja 2021&lt;/th&gt;
@@ -6015,37 +6015,37 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;p&gt;&lt;em&gt;Sairauspäivärahassa&lt;/em&gt; muutos on ollut suurin vuoteen 2020 verrattuna viikolla 2, jolloin se oli suurinta seuraavissa maakunnissa: Kanta-Häme (+54,4 %), Etelä-Pohjanmaa (+46,4 %) ja Pirkanmaa (+45,6 %). Viime viikolla (viikko 8) ero vuoden takaiseen oli suurinta näissä maakunnissa: Etelä-Karjala (+25,1 %), Kainuu (+24,8 %) ja Pohjois-Pohjanmaa (+22,4 %).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva-1)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-2.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-2.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva-2)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-3.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-3.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva-3)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-4.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-4.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva-4)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-5.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-5.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva-5)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-6.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-6.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva-6)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6066,37 +6066,37 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;p&gt;&lt;em&gt;Sairauspäivärahassa&lt;/em&gt; ero on ollut suurin viikolla 2, jolloin eroa oli eniten ikäluokissa: alle 25 (+61,8 %), alle 25 (+56 %), 25-34 (+52,6 %).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_ikaluokka_kuva-1)Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-2.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-2.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_ikaluokka_kuva-2)Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-3.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-3.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_ikaluokka_kuva-3)Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-4.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-4.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_ikaluokka_kuva-4)Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-5.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-5.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_ikaluokka_kuva-5)Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-6.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/index_files/figure-html/viikkotaso_ikaluokka_kuva-6.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_ikaluokka_kuva-6)Etuushakemukset viikkotasolla eri etuuksittain, ikäluokittain ja sukupuolittain. Kukin etuus omassa kuvassa ja kussakin kuvassa jokaisen ikäluokan paneelit, joiden sisässä paneelit: kaikki, Miehet ja Naiset. Kussakin paneelissa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6111,12 +6111,12 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
     
     <item>
       <title>Kelan matkakorvaukset taksimatkoista</title>
-      <link>https://koronamittarit.kela.fi/matkakorvaukset/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/matkakorvaukset/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -6143,7 +6143,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:10:09&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 07:38:21&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:31:55&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 09:13:23&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Tällä sivulla näytetään viikottaisia tietoja Kelan taksimatkojen matkamääristä, matkapituuksista sekä asiakkaiden määristä koko Suomen ja maakuntien tasolla. Mukana ovat sekä korvatut matkat että alle omavastuun jääneet taksimatkat. Lisätietoja &lt;a href=&#34;http://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT130AL&#34;&gt;Kelaston raportissa &lt;code&gt;NIT130AL&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Korvausten käsittelyn ja maksamisen viiveestä johtuen &lt;strong&gt;uusin data on aina kuuden viikon takaa&lt;/strong&gt;. Tässä raportissa uusin tieto on &lt;strong&gt;viikolta 3 vuonna 2021&lt;/strong&gt;.&lt;/p&gt;
 &lt;div id=&#34;matkamäärät&#34; class=&#34;section level2&#34;&gt;
@@ -6152,7 +6152,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Viikottaiset tarkastelut&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_kaikki_kuva)Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6166,7 +6166,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#abnrxvecua .gt_table {
+#bzgthskkxn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -6191,7 +6191,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-left-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_heading {
+#bzgthskkxn .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -6203,7 +6203,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_title {
+#bzgthskkxn .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -6213,7 +6213,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-width: 0;
 }
 
-#abnrxvecua .gt_subtitle {
+#bzgthskkxn .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -6223,13 +6223,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-width: 0;
 }
 
-#abnrxvecua .gt_bottom_border {
+#bzgthskkxn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_col_headings {
+#bzgthskkxn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6244,7 +6244,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_col_heading {
+#bzgthskkxn .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6264,7 +6264,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#abnrxvecua .gt_column_spanner_outer {
+#bzgthskkxn .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6276,15 +6276,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 4px;
 }
 
-#abnrxvecua .gt_column_spanner_outer:first-child {
+#bzgthskkxn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#abnrxvecua .gt_column_spanner_outer:last-child {
+#bzgthskkxn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#abnrxvecua .gt_column_spanner {
+#bzgthskkxn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -6296,7 +6296,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   width: 100%;
 }
 
-#abnrxvecua .gt_group_heading {
+#bzgthskkxn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6318,7 +6318,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#abnrxvecua .gt_empty_group_heading {
+#bzgthskkxn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -6333,15 +6333,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   vertical-align: middle;
 }
 
-#abnrxvecua .gt_from_md &gt; :first-child {
+#bzgthskkxn .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#abnrxvecua .gt_from_md &gt; :last-child {
+#bzgthskkxn .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#abnrxvecua .gt_row {
+#bzgthskkxn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6360,7 +6360,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   overflow-x: hidden;
 }
 
-#abnrxvecua .gt_stub {
+#bzgthskkxn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -6372,7 +6372,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-left: 12px;
 }
 
-#abnrxvecua .gt_summary_row {
+#bzgthskkxn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6382,7 +6382,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#abnrxvecua .gt_first_summary_row {
+#bzgthskkxn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6392,7 +6392,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_grand_summary_row {
+#bzgthskkxn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -6402,7 +6402,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   padding-right: 5px;
 }
 
-#abnrxvecua .gt_first_grand_summary_row {
+#bzgthskkxn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -6412,11 +6412,11 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-top-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_striped {
+#bzgthskkxn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#abnrxvecua .gt_table_body {
+#bzgthskkxn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -6425,7 +6425,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-bottom-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_footnotes {
+#bzgthskkxn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6439,13 +6439,13 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_footnote {
+#bzgthskkxn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#abnrxvecua .gt_sourcenotes {
+#bzgthskkxn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -6459,46 +6459,46 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   border-right-color: #D3D3D3;
 }
 
-#abnrxvecua .gt_sourcenote {
+#bzgthskkxn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#abnrxvecua .gt_left {
+#bzgthskkxn .gt_left {
   text-align: left;
 }
 
-#abnrxvecua .gt_center {
+#bzgthskkxn .gt_center {
   text-align: center;
 }
 
-#abnrxvecua .gt_right {
+#bzgthskkxn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#abnrxvecua .gt_font_normal {
+#bzgthskkxn .gt_font_normal {
   font-weight: normal;
 }
 
-#abnrxvecua .gt_font_bold {
+#bzgthskkxn .gt_font_bold {
   font-weight: bold;
 }
 
-#abnrxvecua .gt_font_italic {
+#bzgthskkxn .gt_font_italic {
   font-style: italic;
 }
 
-#abnrxvecua .gt_super {
+#bzgthskkxn .gt_super {
   font-size: 65%;
 }
 
-#abnrxvecua .gt_footnote_marks {
+#bzgthskkxn .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;abnrxvecua&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;bzgthskkxn&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;4&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Kelan korvaamat taksimatkojen määrät viikottain 2019, 2020 ja 2021&lt;/th&gt;
@@ -6510,323 +6510,323 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
   &lt;thead class=&#34;gt_col_headings&#34;&gt;
     &lt;tr&gt;
       &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_left&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;2021&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;2020&lt;/th&gt;
       &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;2019&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;2020&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;2021&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody class=&#34;gt_table_body&#34;&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;49109&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;46805&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;51832&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;46805&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;49109&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77335&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78759&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;70141&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78759&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77335&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79012&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78325&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72826&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78325&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79012&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77963&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72362&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77963&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78413&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73435&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78413&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79001&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;74171&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79001&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;7&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77962&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73400&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77962&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;75471&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;69645&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;75471&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;74636&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;69163&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;74636&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;10&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77646&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;71835&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77646&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;11&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;69576&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73641&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;69576&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;12&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;43959&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72878&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;43959&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;13&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;42349&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72444&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;42349&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;14&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;43077&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72232&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;43077&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;15&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;33045&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73850&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;33045&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;16&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;45294&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;50736&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;45294&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;17&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;46044&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;74243&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;46044&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;18&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;43455&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;63703&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;43455&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;19&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;52452&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;74889&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;52452&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;20&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;56127&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;80151&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;56127&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;21&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;49324&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;84858&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;49324&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;22&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;60891&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;69692&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;60891&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;23&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;65078&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82193&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;65078&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;24&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;67568&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;80060&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;67568&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;25&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;57221&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;64758&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;57221&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;26&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;62877&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;66980&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;62877&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;27&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;58205&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;59524&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;58205&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;28&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;54965&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;55761&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;54965&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;29&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;53949&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;53293&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;53949&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;30&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;54209&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;55036&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;54209&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;31&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;57697&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;60761&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;57697&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;32&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;65845&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;68432&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;65845&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;33&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;72024&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;76857&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;72024&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;34&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;75002&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;77554&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;75002&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;35&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;75461&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;80036&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;75461&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;36&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78501&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;81563&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78501&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;37&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79757&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82252&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79757&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;38&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;80147&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82820&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;80147&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;39&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81307&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82461&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81307&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;40&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;80864&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82732&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;80864&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;41&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77801&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82295&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77801&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;42&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;76322&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;77245&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;76322&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;43&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81458&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82264&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81458&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;44&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;80932&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;85331&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;80932&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;45&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81612&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;86484&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81612&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;46&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82263&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;86560&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82263&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;47&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;83335&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;86767&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;83335&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;48&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81695&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;88946&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81695&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;49&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82956&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;78430&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82956&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;50&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82620&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;89347&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82620&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;51&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;76925&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;79270&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;76925&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;52&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;42287&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;33274&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;42287&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   
@@ -6841,7 +6841,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Maakunnittain viikkotasolla&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_maakunta_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_maakunta_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_kuva)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6858,7 +6858,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Viikottaiset tarkastelut&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_pituus_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_pituus_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_kaikki_pituus_kuva)Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6872,7 +6872,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Maakunnittain viikkotasolla&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_maakunta_pituus_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_maakunta_pituus_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_pituus_kuva)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6889,7 +6889,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Viikottaiset tarkastelut&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_pituus_summa_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_pituus_summa_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_kaikki_pituus_summa_kuva)Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6903,7 +6903,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Maakunnittain viikkotasolla&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_maakunta_pituus_summa_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_maakunta_pituus_summa_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_maakunta_pituus_summa_kuva)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6920,7 +6920,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Viikottaiset tarkastelut&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_asiakkaat_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_asiakkaat_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_kaikki_asiakkaat_kuva)Etuushakemukset viikkotasolla eri etuuksittain. Kullekin etuudelle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6934,7 +6934,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;h3&gt;Maakunnittain viikkotasolla&lt;/h3&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_asiakkaat_mk_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/matkakorvaukset/index_files/figure-html/viikkotaso_kaikki_asiakkaat_mk_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:viikkotaso_kaikki_asiakkaat_mk_kuva)Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.
 &lt;/p&gt;
@@ -6950,15 +6950,15 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
     
     <item>
       <title>Koronavirustutkimukset</title>
-      <link>https://koronamittarit.kela.fi/koronavirustutkimukset/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronavirustutkimukset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/koronavirustutkimukset/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronavirustutkimukset/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/koronavirustutkimukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronavirustutkimukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:09:52&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 10:06:08&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:31:36&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 11:06:55&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;korvatut-koronavirustutkimukset&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Korvatut koronavirustutkimukset&lt;/h2&gt;
 &lt;p&gt;Tilasto kuvaa Kelan korvaamien yksityisen terveydenhuollon &lt;em&gt;koronavirustutkimusten&lt;/em&gt; eli &lt;em&gt;nukleiinihappotutkimusten&lt;/em&gt;, &lt;em&gt;antigeenitutkimusten&lt;/em&gt; ja &lt;em&gt;vasta-ainetestien&lt;/em&gt; lukumäärää. Viikon numero määräytyy tilastointipäivän eli korvaushakemuksen ratkaisupäivän perusteella. Tilastointipäivä ei siis tarkoita varsinaista tutkimus- tai testipäivää.&lt;/p&gt;
@@ -6966,7 +6966,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;p&gt;Koronavirustutkimukset korvataan osana Suomen sosiaaliturvaan kuuluvien henkilöiden sairaanhoitovakuutusta kuten muutkin yksityiset terveydenhoitopalvelut. Julkisessa terveydenhuollossa tehdyistä koronavirustutkimuksista ei voi saada Kelasta korvausta, joten nämä tutkimukset eivät sisälly tilastoon. Lisätietoja koronavirustutkimuksista on saatavilla THL:n sivulta: &lt;a href=&#34;https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/taudit-ja-torjunta/taudit-ja-taudinaiheuttajat-a-o/koronavirus-covid-19/koronaviruksen-covid-19-laboratoriotutkimukset&#34;&gt;koronaviruksen COVID-19 laboratoriotutkimukset&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/koronavirustutkimukset/index_files/figure-html/koronatestit_kokomaa-1.png&#34; alt=&#34;Kuviossa esitetään Kelan korvaamien yksityisen terveydenhuollon koronavirustutkimusten ja vasta-ainetestien lukumäärä viikottain vuonna 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronavirustutkimukset/index_files/figure-html/koronatestit_kokomaa-1.png&#34; alt=&#34;Kuviossa esitetään Kelan korvaamien yksityisen terveydenhuollon koronavirustutkimusten ja vasta-ainetestien lukumäärä viikottain vuonna 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:koronatestit_kokomaa)Kuviossa esitetään Kelan korvaamien yksityisen terveydenhuollon koronavirustutkimusten ja vasta-ainetestien lukumäärä viikottain vuonna 2020
 &lt;/p&gt;
@@ -6977,7 +6977,7 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
 &lt;/ul&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/koronavirustutkimukset/index_files/figure-html/koronatestit_maakunnat-1.png&#34; alt=&#34;Kuviossa esitetään Kelan korvaamien yksityisen terveydenhuollon koronavirustutkimusten ja vasta-ainetestien lukumäärä viikottain vuonna 2020 maakunnittain&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronavirustutkimukset/index_files/figure-html/koronatestit_maakunnat-1.png&#34; alt=&#34;Kuviossa esitetään Kelan korvaamien yksityisen terveydenhuollon koronavirustutkimusten ja vasta-ainetestien lukumäärä viikottain vuonna 2020 maakunnittain&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:koronatestit_maakunnat)Kuviossa esitetään Kelan korvaamien yksityisen terveydenhuollon koronavirustutkimusten ja vasta-ainetestien lukumäärä viikottain vuonna 2020 maakunnittain
 &lt;/p&gt;
@@ -6992,12 +6992,12 @@ Saatavuusajan keskiarvo viikolla 8 oli puhelinpalvelussa 3,1 ja palvelupisteess�
     
     <item>
       <title>Käyttöesimerkit datan itsenäiskäyttöön R-kielellä</title>
-      <link>https://koronamittarit.kela.fi/esimerkit/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/esimerkit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/esimerkit/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/esimerkit/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/esimerkit/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/esimerkit/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 &lt;style type=&#34;text/css&#34;&gt;
 pre &gt; code.sourceCode { white-space: pre; position: relative; }
 pre &gt; code.sourceCode &gt; span { display: inline-block; line-height: 1.25; }
@@ -7064,7 +7064,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 &lt;/style&gt;
 
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:08:39&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 10:03:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:31:31&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 11:04:56&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;etuushakemukset-data&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Etuushakemukset data&lt;/h1&gt;
 &lt;ul&gt;
@@ -7166,7 +7166,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 &lt;span id=&#34;cb3-30&#34;&gt;&lt;a href=&#34;#cb3-30&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;        &lt;span class=&#34;fu&#34;&gt;scale_y_continuous&lt;/span&gt;(&lt;span class=&#34;at&#34;&gt;labels =&lt;/span&gt; &lt;span class=&#34;cf&#34;&gt;function&lt;/span&gt;(x) &lt;span class=&#34;fu&#34;&gt;format&lt;/span&gt;(x, &lt;span class=&#34;at&#34;&gt;big.mark =&lt;/span&gt; &lt;span class=&#34;st&#34;&gt;&amp;quot; &amp;quot;&lt;/span&gt;,&lt;/span&gt;
 &lt;span id=&#34;cb3-31&#34;&gt;&lt;a href=&#34;#cb3-31&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;                                                       &lt;span class=&#34;at&#34;&gt;scientific =&lt;/span&gt; &lt;span class=&#34;cn&#34;&gt;FALSE&lt;/span&gt;),&lt;/span&gt;
 &lt;span id=&#34;cb3-32&#34;&gt;&lt;a href=&#34;#cb3-32&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;                           &lt;span class=&#34;at&#34;&gt;limits =&lt;/span&gt; &lt;span class=&#34;fu&#34;&gt;c&lt;/span&gt;(&lt;span class=&#34;dv&#34;&gt;0&lt;/span&gt;,&lt;span class=&#34;cn&#34;&gt;NA&lt;/span&gt;))&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/esimerkit/index_files/figure-html/aikasarjakuva-1.png&#34; width=&#34;864&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/esimerkit/index_files/figure-html/aikasarjakuva-1.png&#34; width=&#34;864&#34; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;työttömyysturvan-hakemusten-ero-maakunnittain-kartalla-viikolla-14&#34; class=&#34;section level2&#34;&gt;
@@ -7204,7 +7204,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 &lt;span id=&#34;cb4-30&#34;&gt;&lt;a href=&#34;#cb4-30&#34; aria-hidden=&#34;true&#34; tabindex=&#34;-1&#34;&gt;&lt;/a&gt;       &lt;span class=&#34;at&#34;&gt;fill =&lt;/span&gt; &lt;span class=&#34;st&#34;&gt;&amp;quot;%&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/esimerkit/index_files/figure-html/kartta2-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/esimerkit/index_files/figure-html/kartta2-1.png&#34; width=&#34;672&#34; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -7213,12 +7213,12 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
     
     <item>
       <title>Lääkekorvaukset</title>
-      <link>https://koronamittarit.kela.fi/laakekorvaukset/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/laakekorvaukset/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/laakekorvaukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
@@ -7227,12 +7227,12 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 10:10:02&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 09:27:04&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-03-02 11:31:46&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-03-02 09:27:04&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;kelan-korvaamien-lääkkeiden-kustannukset-ostomäärät-ja-ostoja-tehneiden-henkilöiden-lukumäärät&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Kelan korvaamien lääkkeiden kustannukset, ostomäärät ja ostoja tehneiden henkilöiden lukumäärät&lt;/h2&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:laakekorvaukset&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/laakekorvaukset/index_files/figure-html/laakekorvaukset-1.png&#34; alt=&#34;Kuviossa esitetään lääkekorvauksien kustannustietoja verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/index_files/figure-html/laakekorvaukset-1.png&#34; alt=&#34;Kuviossa esitetään lääkekorvauksien kustannustietoja verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: Kuviossa esitetään lääkekorvauksien kustannustietoja verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -7243,7 +7243,7 @@ Figure 1: Kuviossa esitetään lääkekorvauksien kustannustietoja verraten vuos
 &lt;h2&gt;Kelan korvaamien lääkkeiden ostomäärät sairaanhoitopiireittäin&lt;/h2&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;https://koronamittarit.kela.fi/laakekorvaukset/index_files/figure-html/laakekorvaukset_maakunnittain-1.png&#34; alt=&#34;Kuviossa esitetään lääkekorvauksien kustannustietoja maakunnittain verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
+&lt;img src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/index_files/figure-html/laakekorvaukset_maakunnittain-1.png&#34; alt=&#34;Kuviossa esitetään lääkekorvauksien kustannustietoja maakunnittain verraten vuosia 2019 ja 2020&#34; width=&#34;1152&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 (#fig:laakekorvaukset_maakunnittain)Kuviossa esitetään lääkekorvauksien kustannustietoja maakunnittain verraten vuosia 2019 ja 2020
 &lt;/p&gt;
@@ -7255,12 +7255,12 @@ Figure 1: Kuviossa esitetään lääkekorvauksien kustannustietoja verraten vuos
     
     <item>
       <title>Saavutettavuusseloste</title>
-      <link>https://koronamittarit.kela.fi/saavutettavuusseloste/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/saavutettavuusseloste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/saavutettavuusseloste/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/saavutettavuusseloste/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/saavutettavuusseloste/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/saavutettavuusseloste/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;tervetuloa-tämä-on-kelan-koronamittarit-sivuston-saavutettavuusseloste&#34; class=&#34;section level2&#34;&gt;
@@ -7305,12 +7305,12 @@ puhelinnumero vaihde 0295 016 000&lt;/p&gt;
     
     <item>
       <title>Tietosuojaseloste</title>
-      <link>https://koronamittarit.kela.fi/tietosuojaseloste/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tietosuojaseloste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/tietosuojaseloste/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tietosuojaseloste/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/tietosuojaseloste/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tietosuojaseloste/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;kelan-koronamittarit--verkkopalvelun-tietosuojaseloste&#34; class=&#34;section level2&#34;&gt;
@@ -7363,12 +7363,12 @@ EU:n yleiseen tietosuoja-asetukseen perustuva &lt;em&gt;Kelan koronamittarit&lt;
     
     <item>
       <title>Yhteystiedot</title>
-      <link>https://koronamittarit.kela.fi/yhteystiedot/</link>
+      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/yhteystiedot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://koronamittarit.kela.fi/yhteystiedot/</guid>
+      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/yhteystiedot/</guid>
       <description>
-&lt;script src=&#34;https://koronamittarit.kela.fi/yhteystiedot/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/yhteystiedot/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div class=&#34;row&#34;&gt;
