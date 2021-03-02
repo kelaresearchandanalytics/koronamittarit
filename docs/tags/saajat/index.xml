@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>saajat on Kelan koronamittarit</title>
-    <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tags/saajat/</link>
+    <link>https://koronamittarit.kela.fi/tags/saajat/</link>
     <description>Recent content in saajat on Kelan koronamittarit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tags/saajat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://koronamittarit.kela.fi/tags/saajat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Etuuksien saajat tammikuussa 2021</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2021_month_1_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/02/2021_month_1_fi/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2021_month_1_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/02/2021_month_1_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä pysyi vuoden vaihtuessa lähes ennallaan. Tukea sai tammikuussa 32 000 henkilöä enemmän kuin vuotta aiemmin. Heistä 22 000 oli &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saaneiden kotitalouksien ja henkilöiden määrä laski kahdella prosentilla vuoden vaihtuessa. Saajia oli 895 henkilöä vähemmän kuin vuoden 2019 tammikuussa, mutta kotitalouksia 2 900 enemmän. Saajina on siis enemmän yhden hengen kotitalouksia ja vähemmän useamman hengen kotitalouksia kuin vuotta aiemmin.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä pysyi ennallaan noin 402 000 ruokakunnassa. Tukea sai tammikuussa 28 000 ruokakuntaa enemmän kuin vuotta aiemmin.&lt;/p&gt;
@@ -23,7 +23,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#jmrtzitzlx .gt_table {
+#rdvpyrkmty .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -48,7 +48,7 @@
   border-left-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_heading {
+#rdvpyrkmty .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -60,7 +60,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_title {
+#rdvpyrkmty .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -70,7 +70,7 @@
   border-bottom-width: 0;
 }
 
-#jmrtzitzlx .gt_subtitle {
+#rdvpyrkmty .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -80,13 +80,13 @@
   border-top-width: 0;
 }
 
-#jmrtzitzlx .gt_bottom_border {
+#rdvpyrkmty .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_col_headings {
+#rdvpyrkmty .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -101,7 +101,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_col_heading {
+#rdvpyrkmty .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -121,7 +121,7 @@
   overflow-x: hidden;
 }
 
-#jmrtzitzlx .gt_column_spanner_outer {
+#rdvpyrkmty .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -133,15 +133,15 @@
   padding-right: 4px;
 }
 
-#jmrtzitzlx .gt_column_spanner_outer:first-child {
+#rdvpyrkmty .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jmrtzitzlx .gt_column_spanner_outer:last-child {
+#rdvpyrkmty .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jmrtzitzlx .gt_column_spanner {
+#rdvpyrkmty .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -153,7 +153,7 @@
   width: 100%;
 }
 
-#jmrtzitzlx .gt_group_heading {
+#rdvpyrkmty .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -175,7 +175,7 @@
   vertical-align: middle;
 }
 
-#jmrtzitzlx .gt_empty_group_heading {
+#rdvpyrkmty .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -190,15 +190,15 @@
   vertical-align: middle;
 }
 
-#jmrtzitzlx .gt_from_md &gt; :first-child {
+#rdvpyrkmty .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#jmrtzitzlx .gt_from_md &gt; :last-child {
+#rdvpyrkmty .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#jmrtzitzlx .gt_row {
+#rdvpyrkmty .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -217,7 +217,7 @@
   overflow-x: hidden;
 }
 
-#jmrtzitzlx .gt_stub {
+#rdvpyrkmty .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -229,7 +229,7 @@
   padding-left: 12px;
 }
 
-#jmrtzitzlx .gt_summary_row {
+#rdvpyrkmty .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -239,7 +239,7 @@
   padding-right: 5px;
 }
 
-#jmrtzitzlx .gt_first_summary_row {
+#rdvpyrkmty .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -249,7 +249,7 @@
   border-top-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_grand_summary_row {
+#rdvpyrkmty .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -259,7 +259,7 @@
   padding-right: 5px;
 }
 
-#jmrtzitzlx .gt_first_grand_summary_row {
+#rdvpyrkmty .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -269,11 +269,11 @@
   border-top-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_striped {
+#rdvpyrkmty .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jmrtzitzlx .gt_table_body {
+#rdvpyrkmty .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -282,7 +282,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_footnotes {
+#rdvpyrkmty .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -296,13 +296,13 @@
   border-right-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_footnote {
+#rdvpyrkmty .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jmrtzitzlx .gt_sourcenotes {
+#rdvpyrkmty .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -316,46 +316,46 @@
   border-right-color: #D3D3D3;
 }
 
-#jmrtzitzlx .gt_sourcenote {
+#rdvpyrkmty .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jmrtzitzlx .gt_left {
+#rdvpyrkmty .gt_left {
   text-align: left;
 }
 
-#jmrtzitzlx .gt_center {
+#rdvpyrkmty .gt_center {
   text-align: center;
 }
 
-#jmrtzitzlx .gt_right {
+#rdvpyrkmty .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jmrtzitzlx .gt_font_normal {
+#rdvpyrkmty .gt_font_normal {
   font-weight: normal;
 }
 
-#jmrtzitzlx .gt_font_bold {
+#rdvpyrkmty .gt_font_bold {
   font-weight: bold;
 }
 
-#jmrtzitzlx .gt_font_italic {
+#rdvpyrkmty .gt_font_italic {
   font-style: italic;
 }
 
-#jmrtzitzlx .gt_super {
+#rdvpyrkmty .gt_super {
   font-size: 65%;
 }
 
-#jmrtzitzlx .gt_footnote_marks {
+#rdvpyrkmty .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;jmrtzitzlx&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;rdvpyrkmty&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
@@ -545,10 +545,10 @@
     
     <item>
       <title>Etuuksien saajat vuonna 2020</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2020_vuosi_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/02/2020_vuosi_fi/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2020_vuosi_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/02/2020_vuosi_fi/</guid>
       <description>&lt;p&gt;Koronakriisi lisäsi vuonna 2020 eniten työttömyysturvan ja tartuntatautipäivärahan tarvetta. Kelan maksamaa &lt;strong&gt;työttömyysturvaa&lt;/strong&gt; sai vuonna 2020 yhteensä 412 000 saajaa, joista 44 000 oli &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia. Yrittäjät mukaan luettuna työttömyysturvan saajien määrä kasvoi 24 prosentilla vuodesta 2019, ilman yrittäjiä 11 prosenttia. Sellaisia työttömyysturvan saajia, jotka eivät olleet saaneet tukea ensimmäistä tukikuukautta edeltäneiden 12 kuukauden aikana (uudet saajat), oli vuonna 2020 hieman yli 134 000, kun vuonna 2019 heitä oli noin 90 000.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahaa&lt;/strong&gt; maksettiin vuonna 2020 yhteensä 27 100 henkilölle, kun vuonna 2019 sen saajia oli vain 120. Lisäksi keväisten poikkeusolojen ajalta maksettiin &lt;strong&gt;väliaikaista epidemiatukea&lt;/strong&gt; hieman alle 3 000 henkilölle. &lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä sen sijaan laski edellisvuodesta. Sairauspoissaolojen kehityksestä ja koronavuoden vaikutuksesta siihen voi lukea tarkemmin &lt;a href=&#34;https://tutkimusblogi.kela.fi/arkisto/5764&#34;&gt;Kelan tutkimusblogista&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotuen&lt;/strong&gt; saajien ja saajakotitalouksien sekä &lt;strong&gt;yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä kasvoi edellisvuodesta 5 prosentilla. Molemmissa kasvu oli odotettua vähäisempää, mutta tukia sai kuitenkin 2000-luvun ennätysmäärä kotitalouksia ja ruokakuntia. Perustoimeentulotuessa uusia saajia oli 21 000 ja uusia saajakotitalouksia 14 000 enemmän kuin vuonna 2019. Uusia yleistä asumistukea saaneita ruokakuntia oli vuonna 2020 noin 121 000, mikä on 20 500 ruokakuntaa enemmän kuin vuonna 2019.&lt;/p&gt;
@@ -558,7 +558,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#mkontkzcgw .gt_table {
+#deqkmjwmfz .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -583,7 +583,7 @@
   border-left-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_heading {
+#deqkmjwmfz .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -595,7 +595,7 @@
   border-right-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_title {
+#deqkmjwmfz .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -605,7 +605,7 @@
   border-bottom-width: 0;
 }
 
-#mkontkzcgw .gt_subtitle {
+#deqkmjwmfz .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -615,13 +615,13 @@
   border-top-width: 0;
 }
 
-#mkontkzcgw .gt_bottom_border {
+#deqkmjwmfz .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_col_headings {
+#deqkmjwmfz .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -636,7 +636,7 @@
   border-right-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_col_heading {
+#deqkmjwmfz .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -656,7 +656,7 @@
   overflow-x: hidden;
 }
 
-#mkontkzcgw .gt_column_spanner_outer {
+#deqkmjwmfz .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -668,15 +668,15 @@
   padding-right: 4px;
 }
 
-#mkontkzcgw .gt_column_spanner_outer:first-child {
+#deqkmjwmfz .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#mkontkzcgw .gt_column_spanner_outer:last-child {
+#deqkmjwmfz .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#mkontkzcgw .gt_column_spanner {
+#deqkmjwmfz .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -688,7 +688,7 @@
   width: 100%;
 }
 
-#mkontkzcgw .gt_group_heading {
+#deqkmjwmfz .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -710,7 +710,7 @@
   vertical-align: middle;
 }
 
-#mkontkzcgw .gt_empty_group_heading {
+#deqkmjwmfz .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -725,15 +725,15 @@
   vertical-align: middle;
 }
 
-#mkontkzcgw .gt_from_md &gt; :first-child {
+#deqkmjwmfz .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#mkontkzcgw .gt_from_md &gt; :last-child {
+#deqkmjwmfz .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#mkontkzcgw .gt_row {
+#deqkmjwmfz .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -752,7 +752,7 @@
   overflow-x: hidden;
 }
 
-#mkontkzcgw .gt_stub {
+#deqkmjwmfz .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -764,7 +764,7 @@
   padding-left: 12px;
 }
 
-#mkontkzcgw .gt_summary_row {
+#deqkmjwmfz .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -774,7 +774,7 @@
   padding-right: 5px;
 }
 
-#mkontkzcgw .gt_first_summary_row {
+#deqkmjwmfz .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -784,7 +784,7 @@
   border-top-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_grand_summary_row {
+#deqkmjwmfz .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -794,7 +794,7 @@
   padding-right: 5px;
 }
 
-#mkontkzcgw .gt_first_grand_summary_row {
+#deqkmjwmfz .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -804,11 +804,11 @@
   border-top-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_striped {
+#deqkmjwmfz .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#mkontkzcgw .gt_table_body {
+#deqkmjwmfz .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -817,7 +817,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_footnotes {
+#deqkmjwmfz .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -831,13 +831,13 @@
   border-right-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_footnote {
+#deqkmjwmfz .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#mkontkzcgw .gt_sourcenotes {
+#deqkmjwmfz .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -851,46 +851,46 @@
   border-right-color: #D3D3D3;
 }
 
-#mkontkzcgw .gt_sourcenote {
+#deqkmjwmfz .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#mkontkzcgw .gt_left {
+#deqkmjwmfz .gt_left {
   text-align: left;
 }
 
-#mkontkzcgw .gt_center {
+#deqkmjwmfz .gt_center {
   text-align: center;
 }
 
-#mkontkzcgw .gt_right {
+#deqkmjwmfz .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#mkontkzcgw .gt_font_normal {
+#deqkmjwmfz .gt_font_normal {
   font-weight: normal;
 }
 
-#mkontkzcgw .gt_font_bold {
+#deqkmjwmfz .gt_font_bold {
   font-weight: bold;
 }
 
-#mkontkzcgw .gt_font_italic {
+#deqkmjwmfz .gt_font_italic {
   font-style: italic;
 }
 
-#mkontkzcgw .gt_super {
+#deqkmjwmfz .gt_super {
   font-size: 65%;
 }
 
-#mkontkzcgw .gt_footnote_marks {
+#deqkmjwmfz .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;mkontkzcgw&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;deqkmjwmfz&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;8&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat vuonna 2020&lt;/th&gt;
@@ -1009,10 +1009,10 @@
     
     <item>
       <title>Etuuksien saajat joulukuussa</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/01/2020_kuukausi_12_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/01/2020_kuukausi_12_fi/</link>
       <pubDate>Mon, 25 Jan 2021 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/01/2020_kuukausi_12_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/01/2020_kuukausi_12_fi/</guid>
       <description>&lt;p&gt;Joulukuussa 2020 kaikkien seuraamiemme Kelan etuuksien saajamäärät kasvoivat edelliskuusta ja saajia oli kaikissa etuuksissa enemmän kuin vuoden 2019 joulukuussa.&lt;/p&gt;
 &lt;p&gt;Koko syksyn jatkunut laskusuunta &lt;strong&gt;työttömyysturvan&lt;/strong&gt; saajien määrässä pysähtyi ja saajia oli joulukuussa yli 5 000 saajaa marraskuuta enemmän, mikä johtunee loppuvuodesta tiukentuneista rajoituksista. &lt;strong&gt;Yrittäjien työmarkkinatuen&lt;/strong&gt; tarve kasvoi noin tuhannella saajalla marraskuuhun verrattuna.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajien määrä kasvoi marraskuusta vain vähän – 260 ruokakunnalla – ja &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä 3 210 kotitaloudella.&lt;/p&gt;
@@ -1022,7 +1022,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#tuppgbgubq .gt_table {
+#luzdaaqvij .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1047,7 +1047,7 @@
   border-left-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_heading {
+#luzdaaqvij .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1059,7 +1059,7 @@
   border-right-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_title {
+#luzdaaqvij .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1069,7 +1069,7 @@
   border-bottom-width: 0;
 }
 
-#tuppgbgubq .gt_subtitle {
+#luzdaaqvij .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1079,13 +1079,13 @@
   border-top-width: 0;
 }
 
-#tuppgbgubq .gt_bottom_border {
+#luzdaaqvij .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_col_headings {
+#luzdaaqvij .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1100,7 +1100,7 @@
   border-right-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_col_heading {
+#luzdaaqvij .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1120,7 +1120,7 @@
   overflow-x: hidden;
 }
 
-#tuppgbgubq .gt_column_spanner_outer {
+#luzdaaqvij .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1132,15 +1132,15 @@
   padding-right: 4px;
 }
 
-#tuppgbgubq .gt_column_spanner_outer:first-child {
+#luzdaaqvij .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tuppgbgubq .gt_column_spanner_outer:last-child {
+#luzdaaqvij .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tuppgbgubq .gt_column_spanner {
+#luzdaaqvij .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1152,7 +1152,7 @@
   width: 100%;
 }
 
-#tuppgbgubq .gt_group_heading {
+#luzdaaqvij .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1174,7 +1174,7 @@
   vertical-align: middle;
 }
 
-#tuppgbgubq .gt_empty_group_heading {
+#luzdaaqvij .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1189,15 +1189,15 @@
   vertical-align: middle;
 }
 
-#tuppgbgubq .gt_from_md &gt; :first-child {
+#luzdaaqvij .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#tuppgbgubq .gt_from_md &gt; :last-child {
+#luzdaaqvij .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#tuppgbgubq .gt_row {
+#luzdaaqvij .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1216,7 +1216,7 @@
   overflow-x: hidden;
 }
 
-#tuppgbgubq .gt_stub {
+#luzdaaqvij .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1228,7 +1228,7 @@
   padding-left: 12px;
 }
 
-#tuppgbgubq .gt_summary_row {
+#luzdaaqvij .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1238,7 +1238,7 @@
   padding-right: 5px;
 }
 
-#tuppgbgubq .gt_first_summary_row {
+#luzdaaqvij .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1248,7 +1248,7 @@
   border-top-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_grand_summary_row {
+#luzdaaqvij .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1258,7 +1258,7 @@
   padding-right: 5px;
 }
 
-#tuppgbgubq .gt_first_grand_summary_row {
+#luzdaaqvij .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1268,11 +1268,11 @@
   border-top-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_striped {
+#luzdaaqvij .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tuppgbgubq .gt_table_body {
+#luzdaaqvij .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1281,7 +1281,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_footnotes {
+#luzdaaqvij .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1295,13 +1295,13 @@
   border-right-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_footnote {
+#luzdaaqvij .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tuppgbgubq .gt_sourcenotes {
+#luzdaaqvij .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1315,46 +1315,46 @@
   border-right-color: #D3D3D3;
 }
 
-#tuppgbgubq .gt_sourcenote {
+#luzdaaqvij .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tuppgbgubq .gt_left {
+#luzdaaqvij .gt_left {
   text-align: left;
 }
 
-#tuppgbgubq .gt_center {
+#luzdaaqvij .gt_center {
   text-align: center;
 }
 
-#tuppgbgubq .gt_right {
+#luzdaaqvij .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tuppgbgubq .gt_font_normal {
+#luzdaaqvij .gt_font_normal {
   font-weight: normal;
 }
 
-#tuppgbgubq .gt_font_bold {
+#luzdaaqvij .gt_font_bold {
   font-weight: bold;
 }
 
-#tuppgbgubq .gt_font_italic {
+#luzdaaqvij .gt_font_italic {
   font-style: italic;
 }
 
-#tuppgbgubq .gt_super {
+#luzdaaqvij .gt_super {
   font-size: 65%;
 }
 
-#tuppgbgubq .gt_footnote_marks {
+#luzdaaqvij .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;tuppgbgubq&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;luzdaaqvij&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
@@ -1535,10 +1535,10 @@
     
     <item>
       <title>Viikko 49</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_week_49_fi/</link>
+      <link>https://koronamittarit.kela.fi/2020/12/2020_week_49_fi/</link>
       <pubDate>Tue, 08 Dec 2020 10:53:45 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_week_49_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2020/12/2020_week_49_fi/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt; -sivulta löytyvät nyt kaikkien seurattujen etuuksien saajamäärät marraskuulta niin yleisesti kuin &lt;a href=&#34;etuuksien_saajat.html#saajat-maakunnittain&#34;&gt;maakunnittain&lt;/a&gt; ja &lt;a href=&#34;etuuksien_saajat.html#saajat-sukupuolittain-ja-ikäluokittain&#34;&gt;ikäryhmittäin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajaruokakuntien määrä jatkoi kasvuaan ylittäen nyt jo yli 400 000 ruokakunnan rajan. Uusia ruokakuntia ei kuitenkaan tullut tuen piiriin enää yhtä paljon kuin aiemmin.&lt;/p&gt;
 &lt;p&gt;Myös &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä kasvoi edelleen lokakuusta. Saajakotitalouksia oli marraskuussa 3 prosenttia enemmän kuin viime vuoden marraskuussa.&lt;/p&gt;
@@ -1566,10 +1566,10 @@
     
     <item>
       <title>Etuuksien saajat marraskuussa</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_kuukausi_11_fi/</link>
+      <link>https://koronamittarit.kela.fi/2020/12/2020_kuukausi_11_fi/</link>
       <pubDate>Tue, 01 Dec 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_kuukausi_11_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2020/12/2020_kuukausi_11_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä laski edelleen lokakuusta kahdella prosentilla, mutta on edelleen huomattavasti (+18%) suurempi kuin viime vuonna.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yrittäjien työmarkkinatukea&lt;/strong&gt; sai hieman harvempi kuin edelliskuussa, mutta edelleen lähes 21 000 henkilöä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä jatkoi kasvuaan ja nousi ensimmäistä kertaa yli 400 000 ruokakunnan, mikä on yli 30 000 ruokakuntaa enemmän kuin edellisvuoden marraskuussa.&lt;/p&gt;
@@ -2092,18 +2092,18 @@
     
     <item>
       <title>Viikko 47</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_viikko_47_fi/</link>
+      <link>https://koronamittarit.kela.fi/2020/12/2020_viikko_47_fi/</link>
       <pubDate>Tue, 01 Dec 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_viikko_47_fi/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt; -sivulta löytyvät kaikkien seurattujen etuuksien saajamäärät lokakuulta.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sairauspäivärahaa&lt;/strong&gt; lukuun ottamatta muissa etuuksissa oli lokakuussa enemmän saajia kuin vuotta aiemmin. &lt;strong&gt;Yleisen asumistuen&lt;/strong&gt;, &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; ja varsinkin &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä kasvoi myös edelliskuusta. Katso tarkemmat analyysit &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat.html#saajat-maakunnittain&#34;&gt;maakunnittain&lt;/a&gt; ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat.html#saajat-sukupuolittain-ja-ikäluokittain&#34;&gt;ikäryhmittäin&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://koronamittarit.kela.fi/2020/12/2020_viikko_47_fi/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt; -sivulta löytyvät kaikkien seurattujen etuuksien saajamäärät lokakuulta.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sairauspäivärahaa&lt;/strong&gt; lukuun ottamatta muissa etuuksissa oli lokakuussa enemmän saajia kuin vuotta aiemmin. &lt;strong&gt;Yleisen asumistuen&lt;/strong&gt;, &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; ja varsinkin &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä kasvoi myös edelliskuusta. Katso tarkemmat analyysit &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat.html#saajat-maakunnittain&#34;&gt;maakunnittain&lt;/a&gt; ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat.html#saajat-sukupuolittain-ja-ikäluokittain&#34;&gt;ikäryhmittäin&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt;, &lt;strong&gt;yleisen asumistuen&lt;/strong&gt;, &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; ja &lt;strong&gt;sairauspäivärahan&lt;/strong&gt; hakemusmäärissä on ollut edelleen normaalia viikottaista vaihtelua ja viikolla 47 hakemusten määrä kaikissa etuuksissa oli hyvin lähellä edellisvuoden vastaavan viikon hakemusmääriä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yrittäjien työmarkkinatukea&lt;/strong&gt; on loka-marraskuussa hakenut viikottain hieman yli 300 henkilöä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahahakemusten&lt;/strong&gt; määrä kävi tähänastisessa huipussaan 2 500 hakemuksessa viikolla 45, minkä jälkeen hakemusten määrä hieman laski.&lt;/p&gt;
-&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
+&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
 &lt;p&gt;Yksityisen terveydenhuollon &lt;strong&gt;koronavirustutkimuksista&lt;/strong&gt; maksettiin noin 2 000 korvausta molemmilla edellisillä viikoilla.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronatestit/&#34;&gt;Koronatutkimukset&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://koronamittarit.kela.fi/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://koronamittarit.kela.fi/koronatestit/&#34;&gt;Koronatutkimukset&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;{{&lt; blogdown/postref &gt;}}index_files/figure-html/kartta_vko47-1.png&#34; alt=&#34;Karttakuvio jossa esitetään maakuntatasolla tartuntatautipäivärahan kahden viikon hakemusmäärien viimeiseltä kahdelta viikolta ja niitä edeltäneiltä kahdelta viikolta&#34; width=&#34;1152&#34; /&gt;
@@ -2113,23 +2113,23 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tilannekuvakartta_viikko_48.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/tilannekuvakartta_viikko_48.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Viikko 45</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/11/2020_viikko_45_fi/</link>
+      <link>https://koronamittarit.kela.fi/2020/11/2020_viikko_45_fi/</link>
       <pubDate>Tue, 17 Nov 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/11/2020_viikko_45_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2020/11/2020_viikko_45_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt;, &lt;strong&gt;yleisen asumistuen&lt;/strong&gt; ja &lt;strong&gt;perustoimeentulotuen&lt;/strong&gt; hakemusmäärät ovat olleet parin viikon ajan hieman viime vuoden tasoa korkeammalla ja muuten niissä on ollut normaalia viikottaista vaihtelua.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahahakemusten&lt;/strong&gt; määrä on pysytellyt edelleen selvästi viime vuotta matalammalla tasolla.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahahakemusten&lt;/strong&gt; määrä nousi jälleen uusiin ennätyslukemiin viikolla 45, jolloin hakemuksia jätettiin yli 2 000. Hakemuksia on jätetty aiempaa enemmän kaikissa ikäluokissa.&lt;/p&gt;
-&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
+&lt;p&gt;Tilanneseurannan karttakuvassa kuvataan saapuneiden tartuntatautipäivärahahakemusten määrän muutosta verraten kahta viimeisintä viikkoa niitä edeltäneisiin kahteen viikkoon. Tartuntatautipäivärahahakemusten määrä ei suoraan kuvaa epidemian etenemistä (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/data_ja_mittarit/&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt;), mutta hakemusmäärien kehityksessä on kuitenkin havaittavissa selvää tartunta- ja altistumisryppäisiin liittyvää alueellista vaihtelua.&lt;/p&gt;
 &lt;p&gt;Yksityisen terveydenhuollon &lt;strong&gt;koronavirustutkimuksista&lt;/strong&gt; maksettujen korvausten määrä on pysynyt melko tasaisena viikon 41 huipun jälkeen. Tutkimukset on nyt jaoteltu tarkemmin kolmeen ryhmään: antigeenitutkimuksiin, nukleiinihappotutkimus ja vasta-ainetesteihin.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/koronatestit/&#34;&gt;Koronatestit&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Katso ajantasaiset maakunta- ja ikäryhmäkohtaiset tiedot &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Etuushakemukset&lt;/a&gt;- ja &lt;a href=&#34;https://koronamittarit.kela.fi/etuuksien_saajat/&#34;&gt;Etuuksien saajat&lt;/a&gt;-sivuilta. Lääkekorvausten oma tilanneseuranta löytyy &lt;a href=&#34;https://koronamittarit.kela.fi/laakekorvaukset/&#34;&gt;Lääkekorvaukset&lt;/a&gt;-sivulla, Kelan korvaamien yksityisen terveydenhuollon koronatutkimusten lukumäärät &lt;a href=&#34;https://koronamittarit.kela.fi/koronatestit/&#34;&gt;Koronatestit&lt;/a&gt;-sivulla ja Kelan asiakaspalveluun liittyvää tietoa &lt;a href=&#34;https://koronamittarit.kela.fi/asiakaspalvelu/&#34;&gt;Asiakaspalvelu&lt;/a&gt;-sivulla.&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;{{&lt; blogdown/postref &gt;}}index_files/figure-html/kartta_vko46-1.png&#34; alt=&#34;Karttakuvio jossa esitetään maakuntatasolla tartuntatautipäivärahan kahden viikon hakemusmäärien viimeiseltä kahdelta viikolta ja niitä edeltäneiltä kahdelta viikolta&#34; width=&#34;1152&#34; /&gt;
@@ -2139,7 +2139,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tilannekuvakartta_viikko_46.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://koronamittarit.kela.fi/tilannekuvakartta_viikko_46.csv&#34;&gt;Lataa kuvion data&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
