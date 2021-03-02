@@ -11,14 +11,14 @@
 
 
 <meta property="og:title" content="Käyttöesimerkit datan itsenäiskäyttöön R-kielellä" />
-<meta property="og:description" content="code.sourceCode  span { display: inline-block; line-height: 1.25; } code.sourceCode  span { color: inherit; text-decoration: inherit; } code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode { white-space: pre; position: relative; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { code.sourceCode { white-space: pre-wrap; } code.sourceCode  span { text-indent: -5em; padding-left: 5em; } } pre." />
+<meta property="og:description" content="pre  code.sourceCode { white-space: pre; position: relative; } pre  code.sourceCode  span { display: inline-block; line-height: 1.25; } pre  code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode  span { color: inherit; text-decoration: inherit; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { pre  code." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://koronamittarit.kela.fi/esimerkit/" />
 
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Käyttöesimerkit datan itsenäiskäyttöön R-kielellä"/>
-<meta name="twitter:description" content="code.sourceCode  span { display: inline-block; line-height: 1.25; } code.sourceCode  span { color: inherit; text-decoration: inherit; } code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode { white-space: pre; position: relative; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { code.sourceCode { white-space: pre-wrap; } code.sourceCode  span { text-indent: -5em; padding-left: 5em; } } pre."/>
+<meta name="twitter:description" content="pre  code.sourceCode { white-space: pre; position: relative; } pre  code.sourceCode  span { display: inline-block; line-height: 1.25; } pre  code.sourceCode  span:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode  span { color: inherit; text-decoration: inherit; } div.sourceCode { margin: 1em 0; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { pre  code."/>
 
 
 
@@ -190,21 +190,21 @@ tags.async=!0,tags.src="//stat.kela.fi/containers/"+id+".js"+qPString,scripts.pa
 </header>
 <article class="blog-post">
     
-<script src="https://koronamittarit.kela.fi/esimerkit/index_files/accessible-code-block/empty-anchor.js"></script>
+<script src="https://koronamittarit.kela.fi/esimerkit/index_files/header-attrs/header-attrs.js"></script>
 <style type="text/css">
-code.sourceCode > span { display: inline-block; line-height: 1.25; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-code.sourceCode > span:empty { height: 1.2em; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -224,7 +224,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {  background-color: #f8f8f8; }
 @media screen {
-code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ef2929; } /* Alert */
 code span.an { color: #8f5902; font-weight: bold; font-style: italic; } /* Annotation */
@@ -257,7 +257,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 </style>
 
 
-<p><span class="badge badge-kela">Sivu päivitetty <code>2021-03-01 15:18:15</code><br/>Data päivitetty <code>2021-03-01 15:01:38</code></span></p>
+<p><span class="badge badge-kela">Sivu päivitetty <code>2021-03-02 10:08:39</code><br/>Data päivitetty <code>2021-03-02 10:03:29</code></span></p>
 <div id="etuushakemukset-data" class="section level1">
 <h1>Etuushakemukset data</h1>
 <ul>
@@ -267,48 +267,48 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <div id="datan-lukeminen" class="section level2">
 <h2>Datan lukeminen</h2>
 <div class="plot">
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">library</span>(dplyr)</span>
-<span id="cb1-2"><a href="#cb1-2"></a><span class="kw">library</span>(readr)</span>
-<span id="cb1-3"><a href="#cb1-3"></a><span class="kw">library</span>(forcats)</span>
-<span id="cb1-4"><a href="#cb1-4"></a><span class="kw">cols</span>(</span>
-<span id="cb1-5"><a href="#cb1-5"></a>  <span class="dt">etuus =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-6"><a href="#cb1-6"></a>  <span class="dt">vuosi =</span> <span class="kw">col_integer</span>(),</span>
-<span id="cb1-7"><a href="#cb1-7"></a>  <span class="dt">aikatyyppi =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-8"><a href="#cb1-8"></a>  <span class="dt">kuukausi =</span> <span class="kw">col_integer</span>(),</span>
-<span id="cb1-9"><a href="#cb1-9"></a>  <span class="dt">viikko =</span> <span class="kw">col_integer</span>(),</span>
-<span id="cb1-10"><a href="#cb1-10"></a>  <span class="dt">paiva =</span> <span class="kw">col_date</span>(),</span>
-<span id="cb1-11"><a href="#cb1-11"></a>  <span class="dt">viikonpaiva =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-12"><a href="#cb1-12"></a>  <span class="dt">alue =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-13"><a href="#cb1-13"></a>  <span class="dt">ikaluokka =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-14"><a href="#cb1-14"></a>  <span class="dt">sukupuoli =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-15"><a href="#cb1-15"></a>  <span class="dt">saapuneet_hakemukset =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-16"><a href="#cb1-16"></a>  <span class="dt">data =</span> <span class="kw">col_character</span>(),</span>
-<span id="cb1-17"><a href="#cb1-17"></a>  <span class="dt">saajat_kaikki =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-18"><a href="#cb1-18"></a>  <span class="dt">saajat_uudet =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-19"><a href="#cb1-19"></a>  <span class="dt">saajakotitaloudet_kaikki =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-20"><a href="#cb1-20"></a>  <span class="dt">saajakotitaloudet_uudet =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-21"><a href="#cb1-21"></a>  <span class="dt">saajaruokakunnat_kaikki =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-22"><a href="#cb1-22"></a>  <span class="dt">saajaruokakunnat_uudet =</span> <span class="kw">col_double</span>(),</span>
-<span id="cb1-23"><a href="#cb1-23"></a>  <span class="dt">updated =</span> <span class="kw">col_datetime</span>()</span>
-<span id="cb1-24"><a href="#cb1-24"></a>) -&gt;<span class="st"> </span>data_cols</span>
-<span id="cb1-25"><a href="#cb1-25"></a></span>
-<span id="cb1-26"><a href="#cb1-26"></a></span>
-<span id="cb1-27"><a href="#cb1-27"></a>dat &lt;-<span class="st"> </span>readr<span class="op">::</span><span class="kw">read_csv</span>(<span class="st">&quot;https://raw.githubusercontent.com/kelaresearchandanalytics/koronamittarit/master/docs/data/data_etuudet.csv&quot;</span>, </span>
-<span id="cb1-28"><a href="#cb1-28"></a>                       <span class="dt">col_types =</span> data_cols) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb1-29"><a href="#cb1-29"></a><span class="st">  </span><span class="co"># releveloidaan ikäluokka</span></span>
-<span id="cb1-30"><a href="#cb1-30"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">ikaluokka =</span> <span class="kw">factor</span>(ikaluokka),</span>
-<span id="cb1-31"><a href="#cb1-31"></a>         <span class="dt">ikaluokka =</span> <span class="kw">fct_relevel</span>(ikaluokka, <span class="kw">c</span>(<span class="st">&quot;kaikki&quot;</span>,<span class="st">&quot;alle 25&quot;</span>))) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb1-32"><a href="#cb1-32"></a><span class="st">  </span><span class="co"># Etuuksien järjestys</span></span>
-<span id="cb1-33"><a href="#cb1-33"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">etuus =</span> <span class="kw">factor</span>(etuus, <span class="dt">levels =</span> <span class="kw">c</span>(<span class="st">&quot;Työttömyysturva&quot;</span>,</span>
-<span id="cb1-34"><a href="#cb1-34"></a>                                          <span class="st">&quot;Yrittäjien työmarkkinatuki&quot;</span>,</span>
-<span id="cb1-35"><a href="#cb1-35"></a>                                          <span class="st">&quot;Yleinen asumistuki&quot;</span>, </span>
-<span id="cb1-36"><a href="#cb1-36"></a>                                          <span class="st">&quot;Perustoimeentulotuki&quot;</span>,</span>
-<span id="cb1-37"><a href="#cb1-37"></a>                                          <span class="st">&quot;Sairauspäiväraha&quot;</span>,</span>
-<span id="cb1-38"><a href="#cb1-38"></a>                                          <span class="st">&quot;Tartuntatautipäiväraha&quot;</span>,</span>
-<span id="cb1-39"><a href="#cb1-39"></a>                                          <span class="st">&quot;Epidemiatuki&quot;</span>)),</span>
-<span id="cb1-40"><a href="#cb1-40"></a>         <span class="dt">vuosi =</span> <span class="kw">factor</span>(vuosi)) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb1-41"><a href="#cb1-41"></a><span class="st">  </span><span class="kw">arrange</span>(etuus,viikko,paiva)</span>
-<span id="cb1-42"><a href="#cb1-42"></a><span class="kw">head</span>(dat)</span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readr)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(forcats)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="fu">cols</span>(</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">etuus =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">vuosi =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">aikatyyppi =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">kuukausi =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">viikko =</span> <span class="fu">col_integer</span>(),</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">paiva =</span> <span class="fu">col_date</span>(),</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">viikonpaiva =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">alue =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">ikaluokka =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>  <span class="at">sukupuoli =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>  <span class="at">saapuneet_hakemukset =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>  <span class="at">data =</span> <span class="fu">col_character</span>(),</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>  <span class="at">saajat_kaikki =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>  <span class="at">saajat_uudet =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>  <span class="at">saajakotitaloudet_kaikki =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>  <span class="at">saajakotitaloudet_uudet =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>  <span class="at">saajaruokakunnat_kaikki =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>  <span class="at">saajaruokakunnat_uudet =</span> <span class="fu">col_double</span>(),</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>  <span class="at">updated =</span> <span class="fu">col_datetime</span>()</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>) <span class="ot">-&gt;</span> data_cols</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>dat <span class="ot">&lt;-</span> readr<span class="sc">::</span><span class="fu">read_csv</span>(<span class="st">&quot;https://raw.githubusercontent.com/kelaresearchandanalytics/koronamittarit/master/docs/data/data_etuudet.csv&quot;</span>, </span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>                       <span class="at">col_types =</span> data_cols) <span class="sc">%&gt;%</span> </span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>  <span class="co"># releveloidaan ikäluokka</span></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">ikaluokka =</span> <span class="fu">factor</span>(ikaluokka),</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>         <span class="at">ikaluokka =</span> <span class="fu">fct_relevel</span>(ikaluokka, <span class="fu">c</span>(<span class="st">&quot;kaikki&quot;</span>,<span class="st">&quot;alle 25&quot;</span>))) <span class="sc">%&gt;%</span> </span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>  <span class="co"># Etuuksien järjestys</span></span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">etuus =</span> <span class="fu">factor</span>(etuus, <span class="at">levels =</span> <span class="fu">c</span>(<span class="st">&quot;Työttömyysturva&quot;</span>,</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>                                          <span class="st">&quot;Yrittäjien työmarkkinatuki&quot;</span>,</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>                                          <span class="st">&quot;Yleinen asumistuki&quot;</span>, </span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>                                          <span class="st">&quot;Perustoimeentulotuki&quot;</span>,</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>                                          <span class="st">&quot;Sairauspäiväraha&quot;</span>,</span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>                                          <span class="st">&quot;Tartuntatautipäiväraha&quot;</span>,</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>                                          <span class="st">&quot;Epidemiatuki&quot;</span>)),</span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>         <span class="at">vuosi =</span> <span class="fu">factor</span>(vuosi)) <span class="sc">%&gt;%</span> </span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(etuus,viikko,paiva)</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="fu">head</span>(dat)</span></code></pre></div>
 <pre><code>## # A tibble: 6 x 19
 ##   etuus  vuosi aikatyyppi kuukausi viikko paiva      viikonpaiva alue  ikaluokka
 ##   &lt;fct&gt;  &lt;fct&gt; &lt;chr&gt;         &lt;int&gt;  &lt;int&gt; &lt;date&gt;     &lt;chr&gt;       &lt;chr&gt; &lt;fct&gt;    
@@ -327,74 +327,74 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 <div id="aikasarja-viikkotasolla-etuuksittain" class="section level2">
 <h2>Aikasarja viikkotasolla etuuksittain</h2>
 <div class="plot">
-<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">library</span>(ggplot2)</span>
-<span id="cb3-2"><a href="#cb3-2"></a>datplot &lt;-<span class="st"> </span>dat <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb3-3"><a href="#cb3-3"></a><span class="st">  </span>dplyr<span class="op">::</span><span class="kw">filter</span>(aikatyyppi <span class="op">==</span><span class="st"> &quot;viikko&quot;</span>,</span>
-<span id="cb3-4"><a href="#cb3-4"></a>         ikaluokka <span class="op">==</span><span class="st"> &quot;kaikki&quot;</span>,</span>
-<span id="cb3-5"><a href="#cb3-5"></a>         sukupuoli <span class="op">==</span><span class="st"> &quot;kaikki&quot;</span>,</span>
-<span id="cb3-6"><a href="#cb3-6"></a>         alue <span class="op">==</span><span class="st"> &quot;Koko Suomi&quot;</span>) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb3-7"><a href="#cb3-7"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="dt">viikko =</span> <span class="kw">as.integer</span>(viikko))</span>
-<span id="cb3-8"><a href="#cb3-8"></a></span>
-<span id="cb3-9"><a href="#cb3-9"></a><span class="kw">ggplot</span>(datplot, </span>
-<span id="cb3-10"><a href="#cb3-10"></a>       <span class="kw">aes</span>(<span class="dt">x =</span> viikko, </span>
-<span id="cb3-11"><a href="#cb3-11"></a>           <span class="dt">y =</span> saapuneet_hakemukset, </span>
-<span id="cb3-12"><a href="#cb3-12"></a>           <span class="dt">color =</span> vuosi, </span>
-<span id="cb3-13"><a href="#cb3-13"></a>           <span class="dt">fill =</span> vuosi)) <span class="op">+</span></span>
-<span id="cb3-14"><a href="#cb3-14"></a><span class="st">  </span><span class="kw">geom_line</span>() <span class="op">+</span></span>
-<span id="cb3-15"><a href="#cb3-15"></a><span class="st">  </span><span class="kw">geom_point</span>(<span class="dt">shape =</span> <span class="dv">21</span>, <span class="dt">color =</span> <span class="st">&quot;white&quot;</span>, <span class="dt">size =</span> <span class="fl">1.6</span>,  <span class="dt">show.legend =</span> <span class="ot">FALSE</span>) <span class="op">+</span></span>
-<span id="cb3-16"><a href="#cb3-16"></a><span class="st">  </span><span class="kw">facet_wrap</span>(<span class="op">~</span>etuus, <span class="dt">ncol =</span> <span class="dv">1</span>, <span class="dt">scales =</span> <span class="st">&quot;free_y&quot;</span>) <span class="op">+</span></span>
-<span id="cb3-17"><a href="#cb3-17"></a><span class="st">  </span><span class="kw">scale_x_continuous</span>(<span class="dt">breaks =</span> <span class="dv">1</span><span class="op">:</span><span class="kw">max</span>(datplot<span class="op">$</span>viikko)) <span class="op">+</span></span>
-<span id="cb3-18"><a href="#cb3-18"></a><span class="st">        </span><span class="kw">labs</span>(<span class="dt">fill =</span> <span class="ot">NULL</span>, </span>
-<span id="cb3-19"><a href="#cb3-19"></a>             <span class="dt">color =</span> <span class="ot">NULL</span>, </span>
-<span id="cb3-20"><a href="#cb3-20"></a>             <span class="dt">y =</span> <span class="ot">NULL</span>,</span>
-<span id="cb3-21"><a href="#cb3-21"></a>             <span class="dt">title =</span> <span class="st">&quot;Hakemustilanne viikottain&quot;</span>,</span>
-<span id="cb3-22"><a href="#cb3-22"></a>             <span class="dt">subtitle =</span> <span class="st">&quot;Kelaan viikon aikana saapuneet hakemukset&quot;</span>,</span>
-<span id="cb3-23"><a href="#cb3-23"></a>             <span class="dt">x =</span> <span class="st">&quot;Viikko&quot;</span>) <span class="op">+</span></span>
-<span id="cb3-24"><a href="#cb3-24"></a><span class="st">        </span><span class="kw">scale_fill_manual</span>(<span class="dt">values =</span> <span class="kw">c</span>(<span class="st">&quot;#3F679F&quot;</span>,<span class="st">&quot;#F15B23&quot;</span>,<span class="st">&quot;dim grey&quot;</span>)) <span class="op">+</span></span>
-<span id="cb3-25"><a href="#cb3-25"></a><span class="st">        </span><span class="kw">scale_color_manual</span>(<span class="dt">values =</span> <span class="kw">c</span>(<span class="st">&quot;#3F679F&quot;</span>,<span class="st">&quot;#F15B23&quot;</span>,<span class="st">&quot;dim grey&quot;</span>)) <span class="op">+</span></span>
-<span id="cb3-26"><a href="#cb3-26"></a><span class="st">  </span><span class="kw">theme_light</span>() <span class="op">+</span></span>
-<span id="cb3-27"><a href="#cb3-27"></a><span class="st">        </span><span class="kw">theme</span>(<span class="dt">legend.position =</span> <span class="st">&quot;right&quot;</span>, </span>
-<span id="cb3-28"><a href="#cb3-28"></a>              <span class="dt">legend.direction =</span> <span class="st">&quot;vertical&quot;</span>,</span>
-<span id="cb3-29"><a href="#cb3-29"></a>              <span class="dt">panel.grid.minor =</span> <span class="kw">element_blank</span>()) <span class="op">+</span></span>
-<span id="cb3-30"><a href="#cb3-30"></a><span class="st">        </span><span class="kw">scale_y_continuous</span>(<span class="dt">labels =</span> <span class="cf">function</span>(x) <span class="kw">format</span>(x, <span class="dt">big.mark =</span> <span class="st">&quot; &quot;</span>,</span>
-<span id="cb3-31"><a href="#cb3-31"></a>                                                       <span class="dt">scientific =</span> <span class="ot">FALSE</span>),</span>
-<span id="cb3-32"><a href="#cb3-32"></a>                           <span class="dt">limits =</span> <span class="kw">c</span>(<span class="dv">0</span>,<span class="ot">NA</span>))</span></code></pre></div>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>datplot <span class="ot">&lt;-</span> dat <span class="sc">%&gt;%</span> </span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(aikatyyppi <span class="sc">==</span> <span class="st">&quot;viikko&quot;</span>,</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>         ikaluokka <span class="sc">==</span> <span class="st">&quot;kaikki&quot;</span>,</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>         sukupuoli <span class="sc">==</span> <span class="st">&quot;kaikki&quot;</span>,</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>         alue <span class="sc">==</span> <span class="st">&quot;Koko Suomi&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">viikko =</span> <span class="fu">as.integer</span>(viikko))</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(datplot, </span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>       <span class="fu">aes</span>(<span class="at">x =</span> viikko, </span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>           <span class="at">y =</span> saapuneet_hakemukset, </span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>           <span class="at">color =</span> vuosi, </span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>           <span class="at">fill =</span> vuosi)) <span class="sc">+</span></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>() <span class="sc">+</span></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_point</span>(<span class="at">shape =</span> <span class="dv">21</span>, <span class="at">color =</span> <span class="st">&quot;white&quot;</span>, <span class="at">size =</span> <span class="fl">1.6</span>,  <span class="at">show.legend =</span> <span class="cn">FALSE</span>) <span class="sc">+</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span>etuus, <span class="at">ncol =</span> <span class="dv">1</span>, <span class="at">scales =</span> <span class="st">&quot;free_y&quot;</span>) <span class="sc">+</span></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">breaks =</span> <span class="dv">1</span><span class="sc">:</span><span class="fu">max</span>(datplot<span class="sc">$</span>viikko)) <span class="sc">+</span></span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>        <span class="fu">labs</span>(<span class="at">fill =</span> <span class="cn">NULL</span>, </span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>             <span class="at">color =</span> <span class="cn">NULL</span>, </span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>             <span class="at">y =</span> <span class="cn">NULL</span>,</span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>             <span class="at">title =</span> <span class="st">&quot;Hakemustilanne viikottain&quot;</span>,</span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>             <span class="at">subtitle =</span> <span class="st">&quot;Kelaan viikon aikana saapuneet hakemukset&quot;</span>,</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>             <span class="at">x =</span> <span class="st">&quot;Viikko&quot;</span>) <span class="sc">+</span></span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>        <span class="fu">scale_fill_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(<span class="st">&quot;#3F679F&quot;</span>,<span class="st">&quot;#F15B23&quot;</span>,<span class="st">&quot;dim grey&quot;</span>)) <span class="sc">+</span></span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>        <span class="fu">scale_color_manual</span>(<span class="at">values =</span> <span class="fu">c</span>(<span class="st">&quot;#3F679F&quot;</span>,<span class="st">&quot;#F15B23&quot;</span>,<span class="st">&quot;dim grey&quot;</span>)) <span class="sc">+</span></span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_light</span>() <span class="sc">+</span></span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>        <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">&quot;right&quot;</span>, </span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>              <span class="at">legend.direction =</span> <span class="st">&quot;vertical&quot;</span>,</span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>              <span class="at">panel.grid.minor =</span> <span class="fu">element_blank</span>()) <span class="sc">+</span></span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>        <span class="fu">scale_y_continuous</span>(<span class="at">labels =</span> <span class="cf">function</span>(x) <span class="fu">format</span>(x, <span class="at">big.mark =</span> <span class="st">&quot; &quot;</span>,</span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>                                                       <span class="at">scientific =</span> <span class="cn">FALSE</span>),</span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>                           <span class="at">limits =</span> <span class="fu">c</span>(<span class="dv">0</span>,<span class="cn">NA</span>))</span></code></pre></div>
 <img src="https://koronamittarit.kela.fi/esimerkit/index_files/figure-html/aikasarjakuva-1.png" width="864" />
 </div>
 </div>
 <div id="työttömyysturvan-hakemusten-ero-maakunnittain-kartalla-viikolla-14" class="section level2">
 <h2>Työttömyysturvan hakemusten ero maakunnittain kartalla viikolla 14</h2>
 <div class="plot">
-<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1"></a>datplot &lt;-<span class="st"> </span>dat <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb4-2"><a href="#cb4-2"></a><span class="st">  </span>dplyr<span class="op">::</span><span class="kw">filter</span>(aikatyyppi <span class="op">==</span><span class="st"> &quot;viikko&quot;</span>,</span>
-<span id="cb4-3"><a href="#cb4-3"></a>         ikaluokka <span class="op">==</span><span class="st"> &quot;kaikki&quot;</span>,</span>
-<span id="cb4-4"><a href="#cb4-4"></a>         sukupuoli <span class="op">==</span><span class="st"> &quot;kaikki&quot;</span>,</span>
-<span id="cb4-5"><a href="#cb4-5"></a>         alue <span class="op">!=</span><span class="st"> &quot;Koko Suomi&quot;</span>,</span>
-<span id="cb4-6"><a href="#cb4-6"></a>         viikko <span class="op">==</span><span class="st"> </span><span class="dv">14</span>,</span>
-<span id="cb4-7"><a href="#cb4-7"></a>         etuus <span class="op">==</span><span class="st"> &quot;Työttömyysturva&quot;</span>) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb4-8"><a href="#cb4-8"></a><span class="st">  </span><span class="co"># lasketaan ero</span></span>
-<span id="cb4-9"><a href="#cb4-9"></a><span class="st">  </span><span class="kw">group_by</span>(alue) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb4-10"><a href="#cb4-10"></a><span class="st">  </span><span class="kw">arrange</span>(alue,vuosi) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb4-11"><a href="#cb4-11"></a><span class="st">  </span><span class="kw">mutate</span>(<span class="st">`</span><span class="dt">muutos (%)</span><span class="st">`</span> =<span class="st"> </span><span class="kw">round</span>(saapuneet_hakemukset <span class="op">/</span><span class="st"> </span><span class="kw">lag</span>(saapuneet_hakemukset)<span class="op">*</span><span class="dv">100-100</span>,<span class="dv">1</span>)) <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb4-12"><a href="#cb4-12"></a><span class="st">  </span><span class="kw">ungroup</span>() <span class="op">%&gt;%</span><span class="st"> </span></span>
-<span id="cb4-13"><a href="#cb4-13"></a><span class="st">  </span>dplyr<span class="op">::</span><span class="kw">filter</span>(<span class="op">!</span><span class="kw">is.na</span>(<span class="st">`</span><span class="dt">muutos (%)</span><span class="st">`</span>))</span>
-<span id="cb4-14"><a href="#cb4-14"></a></span>
-<span id="cb4-15"><a href="#cb4-15"></a><span class="co"># Haetaan maakuntarajat</span></span>
-<span id="cb4-16"><a href="#cb4-16"></a><span class="kw">library</span>(geofi)</span>
-<span id="cb4-17"><a href="#cb4-17"></a>kunnat &lt;-<span class="st"> </span><span class="kw">get_municipalities</span>()</span>
-<span id="cb4-18"><a href="#cb4-18"></a>mkunnat &lt;-<span class="st"> </span>kunnat <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">group_by</span>(maakunta_name_fi) <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">summarise</span>()</span>
-<span id="cb4-19"><a href="#cb4-19"></a>mapplot &lt;-<span class="st"> </span><span class="kw">left_join</span>(mkunnat,datplot, <span class="dt">by =</span> <span class="kw">c</span>(<span class="st">&quot;maakunta_name_fi&quot;</span> =<span class="st"> &quot;alue&quot;</span>))</span>
-<span id="cb4-20"><a href="#cb4-20"></a></span>
-<span id="cb4-21"><a href="#cb4-21"></a><span class="kw">ggplot</span>(mapplot, <span class="kw">aes</span>(<span class="dt">fill =</span> <span class="st">`</span><span class="dt">muutos (%)</span><span class="st">`</span>, <span class="dt">label =</span> <span class="kw">paste0</span>(maakunta_name_fi,<span class="st">&quot;</span><span class="ch">\n</span><span class="st">&quot;</span>, <span class="st">`</span><span class="dt">muutos (%)</span><span class="st">`</span>,<span class="st">&quot;%&quot;</span>))) <span class="op">+</span></span>
-<span id="cb4-22"><a href="#cb4-22"></a><span class="st">  </span><span class="kw">geom_sf</span>(<span class="dt">color =</span> <span class="kw">alpha</span>(<span class="st">&quot;white&quot;</span>, <span class="dv">1</span><span class="op">/</span><span class="dv">3</span>)) <span class="op">+</span></span>
-<span id="cb4-23"><a href="#cb4-23"></a><span class="st">  </span><span class="kw">scale_fill_viridis_b</span>() <span class="op">+</span></span>
-<span id="cb4-24"><a href="#cb4-24"></a><span class="st">  </span><span class="kw">theme_minimal</span>(<span class="dt">base_family =</span> <span class="st">&quot;PT Sans&quot;</span>) <span class="op">+</span></span>
-<span id="cb4-25"><a href="#cb4-25"></a><span class="st">  </span><span class="kw">geom_sf_label</span>(<span class="dt">size =</span> <span class="dv">3</span>, <span class="dt">color =</span> <span class="st">&quot;white&quot;</span>, <span class="dt">alpha =</span> <span class="fl">.7</span>, <span class="dt">family =</span> <span class="st">&quot;PT Sans&quot;</span>) <span class="op">+</span></span>
-<span id="cb4-26"><a href="#cb4-26"></a><span class="st">  </span><span class="kw">theme</span>(<span class="dt">axis.text =</span> <span class="kw">element_blank</span>(),</span>
-<span id="cb4-27"><a href="#cb4-27"></a>           <span class="dt">axis.title =</span> <span class="kw">element_blank</span>(),</span>
-<span id="cb4-28"><a href="#cb4-28"></a>           <span class="dt">panel.grid =</span> <span class="kw">element_blank</span>()) <span class="op">+</span></span>
-<span id="cb4-29"><a href="#cb4-29"></a><span class="st">  </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="st">&quot;Työttömyysturvan Kelan saapuneiden hakemusten määrien </span><span class="ch">\n</span><span class="st">suhteellinen muutos 2019 vs. 2020 viikolla 14&quot;</span>,</span>
-<span id="cb4-30"><a href="#cb4-30"></a>       <span class="dt">fill =</span> <span class="st">&quot;%&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb4"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>datplot <span class="ot">&lt;-</span> dat <span class="sc">%&gt;%</span> </span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(aikatyyppi <span class="sc">==</span> <span class="st">&quot;viikko&quot;</span>,</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>         ikaluokka <span class="sc">==</span> <span class="st">&quot;kaikki&quot;</span>,</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>         sukupuoli <span class="sc">==</span> <span class="st">&quot;kaikki&quot;</span>,</span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>         alue <span class="sc">!=</span> <span class="st">&quot;Koko Suomi&quot;</span>,</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>         viikko <span class="sc">==</span> <span class="dv">14</span>,</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>         etuus <span class="sc">==</span> <span class="st">&quot;Työttömyysturva&quot;</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="co"># lasketaan ero</span></span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(alue) <span class="sc">%&gt;%</span> </span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(alue,vuosi) <span class="sc">%&gt;%</span> </span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="st">`</span><span class="at">muutos (%)</span><span class="st">`</span> <span class="ot">=</span> <span class="fu">round</span>(saapuneet_hakemukset <span class="sc">/</span> <span class="fu">lag</span>(saapuneet_hakemukset)<span class="sc">*</span><span class="dv">100-100</span>,<span class="dv">1</span>)) <span class="sc">%&gt;%</span> </span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ungroup</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a>  dplyr<span class="sc">::</span><span class="fu">filter</span>(<span class="sc">!</span><span class="fu">is.na</span>(<span class="st">`</span><span class="at">muutos (%)</span><span class="st">`</span>))</span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Haetaan maakuntarajat</span></span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(geofi)</span>
+<span id="cb4-17"><a href="#cb4-17" aria-hidden="true" tabindex="-1"></a>kunnat <span class="ot">&lt;-</span> <span class="fu">get_municipalities</span>()</span>
+<span id="cb4-18"><a href="#cb4-18" aria-hidden="true" tabindex="-1"></a>mkunnat <span class="ot">&lt;-</span> kunnat <span class="sc">%&gt;%</span> <span class="fu">group_by</span>(maakunta_name_fi) <span class="sc">%&gt;%</span> <span class="fu">summarise</span>()</span>
+<span id="cb4-19"><a href="#cb4-19" aria-hidden="true" tabindex="-1"></a>mapplot <span class="ot">&lt;-</span> <span class="fu">left_join</span>(mkunnat,datplot, <span class="at">by =</span> <span class="fu">c</span>(<span class="st">&quot;maakunta_name_fi&quot;</span> <span class="ot">=</span> <span class="st">&quot;alue&quot;</span>))</span>
+<span id="cb4-20"><a href="#cb4-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-21"><a href="#cb4-21" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(mapplot, <span class="fu">aes</span>(<span class="at">fill =</span> <span class="st">`</span><span class="at">muutos (%)</span><span class="st">`</span>, <span class="at">label =</span> <span class="fu">paste0</span>(maakunta_name_fi,<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>, <span class="st">`</span><span class="at">muutos (%)</span><span class="st">`</span>,<span class="st">&quot;%&quot;</span>))) <span class="sc">+</span></span>
+<span id="cb4-22"><a href="#cb4-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_sf</span>(<span class="at">color =</span> <span class="fu">alpha</span>(<span class="st">&quot;white&quot;</span>, <span class="dv">1</span><span class="sc">/</span><span class="dv">3</span>)) <span class="sc">+</span></span>
+<span id="cb4-23"><a href="#cb4-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_fill_viridis_b</span>() <span class="sc">+</span></span>
+<span id="cb4-24"><a href="#cb4-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>(<span class="at">base_family =</span> <span class="st">&quot;PT Sans&quot;</span>) <span class="sc">+</span></span>
+<span id="cb4-25"><a href="#cb4-25" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_sf_label</span>(<span class="at">size =</span> <span class="dv">3</span>, <span class="at">color =</span> <span class="st">&quot;white&quot;</span>, <span class="at">alpha =</span> .<span class="dv">7</span>, <span class="at">family =</span> <span class="st">&quot;PT Sans&quot;</span>) <span class="sc">+</span></span>
+<span id="cb4-26"><a href="#cb4-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">axis.text =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb4-27"><a href="#cb4-27" aria-hidden="true" tabindex="-1"></a>           <span class="at">axis.title =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb4-28"><a href="#cb4-28" aria-hidden="true" tabindex="-1"></a>           <span class="at">panel.grid =</span> <span class="fu">element_blank</span>()) <span class="sc">+</span></span>
+<span id="cb4-29"><a href="#cb4-29" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">&quot;Työttömyysturvan Kelan saapuneiden hakemusten määrien </span><span class="sc">\n</span><span class="st">suhteellinen muutos 2019 vs. 2020 viikolla 14&quot;</span>,</span>
+<span id="cb4-30"><a href="#cb4-30" aria-hidden="true" tabindex="-1"></a>       <span class="at">fill =</span> <span class="st">&quot;%&quot;</span>)</span></code></pre></div>
 </div>
 <div class="plot">
 <img src="https://koronamittarit.kela.fi/esimerkit/index_files/figure-html/kartta2-1.png" width="672" />
