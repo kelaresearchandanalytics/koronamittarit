@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sairauspäiväraha on Kelan koronamittarit</title>
-    <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tags/sairausp%C3%A4iv%C3%A4raha/</link>
+    <link>https://koronamittarit.kela.fi/tags/sairausp%C3%A4iv%C3%A4raha/</link>
     <description>Recent content in sairauspäiväraha on Kelan koronamittarit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 10:01:01 +0000</lastBuildDate><atom:link href="https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/tags/sairausp%C3%A4iv%C3%A4raha/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Mar 2021 10:01:01 +0000</lastBuildDate><atom:link href="https://koronamittarit.kela.fi/tags/sairausp%C3%A4iv%C3%A4raha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Etuuksien saajat helmikuussa 2021</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/03/2021_kuukausi_2_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/03/2021_kuukausi_2_fi/</link>
       <pubDate>Sun, 14 Mar 2021 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/03/2021_kuukausi_2_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/03/2021_kuukausi_2_fi/</guid>
       <description>&lt;p&gt;Helmikuussa 2021 &lt;strong&gt;työttömyysturvaa&lt;/strong&gt; sai kaikkiaan yli 33 400 henkilöä enemmän kuin helmikuussa 2020. Saajia oli hieman vähemmän kuin vuoden ensimmäisenä kuukautena. &lt;strong&gt;Yrittäjien työmarkkinatuen&lt;/strong&gt; saajia oli 21 300, mikä on niin ikään hieman vähemmän kuin tammikuussa.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä on pysynyt hyvin tasaisena 402 000–403 000 ruokakunnassa marraskuusta lähtien.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saavia kotitalouksia oli noin 3 000 enemmän kuin edelliskuussa ja vuotta aiemmin. Tukea saavien henkilöiden määrä sen sijaan on hieman pienempi kuin edellisvuoden helmikuussa. Tämä johtuu siitä, että kotitalouksien joukossa on nyt selvästi enemmän yksin asuvien kotitalouksia kuin vuoden 2020 helmikuussa. Tukea saavien useamman hengen kotitalouksien määrä sen sijaan on hieman laskenut.&lt;/p&gt;
@@ -22,7 +22,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#thigujpivp .gt_table {
+#oawysjcspx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -47,7 +47,7 @@
   border-left-color: #D3D3D3;
 }
 
-#thigujpivp .gt_heading {
+#oawysjcspx .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -59,7 +59,7 @@
   border-right-color: #D3D3D3;
 }
 
-#thigujpivp .gt_title {
+#oawysjcspx .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -69,7 +69,7 @@
   border-bottom-width: 0;
 }
 
-#thigujpivp .gt_subtitle {
+#oawysjcspx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -79,13 +79,13 @@
   border-top-width: 0;
 }
 
-#thigujpivp .gt_bottom_border {
+#oawysjcspx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#thigujpivp .gt_col_headings {
+#oawysjcspx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -100,7 +100,7 @@
   border-right-color: #D3D3D3;
 }
 
-#thigujpivp .gt_col_heading {
+#oawysjcspx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -120,7 +120,7 @@
   overflow-x: hidden;
 }
 
-#thigujpivp .gt_column_spanner_outer {
+#oawysjcspx .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -132,15 +132,15 @@
   padding-right: 4px;
 }
 
-#thigujpivp .gt_column_spanner_outer:first-child {
+#oawysjcspx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#thigujpivp .gt_column_spanner_outer:last-child {
+#oawysjcspx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#thigujpivp .gt_column_spanner {
+#oawysjcspx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -152,7 +152,7 @@
   width: 100%;
 }
 
-#thigujpivp .gt_group_heading {
+#oawysjcspx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -174,7 +174,7 @@
   vertical-align: middle;
 }
 
-#thigujpivp .gt_empty_group_heading {
+#oawysjcspx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -189,15 +189,15 @@
   vertical-align: middle;
 }
 
-#thigujpivp .gt_from_md &gt; :first-child {
+#oawysjcspx .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#thigujpivp .gt_from_md &gt; :last-child {
+#oawysjcspx .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#thigujpivp .gt_row {
+#oawysjcspx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -216,7 +216,7 @@
   overflow-x: hidden;
 }
 
-#thigujpivp .gt_stub {
+#oawysjcspx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -228,7 +228,7 @@
   padding-left: 12px;
 }
 
-#thigujpivp .gt_summary_row {
+#oawysjcspx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -238,7 +238,7 @@
   padding-right: 5px;
 }
 
-#thigujpivp .gt_first_summary_row {
+#oawysjcspx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -248,7 +248,7 @@
   border-top-color: #D3D3D3;
 }
 
-#thigujpivp .gt_grand_summary_row {
+#oawysjcspx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -258,7 +258,7 @@
   padding-right: 5px;
 }
 
-#thigujpivp .gt_first_grand_summary_row {
+#oawysjcspx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -268,11 +268,11 @@
   border-top-color: #D3D3D3;
 }
 
-#thigujpivp .gt_striped {
+#oawysjcspx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#thigujpivp .gt_table_body {
+#oawysjcspx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -281,7 +281,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#thigujpivp .gt_footnotes {
+#oawysjcspx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -295,13 +295,13 @@
   border-right-color: #D3D3D3;
 }
 
-#thigujpivp .gt_footnote {
+#oawysjcspx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#thigujpivp .gt_sourcenotes {
+#oawysjcspx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -315,46 +315,46 @@
   border-right-color: #D3D3D3;
 }
 
-#thigujpivp .gt_sourcenote {
+#oawysjcspx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#thigujpivp .gt_left {
+#oawysjcspx .gt_left {
   text-align: left;
 }
 
-#thigujpivp .gt_center {
+#oawysjcspx .gt_center {
   text-align: center;
 }
 
-#thigujpivp .gt_right {
+#oawysjcspx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#thigujpivp .gt_font_normal {
+#oawysjcspx .gt_font_normal {
   font-weight: normal;
 }
 
-#thigujpivp .gt_font_bold {
+#oawysjcspx .gt_font_bold {
   font-weight: bold;
 }
 
-#thigujpivp .gt_font_italic {
+#oawysjcspx .gt_font_italic {
   font-style: italic;
 }
 
-#thigujpivp .gt_super {
+#oawysjcspx .gt_super {
   font-size: 65%;
 }
 
-#thigujpivp .gt_footnote_marks {
+#oawysjcspx .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;thigujpivp&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;oawysjcspx&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat helmikuussa 2021&lt;/th&gt;
@@ -535,10 +535,10 @@
     
     <item>
       <title>Etuuksien saajat tammikuussa 2021</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2021_month_1_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/02/2021_month_1_fi/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2021_month_1_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/02/2021_month_1_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä pysyi vuoden vaihtuessa lähes ennallaan. Tukea sai tammikuussa 32 000 henkilöä enemmän kuin vuotta aiemmin. Heistä 22 000 oli &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saaneiden kotitalouksien ja henkilöiden määrä laski kahdella prosentilla vuoden vaihtuessa. Saajia oli 895 henkilöä vähemmän kuin vuoden 2019 tammikuussa, mutta kotitalouksia 2 900 enemmän. Saajina on siis enemmän yhden hengen kotitalouksia ja vähemmän useamman hengen kotitalouksia kuin vuotta aiemmin.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä pysyi ennallaan noin 402 000 ruokakunnassa. Tukea sai tammikuussa 28 000 ruokakuntaa enemmän kuin vuotta aiemmin.&lt;/p&gt;
@@ -549,7 +549,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#ufwopisszq .gt_table {
+#jasshvvpio .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -574,7 +574,7 @@
   border-left-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_heading {
+#jasshvvpio .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -586,7 +586,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_title {
+#jasshvvpio .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -596,7 +596,7 @@
   border-bottom-width: 0;
 }
 
-#ufwopisszq .gt_subtitle {
+#jasshvvpio .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -606,13 +606,13 @@
   border-top-width: 0;
 }
 
-#ufwopisszq .gt_bottom_border {
+#jasshvvpio .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_col_headings {
+#jasshvvpio .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -627,7 +627,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_col_heading {
+#jasshvvpio .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -647,7 +647,7 @@
   overflow-x: hidden;
 }
 
-#ufwopisszq .gt_column_spanner_outer {
+#jasshvvpio .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -659,15 +659,15 @@
   padding-right: 4px;
 }
 
-#ufwopisszq .gt_column_spanner_outer:first-child {
+#jasshvvpio .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ufwopisszq .gt_column_spanner_outer:last-child {
+#jasshvvpio .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ufwopisszq .gt_column_spanner {
+#jasshvvpio .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -679,7 +679,7 @@
   width: 100%;
 }
 
-#ufwopisszq .gt_group_heading {
+#jasshvvpio .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -701,7 +701,7 @@
   vertical-align: middle;
 }
 
-#ufwopisszq .gt_empty_group_heading {
+#jasshvvpio .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -716,15 +716,15 @@
   vertical-align: middle;
 }
 
-#ufwopisszq .gt_from_md &gt; :first-child {
+#jasshvvpio .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#ufwopisszq .gt_from_md &gt; :last-child {
+#jasshvvpio .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#ufwopisszq .gt_row {
+#jasshvvpio .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -743,7 +743,7 @@
   overflow-x: hidden;
 }
 
-#ufwopisszq .gt_stub {
+#jasshvvpio .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -755,7 +755,7 @@
   padding-left: 12px;
 }
 
-#ufwopisszq .gt_summary_row {
+#jasshvvpio .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -765,7 +765,7 @@
   padding-right: 5px;
 }
 
-#ufwopisszq .gt_first_summary_row {
+#jasshvvpio .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -775,7 +775,7 @@
   border-top-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_grand_summary_row {
+#jasshvvpio .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -785,7 +785,7 @@
   padding-right: 5px;
 }
 
-#ufwopisszq .gt_first_grand_summary_row {
+#jasshvvpio .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -795,11 +795,11 @@
   border-top-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_striped {
+#jasshvvpio .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ufwopisszq .gt_table_body {
+#jasshvvpio .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -808,7 +808,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_footnotes {
+#jasshvvpio .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -822,13 +822,13 @@
   border-right-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_footnote {
+#jasshvvpio .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ufwopisszq .gt_sourcenotes {
+#jasshvvpio .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -842,46 +842,46 @@
   border-right-color: #D3D3D3;
 }
 
-#ufwopisszq .gt_sourcenote {
+#jasshvvpio .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ufwopisszq .gt_left {
+#jasshvvpio .gt_left {
   text-align: left;
 }
 
-#ufwopisszq .gt_center {
+#jasshvvpio .gt_center {
   text-align: center;
 }
 
-#ufwopisszq .gt_right {
+#jasshvvpio .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ufwopisszq .gt_font_normal {
+#jasshvvpio .gt_font_normal {
   font-weight: normal;
 }
 
-#ufwopisszq .gt_font_bold {
+#jasshvvpio .gt_font_bold {
   font-weight: bold;
 }
 
-#ufwopisszq .gt_font_italic {
+#jasshvvpio .gt_font_italic {
   font-style: italic;
 }
 
-#ufwopisszq .gt_super {
+#jasshvvpio .gt_super {
   font-size: 65%;
 }
 
-#ufwopisszq .gt_footnote_marks {
+#jasshvvpio .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;ufwopisszq&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;jasshvvpio&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
@@ -1071,10 +1071,10 @@
     
     <item>
       <title>Etuuksien saajat vuonna 2020</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2020_vuosi_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/02/2020_vuosi_fi/</link>
       <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/02/2020_vuosi_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/02/2020_vuosi_fi/</guid>
       <description>&lt;p&gt;Koronakriisi lisäsi vuonna 2020 eniten työttömyysturvan ja tartuntatautipäivärahan tarvetta. Kelan maksamaa &lt;strong&gt;työttömyysturvaa&lt;/strong&gt; sai vuonna 2020 yhteensä 412 000 saajaa, joista 44 000 oli &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia. Yrittäjät mukaan luettuna työttömyysturvan saajien määrä kasvoi 24 prosentilla vuodesta 2019, ilman yrittäjiä 11 prosenttia. Sellaisia työttömyysturvan saajia, jotka eivät olleet saaneet tukea ensimmäistä tukikuukautta edeltäneiden 12 kuukauden aikana (uudet saajat), oli vuonna 2020 hieman yli 134 000, kun vuonna 2019 heitä oli noin 90 000.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahaa&lt;/strong&gt; maksettiin vuonna 2020 yhteensä 27 100 henkilölle, kun vuonna 2019 sen saajia oli vain 120. Lisäksi keväisten poikkeusolojen ajalta maksettiin &lt;strong&gt;väliaikaista epidemiatukea&lt;/strong&gt; hieman alle 3 000 henkilölle. &lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä sen sijaan laski edellisvuodesta. Sairauspoissaolojen kehityksestä ja koronavuoden vaikutuksesta siihen voi lukea tarkemmin &lt;a href=&#34;https://tutkimusblogi.kela.fi/arkisto/5764&#34;&gt;Kelan tutkimusblogista&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotuen&lt;/strong&gt; saajien ja saajakotitalouksien sekä &lt;strong&gt;yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä kasvoi edellisvuodesta 5 prosentilla. Molemmissa kasvu oli odotettua vähäisempää, mutta tukia sai kuitenkin 2000-luvun ennätysmäärä kotitalouksia ja ruokakuntia. Perustoimeentulotuessa uusia saajia oli 21 000 ja uusia saajakotitalouksia 14 000 enemmän kuin vuonna 2019. Uusia yleistä asumistukea saaneita ruokakuntia oli vuonna 2020 noin 121 000, mikä on 20 500 ruokakuntaa enemmän kuin vuonna 2019.&lt;/p&gt;
@@ -1084,7 +1084,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#yxazpkqahj .gt_table {
+#djflojbnbt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1109,7 +1109,7 @@
   border-left-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_heading {
+#djflojbnbt .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1121,7 +1121,7 @@
   border-right-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_title {
+#djflojbnbt .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1131,7 +1131,7 @@
   border-bottom-width: 0;
 }
 
-#yxazpkqahj .gt_subtitle {
+#djflojbnbt .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1141,13 +1141,13 @@
   border-top-width: 0;
 }
 
-#yxazpkqahj .gt_bottom_border {
+#djflojbnbt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_col_headings {
+#djflojbnbt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1162,7 +1162,7 @@
   border-right-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_col_heading {
+#djflojbnbt .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1182,7 +1182,7 @@
   overflow-x: hidden;
 }
 
-#yxazpkqahj .gt_column_spanner_outer {
+#djflojbnbt .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1194,15 +1194,15 @@
   padding-right: 4px;
 }
 
-#yxazpkqahj .gt_column_spanner_outer:first-child {
+#djflojbnbt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yxazpkqahj .gt_column_spanner_outer:last-child {
+#djflojbnbt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yxazpkqahj .gt_column_spanner {
+#djflojbnbt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1214,7 +1214,7 @@
   width: 100%;
 }
 
-#yxazpkqahj .gt_group_heading {
+#djflojbnbt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1236,7 +1236,7 @@
   vertical-align: middle;
 }
 
-#yxazpkqahj .gt_empty_group_heading {
+#djflojbnbt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1251,15 +1251,15 @@
   vertical-align: middle;
 }
 
-#yxazpkqahj .gt_from_md &gt; :first-child {
+#djflojbnbt .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#yxazpkqahj .gt_from_md &gt; :last-child {
+#djflojbnbt .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#yxazpkqahj .gt_row {
+#djflojbnbt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1278,7 +1278,7 @@
   overflow-x: hidden;
 }
 
-#yxazpkqahj .gt_stub {
+#djflojbnbt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1290,7 +1290,7 @@
   padding-left: 12px;
 }
 
-#yxazpkqahj .gt_summary_row {
+#djflojbnbt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1300,7 +1300,7 @@
   padding-right: 5px;
 }
 
-#yxazpkqahj .gt_first_summary_row {
+#djflojbnbt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1310,7 +1310,7 @@
   border-top-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_grand_summary_row {
+#djflojbnbt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1320,7 +1320,7 @@
   padding-right: 5px;
 }
 
-#yxazpkqahj .gt_first_grand_summary_row {
+#djflojbnbt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1330,11 +1330,11 @@
   border-top-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_striped {
+#djflojbnbt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yxazpkqahj .gt_table_body {
+#djflojbnbt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1343,7 +1343,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_footnotes {
+#djflojbnbt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1357,13 +1357,13 @@
   border-right-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_footnote {
+#djflojbnbt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#yxazpkqahj .gt_sourcenotes {
+#djflojbnbt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1377,46 +1377,46 @@
   border-right-color: #D3D3D3;
 }
 
-#yxazpkqahj .gt_sourcenote {
+#djflojbnbt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#yxazpkqahj .gt_left {
+#djflojbnbt .gt_left {
   text-align: left;
 }
 
-#yxazpkqahj .gt_center {
+#djflojbnbt .gt_center {
   text-align: center;
 }
 
-#yxazpkqahj .gt_right {
+#djflojbnbt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yxazpkqahj .gt_font_normal {
+#djflojbnbt .gt_font_normal {
   font-weight: normal;
 }
 
-#yxazpkqahj .gt_font_bold {
+#djflojbnbt .gt_font_bold {
   font-weight: bold;
 }
 
-#yxazpkqahj .gt_font_italic {
+#djflojbnbt .gt_font_italic {
   font-style: italic;
 }
 
-#yxazpkqahj .gt_super {
+#djflojbnbt .gt_super {
   font-size: 65%;
 }
 
-#yxazpkqahj .gt_footnote_marks {
+#djflojbnbt .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;yxazpkqahj&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;djflojbnbt&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;8&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat vuonna 2020&lt;/th&gt;
@@ -1535,10 +1535,10 @@
     
     <item>
       <title>Etuuksien saajat joulukuussa</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/01/2020_kuukausi_12_fi/</link>
+      <link>https://koronamittarit.kela.fi/2021/01/2020_kuukausi_12_fi/</link>
       <pubDate>Mon, 25 Jan 2021 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2021/01/2020_kuukausi_12_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2021/01/2020_kuukausi_12_fi/</guid>
       <description>&lt;p&gt;Joulukuussa 2020 kaikkien seuraamiemme Kelan etuuksien saajamäärät kasvoivat edelliskuusta ja saajia oli kaikissa etuuksissa enemmän kuin vuoden 2019 joulukuussa.&lt;/p&gt;
 &lt;p&gt;Koko syksyn jatkunut laskusuunta &lt;strong&gt;työttömyysturvan&lt;/strong&gt; saajien määrässä pysähtyi ja saajia oli joulukuussa yli 5 000 saajaa marraskuuta enemmän, mikä johtunee loppuvuodesta tiukentuneista rajoituksista. &lt;strong&gt;Yrittäjien työmarkkinatuen&lt;/strong&gt; tarve kasvoi noin tuhannella saajalla marraskuuhun verrattuna.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajien määrä kasvoi marraskuusta vain vähän – 260 ruokakunnalla – ja &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä 3 210 kotitaloudella.&lt;/p&gt;
@@ -1548,7 +1548,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#qraurunpys .gt_table {
+#ydwnsafktu .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1573,7 +1573,7 @@
   border-left-color: #D3D3D3;
 }
 
-#qraurunpys .gt_heading {
+#ydwnsafktu .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1585,7 +1585,7 @@
   border-right-color: #D3D3D3;
 }
 
-#qraurunpys .gt_title {
+#ydwnsafktu .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1595,7 +1595,7 @@
   border-bottom-width: 0;
 }
 
-#qraurunpys .gt_subtitle {
+#ydwnsafktu .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1605,13 +1605,13 @@
   border-top-width: 0;
 }
 
-#qraurunpys .gt_bottom_border {
+#ydwnsafktu .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qraurunpys .gt_col_headings {
+#ydwnsafktu .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1626,7 +1626,7 @@
   border-right-color: #D3D3D3;
 }
 
-#qraurunpys .gt_col_heading {
+#ydwnsafktu .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1646,7 +1646,7 @@
   overflow-x: hidden;
 }
 
-#qraurunpys .gt_column_spanner_outer {
+#ydwnsafktu .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1658,15 +1658,15 @@
   padding-right: 4px;
 }
 
-#qraurunpys .gt_column_spanner_outer:first-child {
+#ydwnsafktu .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qraurunpys .gt_column_spanner_outer:last-child {
+#ydwnsafktu .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qraurunpys .gt_column_spanner {
+#ydwnsafktu .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1678,7 +1678,7 @@
   width: 100%;
 }
 
-#qraurunpys .gt_group_heading {
+#ydwnsafktu .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1700,7 +1700,7 @@
   vertical-align: middle;
 }
 
-#qraurunpys .gt_empty_group_heading {
+#ydwnsafktu .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1715,15 +1715,15 @@
   vertical-align: middle;
 }
 
-#qraurunpys .gt_from_md &gt; :first-child {
+#ydwnsafktu .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#qraurunpys .gt_from_md &gt; :last-child {
+#ydwnsafktu .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#qraurunpys .gt_row {
+#ydwnsafktu .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1742,7 +1742,7 @@
   overflow-x: hidden;
 }
 
-#qraurunpys .gt_stub {
+#ydwnsafktu .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1754,7 +1754,7 @@
   padding-left: 12px;
 }
 
-#qraurunpys .gt_summary_row {
+#ydwnsafktu .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1764,7 +1764,7 @@
   padding-right: 5px;
 }
 
-#qraurunpys .gt_first_summary_row {
+#ydwnsafktu .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1774,7 +1774,7 @@
   border-top-color: #D3D3D3;
 }
 
-#qraurunpys .gt_grand_summary_row {
+#ydwnsafktu .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1784,7 +1784,7 @@
   padding-right: 5px;
 }
 
-#qraurunpys .gt_first_grand_summary_row {
+#ydwnsafktu .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1794,11 +1794,11 @@
   border-top-color: #D3D3D3;
 }
 
-#qraurunpys .gt_striped {
+#ydwnsafktu .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qraurunpys .gt_table_body {
+#ydwnsafktu .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1807,7 +1807,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#qraurunpys .gt_footnotes {
+#ydwnsafktu .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1821,13 +1821,13 @@
   border-right-color: #D3D3D3;
 }
 
-#qraurunpys .gt_footnote {
+#ydwnsafktu .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qraurunpys .gt_sourcenotes {
+#ydwnsafktu .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1841,46 +1841,46 @@
   border-right-color: #D3D3D3;
 }
 
-#qraurunpys .gt_sourcenote {
+#ydwnsafktu .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qraurunpys .gt_left {
+#ydwnsafktu .gt_left {
   text-align: left;
 }
 
-#qraurunpys .gt_center {
+#ydwnsafktu .gt_center {
   text-align: center;
 }
 
-#qraurunpys .gt_right {
+#ydwnsafktu .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qraurunpys .gt_font_normal {
+#ydwnsafktu .gt_font_normal {
   font-weight: normal;
 }
 
-#qraurunpys .gt_font_bold {
+#ydwnsafktu .gt_font_bold {
   font-weight: bold;
 }
 
-#qraurunpys .gt_font_italic {
+#ydwnsafktu .gt_font_italic {
   font-style: italic;
 }
 
-#qraurunpys .gt_super {
+#ydwnsafktu .gt_super {
   font-size: 65%;
 }
 
-#qraurunpys .gt_footnote_marks {
+#ydwnsafktu .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;qraurunpys&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;ydwnsafktu&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
@@ -2061,10 +2061,10 @@
     
     <item>
       <title>Etuuksien saajat marraskuussa</title>
-      <link>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_kuukausi_11_fi/</link>
+      <link>https://koronamittarit.kela.fi/2020/12/2020_kuukausi_11_fi/</link>
       <pubDate>Tue, 01 Dec 2020 10:01:01 +0000</pubDate>
       
-      <guid>https://app002.b.rstudio.testikela.fi/~e275ceo/koronamittarit_master/2020/12/2020_kuukausi_11_fi/</guid>
+      <guid>https://koronamittarit.kela.fi/2020/12/2020_kuukausi_11_fi/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä laski edelleen lokakuusta kahdella prosentilla, mutta on edelleen huomattavasti (+18%) suurempi kuin viime vuonna.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yrittäjien työmarkkinatukea&lt;/strong&gt; sai hieman harvempi kuin edelliskuussa, mutta edelleen lähes 21 000 henkilöä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä jatkoi kasvuaan ja nousi ensimmäistä kertaa yli 400 000 ruokakunnan, mikä on yli 30 000 ruokakuntaa enemmän kuin edellisvuoden marraskuussa.&lt;/p&gt;
