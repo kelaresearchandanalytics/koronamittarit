@@ -24,7 +24,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#jzhoryeopt .gt_table {
+#tbrecoacys .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -49,7 +49,7 @@
   border-left-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_heading {
+#tbrecoacys .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -61,7 +61,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_title {
+#tbrecoacys .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -71,7 +71,7 @@
   border-bottom-width: 0;
 }
 
-#jzhoryeopt .gt_subtitle {
+#tbrecoacys .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -81,13 +81,13 @@
   border-top-width: 0;
 }
 
-#jzhoryeopt .gt_bottom_border {
+#tbrecoacys .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_col_headings {
+#tbrecoacys .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -102,7 +102,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_col_heading {
+#tbrecoacys .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -122,7 +122,7 @@
   overflow-x: hidden;
 }
 
-#jzhoryeopt .gt_column_spanner_outer {
+#tbrecoacys .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -134,15 +134,15 @@
   padding-right: 4px;
 }
 
-#jzhoryeopt .gt_column_spanner_outer:first-child {
+#tbrecoacys .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jzhoryeopt .gt_column_spanner_outer:last-child {
+#tbrecoacys .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jzhoryeopt .gt_column_spanner {
+#tbrecoacys .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -154,7 +154,7 @@
   width: 100%;
 }
 
-#jzhoryeopt .gt_group_heading {
+#tbrecoacys .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,7 +176,7 @@
   vertical-align: middle;
 }
 
-#jzhoryeopt .gt_empty_group_heading {
+#tbrecoacys .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -191,15 +191,15 @@
   vertical-align: middle;
 }
 
-#jzhoryeopt .gt_from_md &gt; :first-child {
+#tbrecoacys .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#jzhoryeopt .gt_from_md &gt; :last-child {
+#tbrecoacys .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#jzhoryeopt .gt_row {
+#tbrecoacys .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -218,7 +218,7 @@
   overflow-x: hidden;
 }
 
-#jzhoryeopt .gt_stub {
+#tbrecoacys .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -230,7 +230,7 @@
   padding-left: 12px;
 }
 
-#jzhoryeopt .gt_summary_row {
+#tbrecoacys .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -240,7 +240,7 @@
   padding-right: 5px;
 }
 
-#jzhoryeopt .gt_first_summary_row {
+#tbrecoacys .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -250,7 +250,7 @@
   border-top-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_grand_summary_row {
+#tbrecoacys .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -260,7 +260,7 @@
   padding-right: 5px;
 }
 
-#jzhoryeopt .gt_first_grand_summary_row {
+#tbrecoacys .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -270,11 +270,11 @@
   border-top-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_striped {
+#tbrecoacys .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jzhoryeopt .gt_table_body {
+#tbrecoacys .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -283,7 +283,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_footnotes {
+#tbrecoacys .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -297,13 +297,13 @@
   border-right-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_footnote {
+#tbrecoacys .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jzhoryeopt .gt_sourcenotes {
+#tbrecoacys .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -317,46 +317,46 @@
   border-right-color: #D3D3D3;
 }
 
-#jzhoryeopt .gt_sourcenote {
+#tbrecoacys .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jzhoryeopt .gt_left {
+#tbrecoacys .gt_left {
   text-align: left;
 }
 
-#jzhoryeopt .gt_center {
+#tbrecoacys .gt_center {
   text-align: center;
 }
 
-#jzhoryeopt .gt_right {
+#tbrecoacys .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jzhoryeopt .gt_font_normal {
+#tbrecoacys .gt_font_normal {
   font-weight: normal;
 }
 
-#jzhoryeopt .gt_font_bold {
+#tbrecoacys .gt_font_bold {
   font-weight: bold;
 }
 
-#jzhoryeopt .gt_font_italic {
+#tbrecoacys .gt_font_italic {
   font-style: italic;
 }
 
-#jzhoryeopt .gt_super {
+#tbrecoacys .gt_super {
   font-size: 65%;
 }
 
-#jzhoryeopt .gt_footnote_marks {
+#tbrecoacys .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;jzhoryeopt&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;tbrecoacys&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat maaliskuussa 2021&lt;/th&gt;
@@ -551,7 +551,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#hwemngdltu .gt_table {
+#viixqqyysd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -576,7 +576,7 @@
   border-left-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_heading {
+#viixqqyysd .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -588,7 +588,7 @@
   border-right-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_title {
+#viixqqyysd .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -598,7 +598,7 @@
   border-bottom-width: 0;
 }
 
-#hwemngdltu .gt_subtitle {
+#viixqqyysd .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -608,13 +608,13 @@
   border-top-width: 0;
 }
 
-#hwemngdltu .gt_bottom_border {
+#viixqqyysd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_col_headings {
+#viixqqyysd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -629,7 +629,7 @@
   border-right-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_col_heading {
+#viixqqyysd .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -649,7 +649,7 @@
   overflow-x: hidden;
 }
 
-#hwemngdltu .gt_column_spanner_outer {
+#viixqqyysd .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -661,15 +661,15 @@
   padding-right: 4px;
 }
 
-#hwemngdltu .gt_column_spanner_outer:first-child {
+#viixqqyysd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#hwemngdltu .gt_column_spanner_outer:last-child {
+#viixqqyysd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#hwemngdltu .gt_column_spanner {
+#viixqqyysd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -681,7 +681,7 @@
   width: 100%;
 }
 
-#hwemngdltu .gt_group_heading {
+#viixqqyysd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -703,7 +703,7 @@
   vertical-align: middle;
 }
 
-#hwemngdltu .gt_empty_group_heading {
+#viixqqyysd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -718,15 +718,15 @@
   vertical-align: middle;
 }
 
-#hwemngdltu .gt_from_md &gt; :first-child {
+#viixqqyysd .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#hwemngdltu .gt_from_md &gt; :last-child {
+#viixqqyysd .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#hwemngdltu .gt_row {
+#viixqqyysd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -745,7 +745,7 @@
   overflow-x: hidden;
 }
 
-#hwemngdltu .gt_stub {
+#viixqqyysd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -757,7 +757,7 @@
   padding-left: 12px;
 }
 
-#hwemngdltu .gt_summary_row {
+#viixqqyysd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -767,7 +767,7 @@
   padding-right: 5px;
 }
 
-#hwemngdltu .gt_first_summary_row {
+#viixqqyysd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -777,7 +777,7 @@
   border-top-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_grand_summary_row {
+#viixqqyysd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -787,7 +787,7 @@
   padding-right: 5px;
 }
 
-#hwemngdltu .gt_first_grand_summary_row {
+#viixqqyysd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -797,11 +797,11 @@
   border-top-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_striped {
+#viixqqyysd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#hwemngdltu .gt_table_body {
+#viixqqyysd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -810,7 +810,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_footnotes {
+#viixqqyysd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -824,13 +824,13 @@
   border-right-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_footnote {
+#viixqqyysd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#hwemngdltu .gt_sourcenotes {
+#viixqqyysd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -844,46 +844,46 @@
   border-right-color: #D3D3D3;
 }
 
-#hwemngdltu .gt_sourcenote {
+#viixqqyysd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#hwemngdltu .gt_left {
+#viixqqyysd .gt_left {
   text-align: left;
 }
 
-#hwemngdltu .gt_center {
+#viixqqyysd .gt_center {
   text-align: center;
 }
 
-#hwemngdltu .gt_right {
+#viixqqyysd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#hwemngdltu .gt_font_normal {
+#viixqqyysd .gt_font_normal {
   font-weight: normal;
 }
 
-#hwemngdltu .gt_font_bold {
+#viixqqyysd .gt_font_bold {
   font-weight: bold;
 }
 
-#hwemngdltu .gt_font_italic {
+#viixqqyysd .gt_font_italic {
   font-style: italic;
 }
 
-#hwemngdltu .gt_super {
+#viixqqyysd .gt_super {
   font-size: 65%;
 }
 
-#hwemngdltu .gt_footnote_marks {
+#viixqqyysd .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;hwemngdltu&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;viixqqyysd&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat helmikuussa 2021&lt;/th&gt;
@@ -1078,7 +1078,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#txmrtdjtvq .gt_table {
+#ufioqrjxmp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1103,7 +1103,7 @@
   border-left-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_heading {
+#ufioqrjxmp .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1115,7 +1115,7 @@
   border-right-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_title {
+#ufioqrjxmp .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1125,7 +1125,7 @@
   border-bottom-width: 0;
 }
 
-#txmrtdjtvq .gt_subtitle {
+#ufioqrjxmp .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1135,13 +1135,13 @@
   border-top-width: 0;
 }
 
-#txmrtdjtvq .gt_bottom_border {
+#ufioqrjxmp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_col_headings {
+#ufioqrjxmp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1156,7 +1156,7 @@
   border-right-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_col_heading {
+#ufioqrjxmp .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1176,7 +1176,7 @@
   overflow-x: hidden;
 }
 
-#txmrtdjtvq .gt_column_spanner_outer {
+#ufioqrjxmp .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1188,15 +1188,15 @@
   padding-right: 4px;
 }
 
-#txmrtdjtvq .gt_column_spanner_outer:first-child {
+#ufioqrjxmp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#txmrtdjtvq .gt_column_spanner_outer:last-child {
+#ufioqrjxmp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#txmrtdjtvq .gt_column_spanner {
+#ufioqrjxmp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1208,7 +1208,7 @@
   width: 100%;
 }
 
-#txmrtdjtvq .gt_group_heading {
+#ufioqrjxmp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1230,7 +1230,7 @@
   vertical-align: middle;
 }
 
-#txmrtdjtvq .gt_empty_group_heading {
+#ufioqrjxmp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1245,15 +1245,15 @@
   vertical-align: middle;
 }
 
-#txmrtdjtvq .gt_from_md &gt; :first-child {
+#ufioqrjxmp .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#txmrtdjtvq .gt_from_md &gt; :last-child {
+#ufioqrjxmp .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#txmrtdjtvq .gt_row {
+#ufioqrjxmp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1272,7 +1272,7 @@
   overflow-x: hidden;
 }
 
-#txmrtdjtvq .gt_stub {
+#ufioqrjxmp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1284,7 +1284,7 @@
   padding-left: 12px;
 }
 
-#txmrtdjtvq .gt_summary_row {
+#ufioqrjxmp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1294,7 +1294,7 @@
   padding-right: 5px;
 }
 
-#txmrtdjtvq .gt_first_summary_row {
+#ufioqrjxmp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1304,7 +1304,7 @@
   border-top-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_grand_summary_row {
+#ufioqrjxmp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1314,7 +1314,7 @@
   padding-right: 5px;
 }
 
-#txmrtdjtvq .gt_first_grand_summary_row {
+#ufioqrjxmp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1324,11 +1324,11 @@
   border-top-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_striped {
+#ufioqrjxmp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#txmrtdjtvq .gt_table_body {
+#ufioqrjxmp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1337,7 +1337,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_footnotes {
+#ufioqrjxmp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1351,13 +1351,13 @@
   border-right-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_footnote {
+#ufioqrjxmp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#txmrtdjtvq .gt_sourcenotes {
+#ufioqrjxmp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1371,46 +1371,46 @@
   border-right-color: #D3D3D3;
 }
 
-#txmrtdjtvq .gt_sourcenote {
+#ufioqrjxmp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#txmrtdjtvq .gt_left {
+#ufioqrjxmp .gt_left {
   text-align: left;
 }
 
-#txmrtdjtvq .gt_center {
+#ufioqrjxmp .gt_center {
   text-align: center;
 }
 
-#txmrtdjtvq .gt_right {
+#ufioqrjxmp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#txmrtdjtvq .gt_font_normal {
+#ufioqrjxmp .gt_font_normal {
   font-weight: normal;
 }
 
-#txmrtdjtvq .gt_font_bold {
+#ufioqrjxmp .gt_font_bold {
   font-weight: bold;
 }
 
-#txmrtdjtvq .gt_font_italic {
+#ufioqrjxmp .gt_font_italic {
   font-style: italic;
 }
 
-#txmrtdjtvq .gt_super {
+#ufioqrjxmp .gt_super {
   font-size: 65%;
 }
 
-#txmrtdjtvq .gt_footnote_marks {
+#ufioqrjxmp .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;txmrtdjtvq&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;ufioqrjxmp&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
@@ -1565,10 +1565,6 @@
 &lt;/div&gt;
 &lt;div id=&#34;saajat-maakunnittain&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Saajat maakunnittain&lt;/h2&gt;
-&lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:auto;&#34; class=&#34;datatables html-widget&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;filter&#34;:&#34;top&#34;,&#34;filterHTML&#34;:&#34;&lt;tr&gt;\n  &lt;td&gt;&lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;number\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n    &lt;div style=\&#34;display: none; position: absolute; width: 200px;\&#34;&gt;\n      &lt;div data-min=\&#34;37\&#34; data-max=\&#34;135786\&#34;&gt;&lt;\/div&gt;\n      &lt;span style=\&#34;float: left;\&#34;&gt;&lt;\/span&gt;\n      &lt;span style=\&#34;float: right;\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n  &lt;td data-type=\&#34;character\&#34; style=\&#34;vertical-align: top;\&#34;&gt;\n    &lt;div class=\&#34;form-group has-feedback\&#34; style=\&#34;margin-bottom: auto;\&#34;&gt;\n      &lt;input type=\&#34;search\&#34; placeholder=\&#34;All\&#34; class=\&#34;form-control\&#34; style=\&#34;width: 100%;\&#34;/&gt;\n      &lt;span class=\&#34;glyphicon glyphicon-remove-circle form-control-feedback\&#34;&gt;&lt;\/span&gt;\n    &lt;\/div&gt;\n  &lt;\/td&gt;\n&lt;\/tr&gt;&#34;,&#34;extensions&#34;:[&#34;Buttons&#34;],&#34;data&#34;:[[&#34;1&#34;,&#34;2&#34;,&#34;3&#34;,&#34;4&#34;,&#34;5&#34;,&#34;6&#34;,&#34;7&#34;,&#34;8&#34;,&#34;9&#34;,&#34;10&#34;,&#34;11&#34;,&#34;12&#34;,&#34;13&#34;,&#34;14&#34;,&#34;15&#34;,&#34;16&#34;,&#34;17&#34;,&#34;18&#34;,&#34;19&#34;,&#34;20&#34;,&#34;21&#34;,&#34;22&#34;,&#34;23&#34;,&#34;24&#34;,&#34;25&#34;,&#34;26&#34;,&#34;27&#34;,&#34;28&#34;,&#34;29&#34;,&#34;30&#34;,&#34;31&#34;,&#34;32&#34;,&#34;33&#34;,&#34;34&#34;,&#34;35&#34;,&#34;36&#34;,&#34;37&#34;,&#34;38&#34;,&#34;39&#34;,&#34;40&#34;,&#34;41&#34;,&#34;42&#34;,&#34;43&#34;,&#34;44&#34;,&#34;45&#34;,&#34;46&#34;,&#34;47&#34;,&#34;48&#34;,&#34;49&#34;,&#34;50&#34;,&#34;51&#34;,&#34;52&#34;,&#34;53&#34;,&#34;54&#34;,&#34;55&#34;,&#34;56&#34;,&#34;57&#34;,&#34;58&#34;,&#34;59&#34;,&#34;60&#34;,&#34;61&#34;,&#34;62&#34;,&#34;63&#34;,&#34;64&#34;,&#34;65&#34;,&#34;66&#34;,&#34;67&#34;,&#34;68&#34;,&#34;69&#34;,&#34;70&#34;,&#34;71&#34;,&#34;72&#34;,&#34;73&#34;,&#34;74&#34;,&#34;75&#34;,&#34;76&#34;,&#34;77&#34;,&#34;78&#34;,&#34;79&#34;,&#34;80&#34;,&#34;81&#34;,&#34;82&#34;,&#34;83&#34;,&#34;84&#34;,&#34;85&#34;,&#34;86&#34;,&#34;87&#34;,&#34;88&#34;,&#34;89&#34;,&#34;90&#34;,&#34;91&#34;,&#34;92&#34;,&#34;93&#34;,&#34;94&#34;,&#34;95&#34;,&#34;96&#34;,&#34;97&#34;,&#34;98&#34;,&#34;99&#34;,&#34;100&#34;,&#34;101&#34;,&#34;102&#34;,&#34;103&#34;,&#34;104&#34;,&#34;105&#34;,&#34;106&#34;,&#34;107&#34;,&#34;108&#34;,&#34;109&#34;,&#34;110&#34;,&#34;111&#34;,&#34;112&#34;,&#34;113&#34;,&#34;114&#34;,&#34;115&#34;,&#34;116&#34;,&#34;117&#34;,&#34;118&#34;,&#34;119&#34;,&#34;120&#34;,&#34;121&#34;,&#34;122&#34;,&#34;123&#34;,&#34;124&#34;,&#34;125&#34;,&#34;126&#34;,&#34;127&#34;,&#34;128&#34;,&#34;129&#34;,&#34;130&#34;,&#34;131&#34;,&#34;132&#34;,&#34;133&#34;,&#34;134&#34;,&#34;135&#34;,&#34;136&#34;,&#34;137&#34;,&#34;138&#34;,&#34;139&#34;,&#34;140&#34;,&#34;141&#34;,&#34;142&#34;,&#34;143&#34;,&#34;144&#34;,&#34;145&#34;,&#34;146&#34;,&#34;147&#34;,&#34;148&#34;,&#34;149&#34;,&#34;150&#34;,&#34;151&#34;,&#34;152&#34;,&#34;153&#34;,&#34;154&#34;,&#34;155&#34;,&#34;156&#34;,&#34;157&#34;,&#34;158&#34;,&#34;159&#34;,&#34;160&#34;,&#34;161&#34;,&#34;162&#34;,&#34;163&#34;,&#34;164&#34;,&#34;165&#34;,&#34;166&#34;,&#34;167&#34;,&#34;168&#34;,&#34;169&#34;,&#34;170&#34;,&#34;171&#34;,&#34;172&#34;,&#34;173&#34;,&#34;174&#34;,&#34;175&#34;,&#34;176&#34;,&#34;177&#34;,&#34;178&#34;,&#34;179&#34;,&#34;180&#34;,&#34;181&#34;,&#34;182&#34;,&#34;183&#34;,&#34;184&#34;,&#34;185&#34;,&#34;186&#34;,&#34;187&#34;,&#34;188&#34;,&#34;189&#34;,&#34;190&#34;,&#34;191&#34;,&#34;192&#34;,&#34;193&#34;,&#34;194&#34;,&#34;195&#34;,&#34;196&#34;,&#34;197&#34;,&#34;198&#34;,&#34;199&#34;,&#34;200&#34;,&#34;201&#34;,&#34;202&#34;,&#34;203&#34;,&#34;204&#34;,&#34;205&#34;,&#34;206&#34;,&#34;207&#34;,&#34;208&#34;,&#34;209&#34;,&#34;210&#34;,&#34;211&#34;,&#34;212&#34;,&#34;213&#34;,&#34;214&#34;,&#34;215&#34;,&#34;216&#34;,&#34;217&#34;,&#34;218&#34;,&#34;219&#34;,&#34;220&#34;,&#34;221&#34;,&#34;222&#34;,&#34;223&#34;,&#34;224&#34;,&#34;225&#34;,&#34;226&#34;,&#34;227&#34;,&#34;228&#34;,&#34;229&#34;,&#34;230&#34;,&#34;231&#34;,&#34;232&#34;,&#34;233&#34;,&#34;234&#34;,&#34;235&#34;,&#34;236&#34;,&#34;237&#34;,&#34;238&#34;,&#34;239&#34;,&#34;240&#34;,&#34;241&#34;,&#34;242&#34;,&#34;243&#34;,&#34;244&#34;,&#34;245&#34;,&#34;246&#34;,&#34;247&#34;,&#34;248&#34;,&#34;249&#34;,&#34;250&#34;,&#34;251&#34;,&#34;252&#34;,&#34;253&#34;,&#34;254&#34;,&#34;255&#34;,&#34;256&#34;,&#34;257&#34;,&#34;258&#34;,&#34;259&#34;,&#34;260&#34;,&#34;261&#34;,&#34;262&#34;,&#34;263&#34;,&#34;264&#34;,&#34;265&#34;,&#34;266&#34;,&#34;267&#34;,&#34;268&#34;,&#34;269&#34;,&#34;270&#34;],[&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (kaikki saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (uudet saajat)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Työttömyysturva (aiemmin tukea saaneet)&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yrittäjien työmarkkinatuki&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (kaikki saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (uudet saajaruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (kaikki saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (uudet saajat)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (kaikki saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (uudet saajakotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Sairauspäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;,&#34;Tartuntatautipäiväraha (kaikki saajat)&#34;],[&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;,&#34;Etelä-Karjala&#34;,&#34;Etelä-Pohjanmaa&#34;,&#34;Etelä-Savo&#34;,&#34;Kainuu&#34;,&#34;Kanta-Häme&#34;,&#34;Keski-Pohjanmaa&#34;,&#34;Keski-Suomi&#34;,&#34;Kymenlaakso&#34;,&#34;Lappi&#34;,&#34;Pirkanmaa&#34;,&#34;Pohjanmaa&#34;,&#34;Pohjois-Karjala&#34;,&#34;Pohjois-Pohjanmaa&#34;,&#34;Pohjois-Savo&#34;,&#34;Päijät-Häme&#34;,&#34;Satakunta&#34;,&#34;Uusimaa&#34;,&#34;Varsinais-Suomi&#34;],[5607,5896,5348,2542,6721,2267,13072,7835,6455,24056,5663,8519,16529,9733,10387,8431,82102,19354,130,200,142,91,179,75,349,159,222,611,196,207,494,296,226,234,2048,613,4981,4971,4758,2242,5921,1973,11666,7095,5407,21441,4974,7707,14755,8545,9362,7328,71746,16815,496,725,448,209,621,219,1057,581,826,2004,493,605,1280,892,799,869,8308,1926,9423,8635,7480,3960,9416,2980,24780,9652,10845,43804,10735,13929,29748,17807,14682,11970,135786,36002,145,179,160,68,153,59,402,164,227,766,170,230,545,335,280,216,2656,641,9278,8456,7320,3892,9263,2921,24378,9488,10618,43038,10565,13699,29203,17472,14402,11754,133130,35361,4018,4327,4040,1865,6244,1444,10732,5856,4523,20724,4235,5598,10830,8901,9683,5382,86118,15948,187,233,153,109,210,73,401,242,246,719,169,224,558,404,303,264,2818,669,3831,4094,3887,1756,6034,1371,10331,5614,4277,20005,4066,5374,10272,8497,9380,5118,83300,15279,2905,3021,2961,1354,4333,1012,7749,4179,3135,14573,2522,3999,7685,6387,6722,3889,53548,10470,152,161,133,90,172,57,336,211,181,592,131,186,455,324,262,214,2253,514,2753,2860,2828,1264,4161,955,7413,3968,2954,13981,2391,3813,7230,6063,6460,3675,51295,9956,1227,2095,1290,787,1749,727,2462,1746,1822,5251,1654,1446,4486,2731,1988,2235,12563,5042,61,329,135,37,188,43,343,300,306,611,417,186,797,183,330,329,3727,1061],[&#34;+5,8&#34;,&#34;+18,9&#34;,&#34;+1,5&#34;,&#34;+0,4&#34;,&#34;+8,4&#34;,&#34;+12,7&#34;,&#34;+8,8&#34;,&#34;+1,1&#34;,&#34;+19,4&#34;,&#34;+12,3&#34;,&#34;+12,3&#34;,&#34;+2,2&#34;,&#34;+5,6&#34;,&#34;+10,9&#34;,&#34;+11,5&#34;,&#34;+10,9&#34;,&#34;+26,9&#34;,&#34;+15,8&#34;,&#34;-33,7&#34;,&#34;-13&#34;,&#34;-32,1&#34;,&#34;-27,8&#34;,&#34;-19&#34;,&#34;-19,4&#34;,&#34;-32,2&#34;,&#34;-29,6&#34;,&#34;-14&#34;,&#34;-18,2&#34;,&#34;+1,6&#34;,&#34;-38,8&#34;,&#34;-27,9&#34;,&#34;-23,1&#34;,&#34;-35,1&#34;,&#34;-25,7&#34;,&#34;-9,9&#34;,&#34;-13,4&#34;,&#34;-2,4&#34;,&#34;+5,1&#34;,&#34;-6&#34;,&#34;-6,9&#34;,&#34;-1&#34;,&#34;+2,8&#34;,&#34;+1,4&#34;,&#34;-5,7&#34;,&#34;+5,1&#34;,&#34;+3,7&#34;,&#34;+2,6&#34;,&#34;-3,6&#34;,&#34;-1,4&#34;,&#34;+1,8&#34;,&#34;+4,4&#34;,&#34;+0,5&#34;,&#34;+14,9&#34;,&#34;+5&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;+6,1&#34;,&#34;+7,3&#34;,&#34;-0,3&#34;,&#34;+1,3&#34;,&#34;+7,1&#34;,&#34;+3,9&#34;,&#34;+5,3&#34;,&#34;0&#34;,&#34;+6,4&#34;,&#34;+8,1&#34;,&#34;+4,2&#34;,&#34;+2,9&#34;,&#34;+5,5&#34;,&#34;+4,6&#34;,&#34;+6,4&#34;,&#34;+3,3&#34;,&#34;+11,4&#34;,&#34;+7,1&#34;,&#34;+22,9&#34;,&#34;+22,6&#34;,&#34;+19,4&#34;,&#34;-5,6&#34;,&#34;-1,9&#34;,&#34;-19,2&#34;,&#34;+10,4&#34;,&#34;-1,8&#34;,&#34;+28,2&#34;,&#34;+16,4&#34;,&#34;+17,2&#34;,&#34;-5,7&#34;,&#34;-5,7&#34;,&#34;+4&#34;,&#34;+20,2&#34;,&#34;+6,9&#34;,&#34;+25,5&#34;,&#34;+22,6&#34;,&#34;+5,8&#34;,&#34;+7,1&#34;,&#34;-0,7&#34;,&#34;+1,4&#34;,&#34;+7,2&#34;,&#34;+4,5&#34;,&#34;+5,2&#34;,&#34;0&#34;,&#34;+6&#34;,&#34;+8&#34;,&#34;+4&#34;,&#34;+3,1&#34;,&#34;+5,8&#34;,&#34;+4,6&#34;,&#34;+6,2&#34;,&#34;+3,2&#34;,&#34;+11,1&#34;,&#34;+6,8&#34;,&#34;-3,5&#34;,&#34;-6,6&#34;,&#34;-6,6&#34;,&#34;-0,9&#34;,&#34;-2,2&#34;,&#34;-3,3&#34;,&#34;-0,3&#34;,&#34;-5,4&#34;,&#34;-2,9&#34;,&#34;-2,5&#34;,&#34;-7&#34;,&#34;-7,3&#34;,&#34;-4,3&#34;,&#34;-5,2&#34;,&#34;-0,7&#34;,&#34;-4,4&#34;,&#34;+4&#34;,&#34;-1,1&#34;,&#34;-31,8&#34;,&#34;-33,2&#34;,&#34;-42,9&#34;,&#34;-21&#34;,&#34;-37,3&#34;,&#34;-44,7&#34;,&#34;-38,2&#34;,&#34;-36,1&#34;,&#34;-31,1&#34;,&#34;-37,4&#34;,&#34;-40,1&#34;,&#34;-46,8&#34;,&#34;-32,4&#34;,&#34;-28,9&#34;,&#34;-28&#34;,&#34;-34&#34;,&#34;-26&#34;,&#34;-33,4&#34;,&#34;-1,5&#34;,&#34;-4,5&#34;,&#34;-4,2&#34;,&#34;+0,7&#34;,&#34;-0,2&#34;,&#34;+0,7&#34;,&#34;+2,1&#34;,&#34;-3,4&#34;,&#34;-0,6&#34;,&#34;-0,5&#34;,&#34;-4,8&#34;,&#34;-4,4&#34;,&#34;-2,1&#34;,&#34;-3,7&#34;,&#34;+0,5&#34;,&#34;-2,1&#34;,&#34;+5,5&#34;,&#34;+1&#34;,&#34;-0,4&#34;,&#34;-2,6&#34;,&#34;-3&#34;,&#34;+0,1&#34;,&#34;+0,4&#34;,&#34;+1&#34;,&#34;+2,3&#34;,&#34;-2,5&#34;,&#34;+0,4&#34;,&#34;+1,1&#34;,&#34;-3,3&#34;,&#34;-4,2&#34;,&#34;-0,8&#34;,&#34;-1,2&#34;,&#34;+1,8&#34;,&#34;-2,2&#34;,&#34;+6,1&#34;,&#34;+1,1&#34;,&#34;-19,6&#34;,&#34;-27,8&#34;,&#34;-34,5&#34;,&#34;-16,7&#34;,&#34;-29,5&#34;,&#34;-28,7&#34;,&#34;-22,9&#34;,&#34;-24,6&#34;,&#34;-27&#34;,&#34;-30,3&#34;,&#34;-30,7&#34;,&#34;-40,4&#34;,&#34;-17,9&#34;,&#34;-23,4&#34;,&#34;-13,5&#34;,&#34;-20,1&#34;,&#34;-12,7&#34;,&#34;-25,5&#34;,&#34;+1&#34;,&#34;-0,7&#34;,&#34;-0,7&#34;,&#34;+1,5&#34;,&#34;+2,2&#34;,&#34;+3,6&#34;,&#34;+3,9&#34;,&#34;-1&#34;,&#34;+2,8&#34;,&#34;+3&#34;,&#34;-1,1&#34;,&#34;-1,2&#34;,&#34;+0,6&#34;,&#34;+0,3&#34;,&#34;+2,5&#34;,&#34;-0,9&#34;,&#34;+7,1&#34;,&#34;+3,1&#34;,&#34;-5,5&#34;,&#34;-9,5&#34;,&#34;-10,8&#34;,&#34;-15,4&#34;,&#34;-13&#34;,&#34;-17,5&#34;,&#34;-15,4&#34;,&#34;-12,2&#34;,&#34;-15,4&#34;,&#34;-11,5&#34;,&#34;-9,7&#34;,&#34;-14,4&#34;,&#34;-14,5&#34;,&#34;-11,4&#34;,&#34;-4,1&#34;,&#34;-3,7&#34;,&#34;-10,4&#34;,&#34;-8,6&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;+6000&#34;,null,null,&#34;+74440&#34;,&#34;+35266,7&#34;],[&#34;+308&#34;,&#34;+936&#34;,&#34;+79&#34;,&#34;+9&#34;,&#34;+520&#34;,&#34;+255&#34;,&#34;+1052&#34;,&#34;+89&#34;,&#34;+1050&#34;,&#34;+2627&#34;,&#34;+622&#34;,&#34;+186&#34;,&#34;+879&#34;,&#34;+958&#34;,&#34;+1073&#34;,&#34;+826&#34;,&#34;+17413&#34;,&#34;+2637&#34;,&#34;-66&#34;,&#34;-30&#34;,&#34;-67&#34;,&#34;-35&#34;,&#34;-42&#34;,&#34;-18&#34;,&#34;-166&#34;,&#34;-67&#34;,&#34;-36&#34;,&#34;-136&#34;,&#34;+3&#34;,&#34;-131&#34;,&#34;-191&#34;,&#34;-89&#34;,&#34;-122&#34;,&#34;-81&#34;,&#34;-225&#34;,&#34;-95&#34;,&#34;-122&#34;,&#34;+241&#34;,&#34;-302&#34;,&#34;-165&#34;,&#34;-59&#34;,&#34;+54&#34;,&#34;+161&#34;,&#34;-425&#34;,&#34;+260&#34;,&#34;+759&#34;,&#34;+126&#34;,&#34;-288&#34;,&#34;-210&#34;,&#34;+155&#34;,&#34;+396&#34;,&#34;+38&#34;,&#34;+9330&#34;,&#34;+806&#34;,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,&#34;+539&#34;,&#34;+590&#34;,&#34;-22&#34;,&#34;+50&#34;,&#34;+622&#34;,&#34;+113&#34;,&#34;+1254&#34;,&#34;-4&#34;,&#34;+651&#34;,&#34;+3299&#34;,&#34;+429&#34;,&#34;+398&#34;,&#34;+1555&#34;,&#34;+780&#34;,&#34;+886&#34;,&#34;+379&#34;,&#34;+13876&#34;,&#34;+2381&#34;,&#34;+27&#34;,&#34;+33&#34;,&#34;+26&#34;,&#34;-4&#34;,&#34;-3&#34;,&#34;-14&#34;,&#34;+38&#34;,&#34;-3&#34;,&#34;+50&#34;,&#34;+108&#34;,&#34;+25&#34;,&#34;-14&#34;,&#34;-33&#34;,&#34;+13&#34;,&#34;+47&#34;,&#34;+14&#34;,&#34;+540&#34;,&#34;+118&#34;,&#34;+512&#34;,&#34;+557&#34;,&#34;-48&#34;,&#34;+54&#34;,&#34;+625&#34;,&#34;+127&#34;,&#34;+1216&#34;,&#34;-1&#34;,&#34;+601&#34;,&#34;+3191&#34;,&#34;+404&#34;,&#34;+412&#34;,&#34;+1588&#34;,&#34;+767&#34;,&#34;+839&#34;,&#34;+365&#34;,&#34;+13336&#34;,&#34;+2263&#34;,&#34;-145&#34;,&#34;-308&#34;,&#34;-284&#34;,&#34;-17&#34;,&#34;-138&#34;,&#34;-50&#34;,&#34;-36&#34;,&#34;-334&#34;,&#34;-136&#34;,&#34;-540&#34;,&#34;-320&#34;,&#34;-444&#34;,&#34;-492&#34;,&#34;-489&#34;,&#34;-73&#34;,&#34;-247&#34;,&#34;+3341&#34;,&#34;-183&#34;,&#34;-87&#34;,&#34;-116&#34;,&#34;-115&#34;,&#34;-29&#34;,&#34;-125&#34;,&#34;-59&#34;,&#34;-248&#34;,&#34;-137&#34;,&#34;-111&#34;,&#34;-430&#34;,&#34;-113&#34;,&#34;-197&#34;,&#34;-268&#34;,&#34;-164&#34;,&#34;-118&#34;,&#34;-136&#34;,&#34;-989&#34;,&#34;-335&#34;,&#34;-58&#34;,&#34;-192&#34;,&#34;-169&#34;,&#34;+12&#34;,&#34;-13&#34;,&#34;+9&#34;,&#34;+212&#34;,&#34;-197&#34;,&#34;-25&#34;,&#34;-110&#34;,&#34;-207&#34;,&#34;-247&#34;,&#34;-224&#34;,&#34;-325&#34;,&#34;+45&#34;,&#34;-111&#34;,&#34;+4330&#34;,&#34;+152&#34;,&#34;-11&#34;,&#34;-81&#34;,&#34;-91&#34;,&#34;+1&#34;,&#34;+19&#34;,&#34;+10&#34;,&#34;+176&#34;,&#34;-109&#34;,&#34;+14&#34;,&#34;+153&#34;,&#34;-85&#34;,&#34;-174&#34;,&#34;-59&#34;,&#34;-79&#34;,&#34;+118&#34;,&#34;-89&#34;,&#34;+3055&#34;,&#34;+119&#34;,&#34;-37&#34;,&#34;-62&#34;,&#34;-70&#34;,&#34;-18&#34;,&#34;-72&#34;,&#34;-23&#34;,&#34;-100&#34;,&#34;-69&#34;,&#34;-67&#34;,&#34;-257&#34;,&#34;-58&#34;,&#34;-126&#34;,&#34;-99&#34;,&#34;-99&#34;,&#34;-41&#34;,&#34;-54&#34;,&#34;-327&#34;,&#34;-176&#34;,&#34;+26&#34;,&#34;-19&#34;,&#34;-21&#34;,&#34;+19&#34;,&#34;+91&#34;,&#34;+33&#34;,&#34;+276&#34;,&#34;-40&#34;,&#34;+81&#34;,&#34;+410&#34;,&#34;-27&#34;,&#34;-48&#34;,&#34;+40&#34;,&#34;+20&#34;,&#34;+159&#34;,&#34;-35&#34;,&#34;+3382&#34;,&#34;+295&#34;,&#34;-72&#34;,&#34;-219&#34;,&#34;-156&#34;,&#34;-143&#34;,&#34;-262&#34;,&#34;-154&#34;,&#34;-448&#34;,&#34;-243&#34;,&#34;-331&#34;,&#34;-679&#34;,&#34;-178&#34;,&#34;-244&#34;,&#34;-758&#34;,&#34;-352&#34;,&#34;-86&#34;,&#34;-87&#34;,&#34;-1453&#34;,&#34;-472&#34;,&#34;+61&#34;,&#34;+329&#34;,&#34;+135&#34;,&#34;+37&#34;,&#34;+188&#34;,&#34;+43&#34;,&#34;+343&#34;,&#34;+300&#34;,&#34;+306&#34;,&#34;+611&#34;,&#34;+417&#34;,&#34;+186&#34;,&#34;+797&#34;,&#34;+180&#34;,&#34;+330&#34;,&#34;+329&#34;,&#34;+3722&#34;,&#34;+1058&#34;],[&#34;+0,1&#34;,&#34;+0,9&#34;,&#34;+0,2&#34;,&#34;+1,7&#34;,&#34;+0,4&#34;,&#34;+1,4&#34;,&#34;-0,4&#34;,&#34;-0,6&#34;,&#34;+0,3&#34;,&#34;0&#34;,&#34;+0,6&#34;,&#34;+0,1&#34;,&#34;+0,7&#34;,&#34;+0,6&#34;,&#34;-0,6&#34;,&#34;+0,4&#34;,&#34;-0,9&#34;,&#34;+0,3&#34;,&#34;+11,1&#34;,&#34;+44,9&#34;,&#34;+17,4&#34;,&#34;+65,5&#34;,&#34;+59,8&#34;,&#34;+41,5&#34;,&#34;+39,6&#34;,&#34;+6&#34;,&#34;+35,4&#34;,&#34;+21&#34;,&#34;+42&#34;,&#34;+42,8&#34;,&#34;+16,8&#34;,&#34;+35,2&#34;,&#34;+13,6&#34;,&#34;+18,2&#34;,&#34;+4,4&#34;,&#34;+37,4&#34;,&#34;-0,2&#34;,&#34;-0,4&#34;,&#34;-0,5&#34;,&#34;-0,3&#34;,&#34;-0,6&#34;,&#34;+0,5&#34;,&#34;-1,3&#34;,&#34;-0,8&#34;,&#34;-1,1&#34;,&#34;-1&#34;,&#34;-0,4&#34;,&#34;-1&#34;,&#34;-0,2&#34;,&#34;-0,3&#34;,&#34;-1,1&#34;,&#34;-0,1&#34;,&#34;-1,3&#34;,&#34;-0,6&#34;,&#34;+0,2&#34;,&#34;+2,1&#34;,&#34;+2,8&#34;,&#34;+6,1&#34;,&#34;-0,5&#34;,&#34;+0,5&#34;,&#34;0&#34;,&#34;0&#34;,&#34;+2,2&#34;,&#34;+5,1&#34;,&#34;-1,6&#34;,&#34;+4,3&#34;,&#34;+6,3&#34;,&#34;+0,1&#34;,&#34;+2,7&#34;,&#34;+0,6&#34;,&#34;+1,1&#34;,&#34;-0,3&#34;,&#34;-0,5&#34;,&#34;+1,4&#34;,&#34;-2,4&#34;,&#34;+0,4&#34;,&#34;-0,4&#34;,&#34;+1,1&#34;,&#34;-0,4&#34;,&#34;-1,7&#34;,&#34;+0,4&#34;,&#34;0&#34;,&#34;-1,8&#34;,&#34;+0,2&#34;,&#34;+0,7&#34;,&#34;+0,9&#34;,&#34;+1,8&#34;,&#34;+0,1&#34;,&#34;-0,2&#34;,&#34;-0,5&#34;,&#34;+2,8&#34;,&#34;0&#34;,&#34;+24&#34;,&#34;+7,9&#34;,&#34;-20,7&#34;,&#34;+11,3&#34;,&#34;+3,9&#34;,&#34;-4,7&#34;,&#34;-0,4&#34;,&#34;+4,4&#34;,&#34;-19&#34;,&#34;-0,9&#34;,&#34;+10,3&#34;,&#34;+11,7&#34;,&#34;+4,5&#34;,&#34;-16,9&#34;,&#34;-8&#34;,&#34;-4,5&#34;,&#34;-0,6&#34;,&#34;+1,5&#34;,&#34;-2,9&#34;,&#34;+0,2&#34;,&#34;0&#34;,&#34;+0,9&#34;,&#34;-0,5&#34;,&#34;-1,7&#34;,&#34;+0,4&#34;,&#34;-0,1&#34;,&#34;-1,5&#34;,&#34;+0,2&#34;,&#34;+0,5&#34;,&#34;+0,7&#34;,&#34;+1,7&#34;,&#34;+0,5&#34;,&#34;0&#34;,&#34;-0,4&#34;,&#34;-1,4&#34;,&#34;-2,7&#34;,&#34;-5,1&#34;,&#34;+0,3&#34;,&#34;-3,4&#34;,&#34;-5,7&#34;,&#34;-1&#34;,&#34;-1,5&#34;,&#34;-3,4&#34;,&#34;-3,2&#34;,&#34;-6,6&#34;,&#34;-4,4&#34;,&#34;-3,6&#34;,&#34;-0,7&#34;,&#34;-1,6&#34;,&#34;-1,8&#34;,&#34;-1,6&#34;,&#34;-2,1&#34;,&#34;+13,3&#34;,&#34;-1,3&#34;,&#34;-25&#34;,&#34;-15,5&#34;,&#34;-16,7&#34;,&#34;-37,6&#34;,&#34;-19,8&#34;,&#34;-14,2&#34;,&#34;-15,5&#34;,&#34;-13&#34;,&#34;-21,8&#34;,&#34;-27,5&#34;,&#34;-4,9&#34;,&#34;-4,5&#34;,&#34;-18,8&#34;,&#34;-9,9&#34;,&#34;-11&#34;,&#34;-17,7&#34;,&#34;-2&#34;,&#34;-2,8&#34;,&#34;-4,1&#34;,&#34;+1,5&#34;,&#34;-2,9&#34;,&#34;-3&#34;,&#34;-0,1&#34;,&#34;-0,9&#34;,&#34;-2,6&#34;,&#34;-2,8&#34;,&#34;-5,8&#34;,&#34;-3,1&#34;,&#34;-3,5&#34;,&#34;-0,6&#34;,&#34;-0,9&#34;,&#34;-1,3&#34;,&#34;-1,2&#34;,&#34;-1,2&#34;,&#34;-1,9&#34;,&#34;-3,3&#34;,&#34;-4,8&#34;,&#34;-1&#34;,&#34;-2,9&#34;,&#34;-4&#34;,&#34;-1,5&#34;,&#34;-1,9&#34;,&#34;-3,9&#34;,&#34;-2,9&#34;,&#34;-7,7&#34;,&#34;-4,9&#34;,&#34;-3,6&#34;,&#34;-1&#34;,&#34;-1,6&#34;,&#34;-2,3&#34;,&#34;-1,7&#34;,&#34;-2,7&#34;,&#34;+10,1&#34;,&#34;-9&#34;,&#34;-20,8&#34;,&#34;-6,2&#34;,&#34;-15,3&#34;,&#34;-17,4&#34;,&#34;-17,6&#34;,&#34;-7,5&#34;,&#34;-21&#34;,&#34;-11,9&#34;,&#34;-17,6&#34;,&#34;-22,2&#34;,&#34;+0,2&#34;,&#34;-6,1&#34;,&#34;-16,3&#34;,&#34;-13&#34;,&#34;-7,8&#34;,&#34;-11,2&#34;,&#34;-2,4&#34;,&#34;-2,9&#34;,&#34;-3,8&#34;,&#34;-0,6&#34;,&#34;-2,3&#34;,&#34;-3&#34;,&#34;-0,6&#34;,&#34;-1,6&#34;,&#34;-2,6&#34;,&#34;-2,5&#34;,&#34;-7,1&#34;,&#34;-3,9&#34;,&#34;-3,8&#34;,&#34;-0,7&#34;,&#34;-0,9&#34;,&#34;-1,6&#34;,&#34;-1,5&#34;,&#34;-2,2&#34;,&#34;-8,6&#34;,&#34;-0,9&#34;,&#34;-13,2&#34;,&#34;-23,4&#34;,&#34;-0,2&#34;,&#34;-20,5&#34;,&#34;-11,4&#34;,&#34;-12,8&#34;,&#34;-20,7&#34;,&#34;-4,5&#34;,&#34;+0,7&#34;,&#34;-12,7&#34;,&#34;-17,3&#34;,&#34;-11,6&#34;,&#34;-10,8&#34;,&#34;-0,4&#34;,&#34;-8,4&#34;,&#34;+4&#34;,&#34;+27,1&#34;,&#34;+34,3&#34;,&#34;+6,3&#34;,&#34;+8,8&#34;,&#34;+10,6&#34;,&#34;-6,5&#34;,&#34;+4,6&#34;,&#34;+85,2&#34;,&#34;-31,4&#34;,&#34;+32,8&#34;,&#34;-48,1&#34;,&#34;+72,2&#34;,&#34;+60&#34;,&#34;-30,2&#34;,&#34;+132,4&#34;,&#34;+85,9&#34;,&#34;+9,9&#34;,&#34;+22,7&#34;],[&#34;+6&#34;,&#34;+55&#34;,&#34;+10&#34;,&#34;+42&#34;,&#34;+30&#34;,&#34;+32&#34;,&#34;-51&#34;,&#34;-46&#34;,&#34;+17&#34;,&#34;-10&#34;,&#34;+32&#34;,&#34;+11&#34;,&#34;+112&#34;,&#34;+56&#34;,&#34;-58&#34;,&#34;+36&#34;,&#34;-759&#34;,&#34;+66&#34;,&#34;+13&#34;,&#34;+62&#34;,&#34;+21&#34;,&#34;+36&#34;,&#34;+67&#34;,&#34;+22&#34;,&#34;+99&#34;,&#34;+9&#34;,&#34;+58&#34;,&#34;+106&#34;,&#34;+58&#34;,&#34;+62&#34;,&#34;+71&#34;,&#34;+77&#34;,&#34;+27&#34;,&#34;+36&#34;,&#34;+87&#34;,&#34;+167&#34;,&#34;-8&#34;,&#34;-22&#34;,&#34;-23&#34;,&#34;-6&#34;,&#34;-34&#34;,&#34;+9&#34;,&#34;-150&#34;,&#34;-55&#34;,&#34;-59&#34;,&#34;-214&#34;,&#34;-18&#34;,&#34;-76&#34;,&#34;-35&#34;,&#34;-22&#34;,&#34;-106&#34;,&#34;-5&#34;,&#34;-933&#34;,&#34;-95&#34;,&#34;+1&#34;,&#34;+15&#34;,&#34;+12&#34;,&#34;+12&#34;,&#34;-3&#34;,&#34;+1&#34;,&#34;0&#34;,&#34;0&#34;,&#34;+18&#34;,&#34;+98&#34;,&#34;-8&#34;,&#34;+25&#34;,&#34;+76&#34;,&#34;+1&#34;,&#34;+21&#34;,&#34;+5&#34;,&#34;+87&#34;,&#34;-6&#34;,&#34;-51&#34;,&#34;+122&#34;,&#34;-184&#34;,&#34;+14&#34;,&#34;-38&#34;,&#34;+31&#34;,&#34;-109&#34;,&#34;-170&#34;,&#34;+43&#34;,&#34;-20&#34;,&#34;-201&#34;,&#34;+32&#34;,&#34;+202&#34;,&#34;+156&#34;,&#34;+259&#34;,&#34;+14&#34;,&#34;-233&#34;,&#34;-167&#34;,&#34;+4&#34;,&#34;0&#34;,&#34;+31&#34;,&#34;+5&#34;,&#34;-40&#34;,&#34;+6&#34;,&#34;+15&#34;,&#34;-8&#34;,&#34;-1&#34;,&#34;+32&#34;,&#34;-40&#34;,&#34;-2&#34;,&#34;+51&#34;,&#34;+35&#34;,&#34;+12&#34;,&#34;-44&#34;,&#34;-231&#34;,&#34;-30&#34;,&#34;-55&#34;,&#34;+122&#34;,&#34;-215&#34;,&#34;+9&#34;,&#34;+2&#34;,&#34;+25&#34;,&#34;-124&#34;,&#34;-162&#34;,&#34;+44&#34;,&#34;-52&#34;,&#34;-161&#34;,&#34;+34&#34;,&#34;+151&#34;,&#34;+121&#34;,&#34;+247&#34;,&#34;+58&#34;,&#34;-2&#34;,&#34;-137&#34;,&#34;-56&#34;,&#34;-122&#34;,&#34;-216&#34;,&#34;+6&#34;,&#34;-220&#34;,&#34;-87&#34;,&#34;-108&#34;,&#34;-91&#34;,&#34;-159&#34;,&#34;-676&#34;,&#34;-297&#34;,&#34;-257&#34;,&#34;-400&#34;,&#34;-67&#34;,&#34;-153&#34;,&#34;-96&#34;,&#34;-1384&#34;,&#34;-337&#34;,&#34;+22&#34;,&#34;-3&#34;,&#34;-51&#34;,&#34;-20&#34;,&#34;-42&#34;,&#34;-44&#34;,&#34;-99&#34;,&#34;-40&#34;,&#34;-45&#34;,&#34;-107&#34;,&#34;-47&#34;,&#34;-85&#34;,&#34;-29&#34;,&#34;-19&#34;,&#34;-70&#34;,&#34;-29&#34;,&#34;-349&#34;,&#34;-144&#34;,&#34;-78&#34;,&#34;-119&#34;,&#34;-165&#34;,&#34;+26&#34;,&#34;-178&#34;,&#34;-43&#34;,&#34;-9&#34;,&#34;-51&#34;,&#34;-114&#34;,&#34;-569&#34;,&#34;-250&#34;,&#34;-172&#34;,&#34;-371&#34;,&#34;-48&#34;,&#34;-83&#34;,&#34;-67&#34;,&#34;-1035&#34;,&#34;-193&#34;,&#34;-55&#34;,&#34;-102&#34;,&#34;-148&#34;,&#34;-14&#34;,&#34;-129&#34;,&#34;-42&#34;,&#34;-120&#34;,&#34;-81&#34;,&#34;-128&#34;,&#34;-435&#34;,&#34;-210&#34;,&#34;-208&#34;,&#34;-284&#34;,&#34;-66&#34;,&#34;-108&#34;,&#34;-92&#34;,&#34;-951&#34;,&#34;-287&#34;,&#34;+14&#34;,&#34;-16&#34;,&#34;-35&#34;,&#34;-6&#34;,&#34;-31&#34;,&#34;-12&#34;,&#34;-72&#34;,&#34;-17&#34;,&#34;-48&#34;,&#34;-80&#34;,&#34;-28&#34;,&#34;-53&#34;,&#34;+1&#34;,&#34;-21&#34;,&#34;-51&#34;,&#34;-32&#34;,&#34;-191&#34;,&#34;-65&#34;,&#34;-69&#34;,&#34;-86&#34;,&#34;-113&#34;,&#34;-8&#34;,&#34;-98&#34;,&#34;-30&#34;,&#34;-48&#34;,&#34;-64&#34;,&#34;-80&#34;,&#34;-355&#34;,&#34;-182&#34;,&#34;-155&#34;,&#34;-285&#34;,&#34;-45&#34;,&#34;-57&#34;,&#34;-60&#34;,&#34;-760&#34;,&#34;-222&#34;,&#34;-116&#34;,&#34;-20&#34;,&#34;-197&#34;,&#34;-241&#34;,&#34;-3&#34;,&#34;-188&#34;,&#34;-316&#34;,&#34;-257&#34;,&#34;-475&#34;,&#34;-249&#34;,&#34;+11&#34;,&#34;-210&#34;,&#34;-938&#34;,&#34;-360&#34;,&#34;-241&#34;,&#34;-9&#34;,&#34;-1153&#34;,&#34;+195&#34;,&#34;+13&#34;,&#34;+84&#34;,&#34;+8&#34;,&#34;+3&#34;,&#34;+18&#34;,&#34;-3&#34;,&#34;+15&#34;,&#34;+138&#34;,&#34;-140&#34;,&#34;+151&#34;,&#34;-386&#34;,&#34;+78&#34;,&#34;+299&#34;,&#34;-79&#34;,&#34;+188&#34;,&#34;+152&#34;,&#34;+336&#34;,&#34;+196&#34;]],&#34;container&#34;:&#34;&lt;table class=\&#34;display\&#34;&gt;\n  &lt;thead&gt;\n    &lt;tr&gt;\n      &lt;th&gt; &lt;\/th&gt;\n      &lt;th&gt;rivinimi&lt;\/th&gt;\n      &lt;th&gt;alue&lt;\/th&gt;\n      &lt;th&gt;saajat&lt;\/th&gt;\n      &lt;th&gt;ero_vuosi_pros&lt;\/th&gt;\n      &lt;th&gt;ero_vuosi_kpl&lt;\/th&gt;\n      &lt;th&gt;ero_kk_pros&lt;\/th&gt;\n      &lt;th&gt;ero_kk_kpl&lt;\/th&gt;\n    &lt;\/tr&gt;\n  &lt;\/thead&gt;\n&lt;\/table&gt;&#34;,&#34;options&#34;:{&#34;dom&#34;:&#34;Bfrtip&#34;,&#34;buttons&#34;:[&#34;copy&#34;,&#34;csv&#34;,&#34;excel&#34;,&#34;pdf&#34;,&#34;print&#34;],&#34;columnDefs&#34;:[{&#34;className&#34;:&#34;dt-right&#34;,&#34;targets&#34;:3},{&#34;orderable&#34;:false,&#34;targets&#34;:0}],&#34;order&#34;:[],&#34;autoWidth&#34;:false,&#34;orderClasses&#34;:false,&#34;orderCellsTop&#34;:true}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;
-&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Työttömyysturvan&lt;/strong&gt; saajien määrä kasvoi joulukuusta yli prosentilla Kainuussa (+1,7 %) ja Keski-Pohjanmaalla (+1,4 %). Muissa maakunnissa saajien määrä kasvoi tai laski alle prosentin. Uudellamaalla työttömyysturvan saajia oli 27 prosenttia ja Lapissa ja Etelä-Pohjanmaalla 19 prosenttia enemmän kuin edellisvuoden tammikuussa. Kainuussa työttömyysturvan saajien määrä on samalla tasolla kuin vuosi sitten. Muissa maakunnissa ero edellisvuoteen oli tammikuussa 1–15 prosenttia.&lt;/p&gt;
 &lt;p&gt;Pohjois-Pohjanmaalla ja Kainuussa oli tammikuussa noin 6 prosenttia enemmän &lt;strong&gt;yrittäjien työmarkkinatuen&lt;/strong&gt; saajia kuin joulukuussa. Pirkanmaalla kasvua oli 5 prosenttia ja Pohjois-Karjalassa 4 prosenttia. Muissa maakunnissa muutokset olivat pienempiä.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saaneiden kotitalouksien määrä laski kaikissa maakunnissa. Suurinta (-7,7 %) lasku oli Pohjanmaalla, Pohjois-Karjalassa (-4,9 %) ja Etelä-Savossa (-4,8 %). Verrattuna edellisvuoden tammikuuhun tukea saavia kotitalouksia oli Uudellamaalla 6 prosenttia enemmän, Keski-Suomessa ja Päijät-Hämeessä 2 prosenttia enemmän ja Pohjois-Karjalassa 4 prosenttia vähemmän. Muissa maakunnissa ero edellisvuoteen oli pienempi.&lt;/p&gt;
@@ -1613,7 +1609,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#jmspqgtoaj .gt_table {
+#vylifqviap .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1638,7 +1634,7 @@
   border-left-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_heading {
+#vylifqviap .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1650,7 +1646,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_title {
+#vylifqviap .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1660,7 +1656,7 @@
   border-bottom-width: 0;
 }
 
-#jmspqgtoaj .gt_subtitle {
+#vylifqviap .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1670,13 +1666,13 @@
   border-top-width: 0;
 }
 
-#jmspqgtoaj .gt_bottom_border {
+#vylifqviap .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_col_headings {
+#vylifqviap .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1691,7 +1687,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_col_heading {
+#vylifqviap .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1711,7 +1707,7 @@
   overflow-x: hidden;
 }
 
-#jmspqgtoaj .gt_column_spanner_outer {
+#vylifqviap .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1723,15 +1719,15 @@
   padding-right: 4px;
 }
 
-#jmspqgtoaj .gt_column_spanner_outer:first-child {
+#vylifqviap .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jmspqgtoaj .gt_column_spanner_outer:last-child {
+#vylifqviap .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jmspqgtoaj .gt_column_spanner {
+#vylifqviap .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1743,7 +1739,7 @@
   width: 100%;
 }
 
-#jmspqgtoaj .gt_group_heading {
+#vylifqviap .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1765,7 +1761,7 @@
   vertical-align: middle;
 }
 
-#jmspqgtoaj .gt_empty_group_heading {
+#vylifqviap .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1780,15 +1776,15 @@
   vertical-align: middle;
 }
 
-#jmspqgtoaj .gt_from_md &gt; :first-child {
+#vylifqviap .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#jmspqgtoaj .gt_from_md &gt; :last-child {
+#vylifqviap .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#jmspqgtoaj .gt_row {
+#vylifqviap .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1807,7 +1803,7 @@
   overflow-x: hidden;
 }
 
-#jmspqgtoaj .gt_stub {
+#vylifqviap .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1819,7 +1815,7 @@
   padding-left: 12px;
 }
 
-#jmspqgtoaj .gt_summary_row {
+#vylifqviap .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1829,7 +1825,7 @@
   padding-right: 5px;
 }
 
-#jmspqgtoaj .gt_first_summary_row {
+#vylifqviap .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1839,7 +1835,7 @@
   border-top-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_grand_summary_row {
+#vylifqviap .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1849,7 +1845,7 @@
   padding-right: 5px;
 }
 
-#jmspqgtoaj .gt_first_grand_summary_row {
+#vylifqviap .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1859,11 +1855,11 @@
   border-top-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_striped {
+#vylifqviap .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jmspqgtoaj .gt_table_body {
+#vylifqviap .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1872,7 +1868,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_footnotes {
+#vylifqviap .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1886,13 +1882,13 @@
   border-right-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_footnote {
+#vylifqviap .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jmspqgtoaj .gt_sourcenotes {
+#vylifqviap .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1906,46 +1902,46 @@
   border-right-color: #D3D3D3;
 }
 
-#jmspqgtoaj .gt_sourcenote {
+#vylifqviap .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jmspqgtoaj .gt_left {
+#vylifqviap .gt_left {
   text-align: left;
 }
 
-#jmspqgtoaj .gt_center {
+#vylifqviap .gt_center {
   text-align: center;
 }
 
-#jmspqgtoaj .gt_right {
+#vylifqviap .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jmspqgtoaj .gt_font_normal {
+#vylifqviap .gt_font_normal {
   font-weight: normal;
 }
 
-#jmspqgtoaj .gt_font_bold {
+#vylifqviap .gt_font_bold {
   font-weight: bold;
 }
 
-#jmspqgtoaj .gt_font_italic {
+#vylifqviap .gt_font_italic {
   font-style: italic;
 }
 
-#jmspqgtoaj .gt_super {
+#vylifqviap .gt_super {
   font-size: 65%;
 }
 
-#jmspqgtoaj .gt_footnote_marks {
+#vylifqviap .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;jmspqgtoaj&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;vylifqviap&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;8&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat vuonna 2020&lt;/th&gt;
@@ -2077,7 +2073,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#dnvxzubyln .gt_table {
+#tfijhdaxqo .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2102,7 +2098,7 @@
   border-left-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_heading {
+#tfijhdaxqo .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2114,7 +2110,7 @@
   border-right-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_title {
+#tfijhdaxqo .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2124,7 +2120,7 @@
   border-bottom-width: 0;
 }
 
-#dnvxzubyln .gt_subtitle {
+#tfijhdaxqo .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2134,13 +2130,13 @@
   border-top-width: 0;
 }
 
-#dnvxzubyln .gt_bottom_border {
+#tfijhdaxqo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_col_headings {
+#tfijhdaxqo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2155,7 +2151,7 @@
   border-right-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_col_heading {
+#tfijhdaxqo .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2175,7 +2171,7 @@
   overflow-x: hidden;
 }
 
-#dnvxzubyln .gt_column_spanner_outer {
+#tfijhdaxqo .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2187,15 +2183,15 @@
   padding-right: 4px;
 }
 
-#dnvxzubyln .gt_column_spanner_outer:first-child {
+#tfijhdaxqo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dnvxzubyln .gt_column_spanner_outer:last-child {
+#tfijhdaxqo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dnvxzubyln .gt_column_spanner {
+#tfijhdaxqo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2207,7 +2203,7 @@
   width: 100%;
 }
 
-#dnvxzubyln .gt_group_heading {
+#tfijhdaxqo .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2229,7 +2225,7 @@
   vertical-align: middle;
 }
 
-#dnvxzubyln .gt_empty_group_heading {
+#tfijhdaxqo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2244,15 +2240,15 @@
   vertical-align: middle;
 }
 
-#dnvxzubyln .gt_from_md &gt; :first-child {
+#tfijhdaxqo .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#dnvxzubyln .gt_from_md &gt; :last-child {
+#tfijhdaxqo .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#dnvxzubyln .gt_row {
+#tfijhdaxqo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2271,7 +2267,7 @@
   overflow-x: hidden;
 }
 
-#dnvxzubyln .gt_stub {
+#tfijhdaxqo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2283,7 +2279,7 @@
   padding-left: 12px;
 }
 
-#dnvxzubyln .gt_summary_row {
+#tfijhdaxqo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2293,7 +2289,7 @@
   padding-right: 5px;
 }
 
-#dnvxzubyln .gt_first_summary_row {
+#tfijhdaxqo .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2303,7 +2299,7 @@
   border-top-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_grand_summary_row {
+#tfijhdaxqo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2313,7 +2309,7 @@
   padding-right: 5px;
 }
 
-#dnvxzubyln .gt_first_grand_summary_row {
+#tfijhdaxqo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2323,11 +2319,11 @@
   border-top-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_striped {
+#tfijhdaxqo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dnvxzubyln .gt_table_body {
+#tfijhdaxqo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2336,7 +2332,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_footnotes {
+#tfijhdaxqo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2350,13 +2346,13 @@
   border-right-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_footnote {
+#tfijhdaxqo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#dnvxzubyln .gt_sourcenotes {
+#tfijhdaxqo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2370,46 +2366,46 @@
   border-right-color: #D3D3D3;
 }
 
-#dnvxzubyln .gt_sourcenote {
+#tfijhdaxqo .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#dnvxzubyln .gt_left {
+#tfijhdaxqo .gt_left {
   text-align: left;
 }
 
-#dnvxzubyln .gt_center {
+#tfijhdaxqo .gt_center {
   text-align: center;
 }
 
-#dnvxzubyln .gt_right {
+#tfijhdaxqo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dnvxzubyln .gt_font_normal {
+#tfijhdaxqo .gt_font_normal {
   font-weight: normal;
 }
 
-#dnvxzubyln .gt_font_bold {
+#tfijhdaxqo .gt_font_bold {
   font-weight: bold;
 }
 
-#dnvxzubyln .gt_font_italic {
+#tfijhdaxqo .gt_font_italic {
   font-style: italic;
 }
 
-#dnvxzubyln .gt_super {
+#tfijhdaxqo .gt_super {
   font-size: 65%;
 }
 
-#dnvxzubyln .gt_footnote_marks {
+#tfijhdaxqo .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;dnvxzubyln&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;tfijhdaxqo&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
