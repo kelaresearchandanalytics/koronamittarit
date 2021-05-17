@@ -24,7 +24,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#nixuouqyaa .gt_table {
+#vyqfukcofx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -49,7 +49,7 @@
   border-left-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_heading {
+#vyqfukcofx .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -61,7 +61,7 @@
   border-right-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_title {
+#vyqfukcofx .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -71,7 +71,7 @@
   border-bottom-width: 0;
 }
 
-#nixuouqyaa .gt_subtitle {
+#vyqfukcofx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -81,13 +81,13 @@
   border-top-width: 0;
 }
 
-#nixuouqyaa .gt_bottom_border {
+#vyqfukcofx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_col_headings {
+#vyqfukcofx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -102,7 +102,7 @@
   border-right-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_col_heading {
+#vyqfukcofx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -122,7 +122,7 @@
   overflow-x: hidden;
 }
 
-#nixuouqyaa .gt_column_spanner_outer {
+#vyqfukcofx .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -134,15 +134,15 @@
   padding-right: 4px;
 }
 
-#nixuouqyaa .gt_column_spanner_outer:first-child {
+#vyqfukcofx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nixuouqyaa .gt_column_spanner_outer:last-child {
+#vyqfukcofx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nixuouqyaa .gt_column_spanner {
+#vyqfukcofx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -154,7 +154,7 @@
   width: 100%;
 }
 
-#nixuouqyaa .gt_group_heading {
+#vyqfukcofx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,7 +176,7 @@
   vertical-align: middle;
 }
 
-#nixuouqyaa .gt_empty_group_heading {
+#vyqfukcofx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -191,15 +191,15 @@
   vertical-align: middle;
 }
 
-#nixuouqyaa .gt_from_md &gt; :first-child {
+#vyqfukcofx .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#nixuouqyaa .gt_from_md &gt; :last-child {
+#vyqfukcofx .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#nixuouqyaa .gt_row {
+#vyqfukcofx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -218,7 +218,7 @@
   overflow-x: hidden;
 }
 
-#nixuouqyaa .gt_stub {
+#vyqfukcofx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -230,7 +230,7 @@
   padding-left: 12px;
 }
 
-#nixuouqyaa .gt_summary_row {
+#vyqfukcofx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -240,7 +240,7 @@
   padding-right: 5px;
 }
 
-#nixuouqyaa .gt_first_summary_row {
+#vyqfukcofx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -250,7 +250,7 @@
   border-top-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_grand_summary_row {
+#vyqfukcofx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -260,7 +260,7 @@
   padding-right: 5px;
 }
 
-#nixuouqyaa .gt_first_grand_summary_row {
+#vyqfukcofx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -270,11 +270,11 @@
   border-top-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_striped {
+#vyqfukcofx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nixuouqyaa .gt_table_body {
+#vyqfukcofx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -283,7 +283,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_footnotes {
+#vyqfukcofx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -297,13 +297,13 @@
   border-right-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_footnote {
+#vyqfukcofx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nixuouqyaa .gt_sourcenotes {
+#vyqfukcofx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -317,46 +317,46 @@
   border-right-color: #D3D3D3;
 }
 
-#nixuouqyaa .gt_sourcenote {
+#vyqfukcofx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nixuouqyaa .gt_left {
+#vyqfukcofx .gt_left {
   text-align: left;
 }
 
-#nixuouqyaa .gt_center {
+#vyqfukcofx .gt_center {
   text-align: center;
 }
 
-#nixuouqyaa .gt_right {
+#vyqfukcofx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nixuouqyaa .gt_font_normal {
+#vyqfukcofx .gt_font_normal {
   font-weight: normal;
 }
 
-#nixuouqyaa .gt_font_bold {
+#vyqfukcofx .gt_font_bold {
   font-weight: bold;
 }
 
-#nixuouqyaa .gt_font_italic {
+#vyqfukcofx .gt_font_italic {
   font-style: italic;
 }
 
-#nixuouqyaa .gt_super {
+#vyqfukcofx .gt_super {
   font-size: 65%;
 }
 
-#nixuouqyaa .gt_footnote_marks {
+#vyqfukcofx .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;nixuouqyaa&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;vyqfukcofx&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat maaliskuussa 2021&lt;/th&gt;
@@ -551,7 +551,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#ogpveskkdb .gt_table {
+#tusbwmtokk .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -576,7 +576,7 @@
   border-left-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_heading {
+#tusbwmtokk .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -588,7 +588,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_title {
+#tusbwmtokk .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -598,7 +598,7 @@
   border-bottom-width: 0;
 }
 
-#ogpveskkdb .gt_subtitle {
+#tusbwmtokk .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -608,13 +608,13 @@
   border-top-width: 0;
 }
 
-#ogpveskkdb .gt_bottom_border {
+#tusbwmtokk .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_col_headings {
+#tusbwmtokk .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -629,7 +629,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_col_heading {
+#tusbwmtokk .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -649,7 +649,7 @@
   overflow-x: hidden;
 }
 
-#ogpveskkdb .gt_column_spanner_outer {
+#tusbwmtokk .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -661,15 +661,15 @@
   padding-right: 4px;
 }
 
-#ogpveskkdb .gt_column_spanner_outer:first-child {
+#tusbwmtokk .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ogpveskkdb .gt_column_spanner_outer:last-child {
+#tusbwmtokk .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ogpveskkdb .gt_column_spanner {
+#tusbwmtokk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -681,7 +681,7 @@
   width: 100%;
 }
 
-#ogpveskkdb .gt_group_heading {
+#tusbwmtokk .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -703,7 +703,7 @@
   vertical-align: middle;
 }
 
-#ogpveskkdb .gt_empty_group_heading {
+#tusbwmtokk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -718,15 +718,15 @@
   vertical-align: middle;
 }
 
-#ogpveskkdb .gt_from_md &gt; :first-child {
+#tusbwmtokk .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#ogpveskkdb .gt_from_md &gt; :last-child {
+#tusbwmtokk .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#ogpveskkdb .gt_row {
+#tusbwmtokk .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -745,7 +745,7 @@
   overflow-x: hidden;
 }
 
-#ogpveskkdb .gt_stub {
+#tusbwmtokk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -757,7 +757,7 @@
   padding-left: 12px;
 }
 
-#ogpveskkdb .gt_summary_row {
+#tusbwmtokk .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -767,7 +767,7 @@
   padding-right: 5px;
 }
 
-#ogpveskkdb .gt_first_summary_row {
+#tusbwmtokk .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -777,7 +777,7 @@
   border-top-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_grand_summary_row {
+#tusbwmtokk .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -787,7 +787,7 @@
   padding-right: 5px;
 }
 
-#ogpveskkdb .gt_first_grand_summary_row {
+#tusbwmtokk .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -797,11 +797,11 @@
   border-top-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_striped {
+#tusbwmtokk .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ogpveskkdb .gt_table_body {
+#tusbwmtokk .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -810,7 +810,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_footnotes {
+#tusbwmtokk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -824,13 +824,13 @@
   border-right-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_footnote {
+#tusbwmtokk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ogpveskkdb .gt_sourcenotes {
+#tusbwmtokk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -844,46 +844,46 @@
   border-right-color: #D3D3D3;
 }
 
-#ogpveskkdb .gt_sourcenote {
+#tusbwmtokk .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ogpveskkdb .gt_left {
+#tusbwmtokk .gt_left {
   text-align: left;
 }
 
-#ogpveskkdb .gt_center {
+#tusbwmtokk .gt_center {
   text-align: center;
 }
 
-#ogpveskkdb .gt_right {
+#tusbwmtokk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ogpveskkdb .gt_font_normal {
+#tusbwmtokk .gt_font_normal {
   font-weight: normal;
 }
 
-#ogpveskkdb .gt_font_bold {
+#tusbwmtokk .gt_font_bold {
   font-weight: bold;
 }
 
-#ogpveskkdb .gt_font_italic {
+#tusbwmtokk .gt_font_italic {
   font-style: italic;
 }
 
-#ogpveskkdb .gt_super {
+#tusbwmtokk .gt_super {
   font-size: 65%;
 }
 
-#ogpveskkdb .gt_footnote_marks {
+#tusbwmtokk .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;ogpveskkdb&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;tusbwmtokk&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat helmikuussa 2021&lt;/th&gt;
@@ -1078,7 +1078,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#gdmkqknnky .gt_table {
+#cavuisakdf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1103,7 +1103,7 @@
   border-left-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_heading {
+#cavuisakdf .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1115,7 +1115,7 @@
   border-right-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_title {
+#cavuisakdf .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1125,7 +1125,7 @@
   border-bottom-width: 0;
 }
 
-#gdmkqknnky .gt_subtitle {
+#cavuisakdf .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1135,13 +1135,13 @@
   border-top-width: 0;
 }
 
-#gdmkqknnky .gt_bottom_border {
+#cavuisakdf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_col_headings {
+#cavuisakdf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1156,7 +1156,7 @@
   border-right-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_col_heading {
+#cavuisakdf .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1176,7 +1176,7 @@
   overflow-x: hidden;
 }
 
-#gdmkqknnky .gt_column_spanner_outer {
+#cavuisakdf .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1188,15 +1188,15 @@
   padding-right: 4px;
 }
 
-#gdmkqknnky .gt_column_spanner_outer:first-child {
+#cavuisakdf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gdmkqknnky .gt_column_spanner_outer:last-child {
+#cavuisakdf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gdmkqknnky .gt_column_spanner {
+#cavuisakdf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1208,7 +1208,7 @@
   width: 100%;
 }
 
-#gdmkqknnky .gt_group_heading {
+#cavuisakdf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1230,7 +1230,7 @@
   vertical-align: middle;
 }
 
-#gdmkqknnky .gt_empty_group_heading {
+#cavuisakdf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1245,15 +1245,15 @@
   vertical-align: middle;
 }
 
-#gdmkqknnky .gt_from_md &gt; :first-child {
+#cavuisakdf .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#gdmkqknnky .gt_from_md &gt; :last-child {
+#cavuisakdf .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#gdmkqknnky .gt_row {
+#cavuisakdf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1272,7 +1272,7 @@
   overflow-x: hidden;
 }
 
-#gdmkqknnky .gt_stub {
+#cavuisakdf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1284,7 +1284,7 @@
   padding-left: 12px;
 }
 
-#gdmkqknnky .gt_summary_row {
+#cavuisakdf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1294,7 +1294,7 @@
   padding-right: 5px;
 }
 
-#gdmkqknnky .gt_first_summary_row {
+#cavuisakdf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1304,7 +1304,7 @@
   border-top-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_grand_summary_row {
+#cavuisakdf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1314,7 +1314,7 @@
   padding-right: 5px;
 }
 
-#gdmkqknnky .gt_first_grand_summary_row {
+#cavuisakdf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1324,11 +1324,11 @@
   border-top-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_striped {
+#cavuisakdf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gdmkqknnky .gt_table_body {
+#cavuisakdf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1337,7 +1337,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_footnotes {
+#cavuisakdf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1351,13 +1351,13 @@
   border-right-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_footnote {
+#cavuisakdf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#gdmkqknnky .gt_sourcenotes {
+#cavuisakdf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1371,46 +1371,46 @@
   border-right-color: #D3D3D3;
 }
 
-#gdmkqknnky .gt_sourcenote {
+#cavuisakdf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#gdmkqknnky .gt_left {
+#cavuisakdf .gt_left {
   text-align: left;
 }
 
-#gdmkqknnky .gt_center {
+#cavuisakdf .gt_center {
   text-align: center;
 }
 
-#gdmkqknnky .gt_right {
+#cavuisakdf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gdmkqknnky .gt_font_normal {
+#cavuisakdf .gt_font_normal {
   font-weight: normal;
 }
 
-#gdmkqknnky .gt_font_bold {
+#cavuisakdf .gt_font_bold {
   font-weight: bold;
 }
 
-#gdmkqknnky .gt_font_italic {
+#cavuisakdf .gt_font_italic {
   font-style: italic;
 }
 
-#gdmkqknnky .gt_super {
+#cavuisakdf .gt_super {
   font-size: 65%;
 }
 
-#gdmkqknnky .gt_footnote_marks {
+#cavuisakdf .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;gdmkqknnky&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;cavuisakdf&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
@@ -1609,7 +1609,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#koqpzuginl .gt_table {
+#nrujwipebk .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1634,7 +1634,7 @@
   border-left-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_heading {
+#nrujwipebk .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1646,7 +1646,7 @@
   border-right-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_title {
+#nrujwipebk .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1656,7 +1656,7 @@
   border-bottom-width: 0;
 }
 
-#koqpzuginl .gt_subtitle {
+#nrujwipebk .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1666,13 +1666,13 @@
   border-top-width: 0;
 }
 
-#koqpzuginl .gt_bottom_border {
+#nrujwipebk .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_col_headings {
+#nrujwipebk .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1687,7 +1687,7 @@
   border-right-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_col_heading {
+#nrujwipebk .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1707,7 +1707,7 @@
   overflow-x: hidden;
 }
 
-#koqpzuginl .gt_column_spanner_outer {
+#nrujwipebk .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1719,15 +1719,15 @@
   padding-right: 4px;
 }
 
-#koqpzuginl .gt_column_spanner_outer:first-child {
+#nrujwipebk .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#koqpzuginl .gt_column_spanner_outer:last-child {
+#nrujwipebk .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#koqpzuginl .gt_column_spanner {
+#nrujwipebk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1739,7 +1739,7 @@
   width: 100%;
 }
 
-#koqpzuginl .gt_group_heading {
+#nrujwipebk .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1761,7 +1761,7 @@
   vertical-align: middle;
 }
 
-#koqpzuginl .gt_empty_group_heading {
+#nrujwipebk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1776,15 +1776,15 @@
   vertical-align: middle;
 }
 
-#koqpzuginl .gt_from_md &gt; :first-child {
+#nrujwipebk .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#koqpzuginl .gt_from_md &gt; :last-child {
+#nrujwipebk .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#koqpzuginl .gt_row {
+#nrujwipebk .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1803,7 +1803,7 @@
   overflow-x: hidden;
 }
 
-#koqpzuginl .gt_stub {
+#nrujwipebk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1815,7 +1815,7 @@
   padding-left: 12px;
 }
 
-#koqpzuginl .gt_summary_row {
+#nrujwipebk .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1825,7 +1825,7 @@
   padding-right: 5px;
 }
 
-#koqpzuginl .gt_first_summary_row {
+#nrujwipebk .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1835,7 +1835,7 @@
   border-top-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_grand_summary_row {
+#nrujwipebk .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1845,7 +1845,7 @@
   padding-right: 5px;
 }
 
-#koqpzuginl .gt_first_grand_summary_row {
+#nrujwipebk .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1855,11 +1855,11 @@
   border-top-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_striped {
+#nrujwipebk .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#koqpzuginl .gt_table_body {
+#nrujwipebk .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1868,7 +1868,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_footnotes {
+#nrujwipebk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1882,13 +1882,13 @@
   border-right-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_footnote {
+#nrujwipebk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#koqpzuginl .gt_sourcenotes {
+#nrujwipebk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1902,46 +1902,46 @@
   border-right-color: #D3D3D3;
 }
 
-#koqpzuginl .gt_sourcenote {
+#nrujwipebk .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#koqpzuginl .gt_left {
+#nrujwipebk .gt_left {
   text-align: left;
 }
 
-#koqpzuginl .gt_center {
+#nrujwipebk .gt_center {
   text-align: center;
 }
 
-#koqpzuginl .gt_right {
+#nrujwipebk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#koqpzuginl .gt_font_normal {
+#nrujwipebk .gt_font_normal {
   font-weight: normal;
 }
 
-#koqpzuginl .gt_font_bold {
+#nrujwipebk .gt_font_bold {
   font-weight: bold;
 }
 
-#koqpzuginl .gt_font_italic {
+#nrujwipebk .gt_font_italic {
   font-style: italic;
 }
 
-#koqpzuginl .gt_super {
+#nrujwipebk .gt_super {
   font-size: 65%;
 }
 
-#koqpzuginl .gt_footnote_marks {
+#nrujwipebk .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;koqpzuginl&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;nrujwipebk&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;8&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat vuonna 2020&lt;/th&gt;
@@ -2073,7 +2073,7 @@
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#lunfhsrzmf .gt_table {
+#ccererhnbd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2098,7 +2098,7 @@
   border-left-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_heading {
+#ccererhnbd .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2110,7 +2110,7 @@
   border-right-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_title {
+#ccererhnbd .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2120,7 +2120,7 @@
   border-bottom-width: 0;
 }
 
-#lunfhsrzmf .gt_subtitle {
+#ccererhnbd .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2130,13 +2130,13 @@
   border-top-width: 0;
 }
 
-#lunfhsrzmf .gt_bottom_border {
+#ccererhnbd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_col_headings {
+#ccererhnbd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2151,7 +2151,7 @@
   border-right-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_col_heading {
+#ccererhnbd .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2171,7 +2171,7 @@
   overflow-x: hidden;
 }
 
-#lunfhsrzmf .gt_column_spanner_outer {
+#ccererhnbd .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2183,15 +2183,15 @@
   padding-right: 4px;
 }
 
-#lunfhsrzmf .gt_column_spanner_outer:first-child {
+#ccererhnbd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lunfhsrzmf .gt_column_spanner_outer:last-child {
+#ccererhnbd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lunfhsrzmf .gt_column_spanner {
+#ccererhnbd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2203,7 +2203,7 @@
   width: 100%;
 }
 
-#lunfhsrzmf .gt_group_heading {
+#ccererhnbd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2225,7 +2225,7 @@
   vertical-align: middle;
 }
 
-#lunfhsrzmf .gt_empty_group_heading {
+#ccererhnbd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2240,15 +2240,15 @@
   vertical-align: middle;
 }
 
-#lunfhsrzmf .gt_from_md &gt; :first-child {
+#ccererhnbd .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#lunfhsrzmf .gt_from_md &gt; :last-child {
+#ccererhnbd .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#lunfhsrzmf .gt_row {
+#ccererhnbd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2267,7 +2267,7 @@
   overflow-x: hidden;
 }
 
-#lunfhsrzmf .gt_stub {
+#ccererhnbd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2279,7 +2279,7 @@
   padding-left: 12px;
 }
 
-#lunfhsrzmf .gt_summary_row {
+#ccererhnbd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2289,7 +2289,7 @@
   padding-right: 5px;
 }
 
-#lunfhsrzmf .gt_first_summary_row {
+#ccererhnbd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2299,7 +2299,7 @@
   border-top-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_grand_summary_row {
+#ccererhnbd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2309,7 +2309,7 @@
   padding-right: 5px;
 }
 
-#lunfhsrzmf .gt_first_grand_summary_row {
+#ccererhnbd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2319,11 +2319,11 @@
   border-top-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_striped {
+#ccererhnbd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lunfhsrzmf .gt_table_body {
+#ccererhnbd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2332,7 +2332,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_footnotes {
+#ccererhnbd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2346,13 +2346,13 @@
   border-right-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_footnote {
+#ccererhnbd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lunfhsrzmf .gt_sourcenotes {
+#ccererhnbd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2366,46 +2366,46 @@
   border-right-color: #D3D3D3;
 }
 
-#lunfhsrzmf .gt_sourcenote {
+#ccererhnbd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lunfhsrzmf .gt_left {
+#ccererhnbd .gt_left {
   text-align: left;
 }
 
-#lunfhsrzmf .gt_center {
+#ccererhnbd .gt_center {
   text-align: center;
 }
 
-#lunfhsrzmf .gt_right {
+#ccererhnbd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lunfhsrzmf .gt_font_normal {
+#ccererhnbd .gt_font_normal {
   font-weight: normal;
 }
 
-#lunfhsrzmf .gt_font_bold {
+#ccererhnbd .gt_font_bold {
   font-weight: bold;
 }
 
-#lunfhsrzmf .gt_font_italic {
+#ccererhnbd .gt_font_italic {
   font-style: italic;
 }
 
-#lunfhsrzmf .gt_super {
+#ccererhnbd .gt_super {
   font-size: 65%;
 }
 
-#lunfhsrzmf .gt_footnote_marks {
+#ccererhnbd .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;lunfhsrzmf&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;ccererhnbd&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
@@ -3237,7 +3237,7 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:08:50&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-14 10:02:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:08:47&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-17 10:02:55&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;aineistot&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Aineistot&lt;/h2&gt;
 &lt;div id=&#34;etuushakemukset-ja-etuuksien-saajat&#34; class=&#34;section level3&#34;&gt;
@@ -3449,7 +3449,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:09:04&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-14 10:02:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:09:01&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-17 10:02:55&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div style = &#34;padding-top : 25px;&#34;&gt;
 &lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
 &lt;p&gt;Sivustolla julkaistut työttömyysturvan saajien määrätiedot on korjattu ma 18.1.2021. Aiemmin tukea saaneiden luku on virheellisesti sisältänyt myös yrittäjien työmarkkinatuen saajat. Virhe on vaikuttanut sekä kuvioihin että taulukoihin.&lt;/p&gt;
@@ -3644,7 +3644,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:07:24&lt;/code&gt;&lt;/br&gt;Data päivitetty &lt;code&gt;2021-05-10 18:32:08&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:07:24&lt;/code&gt;&lt;/br&gt;Data päivitetty &lt;code&gt;2021-05-17 10:03:00&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Asiakkaat voivat hoitaa Kela-asioitaan monin eri tavoin. Lähes kaikkia Kelan etuuksia on mahdollista hakea verkossa Kelan asiointipalvelussa. Henkilökohtaista neuvontaa haluavat asiakkaat voivat myös soittaa puhelinpalveluun tai mennä paikan päälle joko Kelan palvelupisteeseen tai asiointipisteeseen. Puhelinpalvelussa tai palvelupisteessä asioita voi hoitaa asiointivuoroa odottamalla tai ajanvarauksella.&lt;/p&gt;
 &lt;p&gt;Turvallisen asioinnin varmistamiseksi Kela on suositellut koronaepidemia-aikana erityisesti verkkoasiointia ja asiointia puhelimitse. Monet palvelupisteissä työskennelleet palveluasiantuntijat siirtyivät keväällä hoitamaan puhelinpalvelua. Tämä vaikutti puhelinpalvelun palvelutasoon seuraavasti: asiakkaiden jonotusaika lyheni (kuvio 1), ja Kelassa pystyttiin vastaamaan yhä useampaan puheluun (kuvio 2). Monimutkaisempien asioiden hoitamiseen hyvin sopivassa ajanvarauspalvelussa vapaita aikoja alkoi saada aiempaa nopeammin niin Kelan puhelinpalvelussa kuin palvelupisteissäkin (kuvio 3 ja 4). Verkossa tehtävien etuushakemusten osuuteen koronapandemia-ajan erityisjärjestelyillä on ollut vähemmän vaikutusta (kuvio 5).&lt;/p&gt;
 &lt;div class=&#34;eiluokkaa&#34;&gt;
@@ -3656,7 +3656,7 @@ Ks. myös Kelan tutkimusblogit &lt;a href=&#34;https://tutkimusblogi.kela.fi/ark
 &lt;em&gt;Jonotusaika&lt;/em&gt; tarkoittaa Kelan puhelinpalvelussa vastattujen puheluiden keskimääräistä jonotusaikaa minuutteina. Aika mitataan siitä, kun asiakkaan puhelu siirtyy jonoon, siihen asti kunnes palveluasiantuntija vastaa puheluun. Puheluissa on mukana Kelan asiakkuuspalvelujen hoitaman puhelinpalvelun puhelut.
 &lt;/p&gt;
 &lt;p class=&#34;automagia&#34;&gt;
-Puhelinpalvelun jonotusajan keskiarvo viikolla 18 oli 9,9 minuuttia.
+Puhelinpalvelun jonotusajan keskiarvo viikolla 19 oli 10,2 minuuttia.
 &lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -3676,7 +3676,7 @@ Puhelinpalvelun jonotusajan keskiarvo viikolla 18 oli 9,9 minuuttia.
 &lt;em&gt;Puhelinpalvelun vastausprosentti&lt;/em&gt; tarkoittaa vastattujen puheluiden osuutta saapuneista puheluista (%) viikkotasolla Kelan puhelinpalvelussa. Puheluissa on mukana Kelan asiakkuuspalvelujen hoitaman puhelinpalvelun puhelut.
 &lt;/p&gt;
 &lt;p class=&#34;automagia&#34;&gt;
-Puhelinpalvelun vastausprosentti viikolla 18 oli 63,3 prosenttia.
+Puhelinpalvelun vastausprosentti viikolla 19 oli 69,9 prosenttia.
 &lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -3699,7 +3699,7 @@ Puhelinpalvelun vastausprosentti viikolla 18 oli 63,3 prosenttia.
 &lt;div id=&#34;saatavuusaika-koko-maassa&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Saatavuusaika koko maassa&lt;/h3&gt;
 &lt;p class=&#34;automagia&#34;&gt;
-Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä 3,7 vuorokautta.
+Saatavuusajan keskiarvo viikolla 19 oli puhelinpalvelussa 5,2 ja palvelupisteessä 4,5 vuorokautta.
 &lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
@@ -3715,13 +3715,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
 &lt;/div&gt;
 &lt;div id=&#34;saatavuusaika-yksiköittäin&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Saatavuusaika yksiköittäin&lt;/h3&gt;
-&lt;p&gt;Saatavuusajan keskiarvo viikolla 18 oli &lt;em&gt;puhelinpalvelussa&lt;/em&gt; lyhin yksikössä Yhteyskeskus (2,5 vrk) ja &lt;em&gt;palvelupisteessä&lt;/em&gt; Pääkaupunkiseudun asiakaspalveluyksikkö (2,8 vrk)&lt;/p&gt;
+&lt;p&gt;Saatavuusajan keskiarvo viikolla 19 oli &lt;em&gt;puhelinpalvelussa&lt;/em&gt; lyhin yksikössä Yhteyskeskus (3,5 vrk) ja &lt;em&gt;palvelupisteessä&lt;/em&gt; Itäinen asiakaspalveluyksikkö (3,7 vrk)&lt;/p&gt;
 &lt;div class=&#34;eiluokkaa&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#tsryhvhmju .gt_table {
+#voszgaosac .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -3746,7 +3746,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-left-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_heading {
+#voszgaosac .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3758,7 +3758,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_title {
+#voszgaosac .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -3768,7 +3768,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-width: 0;
 }
 
-#tsryhvhmju .gt_subtitle {
+#voszgaosac .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -3778,13 +3778,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-width: 0;
 }
 
-#tsryhvhmju .gt_bottom_border {
+#voszgaosac .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_col_headings {
+#voszgaosac .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3799,7 +3799,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_col_heading {
+#voszgaosac .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3819,7 +3819,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#tsryhvhmju .gt_column_spanner_outer {
+#voszgaosac .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3831,15 +3831,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 4px;
 }
 
-#tsryhvhmju .gt_column_spanner_outer:first-child {
+#voszgaosac .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tsryhvhmju .gt_column_spanner_outer:last-child {
+#voszgaosac .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tsryhvhmju .gt_column_spanner {
+#voszgaosac .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3851,7 +3851,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   width: 100%;
 }
 
-#tsryhvhmju .gt_group_heading {
+#voszgaosac .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3873,7 +3873,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#tsryhvhmju .gt_empty_group_heading {
+#voszgaosac .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3888,15 +3888,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#tsryhvhmju .gt_from_md &gt; :first-child {
+#voszgaosac .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#tsryhvhmju .gt_from_md &gt; :last-child {
+#voszgaosac .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#tsryhvhmju .gt_row {
+#voszgaosac .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3915,7 +3915,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#tsryhvhmju .gt_stub {
+#voszgaosac .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3927,7 +3927,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-left: 12px;
 }
 
-#tsryhvhmju .gt_summary_row {
+#voszgaosac .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3937,7 +3937,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#tsryhvhmju .gt_first_summary_row {
+#voszgaosac .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3947,7 +3947,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_grand_summary_row {
+#voszgaosac .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3957,7 +3957,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#tsryhvhmju .gt_first_grand_summary_row {
+#voszgaosac .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3967,11 +3967,11 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_striped {
+#voszgaosac .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tsryhvhmju .gt_table_body {
+#voszgaosac .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3980,7 +3980,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_footnotes {
+#voszgaosac .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3994,13 +3994,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_footnote {
+#voszgaosac .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tsryhvhmju .gt_sourcenotes {
+#voszgaosac .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4014,49 +4014,49 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#tsryhvhmju .gt_sourcenote {
+#voszgaosac .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tsryhvhmju .gt_left {
+#voszgaosac .gt_left {
   text-align: left;
 }
 
-#tsryhvhmju .gt_center {
+#voszgaosac .gt_center {
   text-align: center;
 }
 
-#tsryhvhmju .gt_right {
+#voszgaosac .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tsryhvhmju .gt_font_normal {
+#voszgaosac .gt_font_normal {
   font-weight: normal;
 }
 
-#tsryhvhmju .gt_font_bold {
+#voszgaosac .gt_font_bold {
   font-weight: bold;
 }
 
-#tsryhvhmju .gt_font_italic {
+#voszgaosac .gt_font_italic {
   font-style: italic;
 }
 
-#tsryhvhmju .gt_super {
+#voszgaosac .gt_super {
   font-size: 65%;
 }
 
-#tsryhvhmju .gt_footnote_marks {
+#voszgaosac .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;tsryhvhmju&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;voszgaosac&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
-      &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saatavuusajan keskiarvo viikolla 18 (vuorokautta)&lt;/th&gt;
+      &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saatavuusajan keskiarvo viikolla 19 (vuorokautta)&lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_subtitle gt_font_normal gt_bottom_border&#34; style&gt;&lt;/th&gt;
@@ -4072,37 +4072,37 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   &lt;tbody class=&#34;gt_table_body&#34;&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Eteläinen asiakaspalveluyksikkö&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;2,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;5,3&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;4,4&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;6,3&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Itäinen asiakaspalveluyksikkö&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;4,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;2,9&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;5,5&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,7&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Keskinen asiakaspalveluyksikkö&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,8&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;4,9&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;4,1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Läntinen asiakaspalveluyksikkö&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;2,8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,4&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;5,6&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;4,2&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Pohjoinen asiakaspalveluyksikkö&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;5,8&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;4,5&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;6,1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Pääkaupunkiseudun asiakaspalveluyksikkö&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;5,7&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;2,8&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;6,1&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,9&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left&#34;&gt;Yhteyskeskus&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;2,5&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;3,5&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -4138,7 +4138,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#mqolznprkt .gt_table {
+#xjbukoqmhc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4163,7 +4163,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-left-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_heading {
+#xjbukoqmhc .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4175,7 +4175,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_title {
+#xjbukoqmhc .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -4185,7 +4185,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-width: 0;
 }
 
-#mqolznprkt .gt_subtitle {
+#xjbukoqmhc .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -4195,13 +4195,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-width: 0;
 }
 
-#mqolznprkt .gt_bottom_border {
+#xjbukoqmhc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_col_headings {
+#xjbukoqmhc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4216,7 +4216,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_col_heading {
+#xjbukoqmhc .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4236,7 +4236,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#mqolznprkt .gt_column_spanner_outer {
+#xjbukoqmhc .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4248,15 +4248,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 4px;
 }
 
-#mqolznprkt .gt_column_spanner_outer:first-child {
+#xjbukoqmhc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#mqolznprkt .gt_column_spanner_outer:last-child {
+#xjbukoqmhc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#mqolznprkt .gt_column_spanner {
+#xjbukoqmhc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4268,7 +4268,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   width: 100%;
 }
 
-#mqolznprkt .gt_group_heading {
+#xjbukoqmhc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4290,7 +4290,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#mqolznprkt .gt_empty_group_heading {
+#xjbukoqmhc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4305,15 +4305,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#mqolznprkt .gt_from_md &gt; :first-child {
+#xjbukoqmhc .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#mqolznprkt .gt_from_md &gt; :last-child {
+#xjbukoqmhc .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#mqolznprkt .gt_row {
+#xjbukoqmhc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4332,7 +4332,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#mqolznprkt .gt_stub {
+#xjbukoqmhc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4344,7 +4344,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-left: 12px;
 }
 
-#mqolznprkt .gt_summary_row {
+#xjbukoqmhc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4354,7 +4354,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#mqolznprkt .gt_first_summary_row {
+#xjbukoqmhc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4364,7 +4364,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_grand_summary_row {
+#xjbukoqmhc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4374,7 +4374,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#mqolznprkt .gt_first_grand_summary_row {
+#xjbukoqmhc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4384,11 +4384,11 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_striped {
+#xjbukoqmhc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#mqolznprkt .gt_table_body {
+#xjbukoqmhc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4397,7 +4397,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_footnotes {
+#xjbukoqmhc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4411,13 +4411,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_footnote {
+#xjbukoqmhc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#mqolznprkt .gt_sourcenotes {
+#xjbukoqmhc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4431,46 +4431,46 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#mqolznprkt .gt_sourcenote {
+#xjbukoqmhc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#mqolznprkt .gt_left {
+#xjbukoqmhc .gt_left {
   text-align: left;
 }
 
-#mqolznprkt .gt_center {
+#xjbukoqmhc .gt_center {
   text-align: center;
 }
 
-#mqolznprkt .gt_right {
+#xjbukoqmhc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#mqolznprkt .gt_font_normal {
+#xjbukoqmhc .gt_font_normal {
   font-weight: normal;
 }
 
-#mqolznprkt .gt_font_bold {
+#xjbukoqmhc .gt_font_bold {
   font-weight: bold;
 }
 
-#mqolznprkt .gt_font_italic {
+#xjbukoqmhc .gt_font_italic {
   font-style: italic;
 }
 
-#mqolznprkt .gt_super {
+#xjbukoqmhc .gt_super {
   font-size: 65%;
 }
 
-#mqolznprkt .gt_footnote_marks {
+#xjbukoqmhc .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;mqolznprkt&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;xjbukoqmhc&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Verkon kautta saapuneiden hakemusten osuus huhtikuussa (% kaikista hakemuksista)&lt;/th&gt;
@@ -4612,7 +4612,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#scsiesdqqb .gt_table {
+#xetxlljwnd .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -4637,7 +4637,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-left-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_heading {
+#xetxlljwnd .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -4649,7 +4649,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_title {
+#xetxlljwnd .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -4659,7 +4659,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-width: 0;
 }
 
-#scsiesdqqb .gt_subtitle {
+#xetxlljwnd .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -4669,13 +4669,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-width: 0;
 }
 
-#scsiesdqqb .gt_bottom_border {
+#xetxlljwnd .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_col_headings {
+#xetxlljwnd .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4690,7 +4690,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_col_heading {
+#xetxlljwnd .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4710,7 +4710,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#scsiesdqqb .gt_column_spanner_outer {
+#xetxlljwnd .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4722,15 +4722,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 4px;
 }
 
-#scsiesdqqb .gt_column_spanner_outer:first-child {
+#xetxlljwnd .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#scsiesdqqb .gt_column_spanner_outer:last-child {
+#xetxlljwnd .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#scsiesdqqb .gt_column_spanner {
+#xetxlljwnd .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -4742,7 +4742,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   width: 100%;
 }
 
-#scsiesdqqb .gt_group_heading {
+#xetxlljwnd .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4764,7 +4764,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#scsiesdqqb .gt_empty_group_heading {
+#xetxlljwnd .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -4779,15 +4779,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#scsiesdqqb .gt_from_md &gt; :first-child {
+#xetxlljwnd .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#scsiesdqqb .gt_from_md &gt; :last-child {
+#xetxlljwnd .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#scsiesdqqb .gt_row {
+#xetxlljwnd .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4806,7 +4806,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#scsiesdqqb .gt_stub {
+#xetxlljwnd .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -4818,7 +4818,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-left: 12px;
 }
 
-#scsiesdqqb .gt_summary_row {
+#xetxlljwnd .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4828,7 +4828,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#scsiesdqqb .gt_first_summary_row {
+#xetxlljwnd .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4838,7 +4838,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_grand_summary_row {
+#xetxlljwnd .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -4848,7 +4848,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#scsiesdqqb .gt_first_grand_summary_row {
+#xetxlljwnd .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -4858,11 +4858,11 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_striped {
+#xetxlljwnd .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#scsiesdqqb .gt_table_body {
+#xetxlljwnd .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -4871,7 +4871,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_footnotes {
+#xetxlljwnd .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4885,13 +4885,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_footnote {
+#xetxlljwnd .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#scsiesdqqb .gt_sourcenotes {
+#xetxlljwnd .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -4905,46 +4905,46 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#scsiesdqqb .gt_sourcenote {
+#xetxlljwnd .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#scsiesdqqb .gt_left {
+#xetxlljwnd .gt_left {
   text-align: left;
 }
 
-#scsiesdqqb .gt_center {
+#xetxlljwnd .gt_center {
   text-align: center;
 }
 
-#scsiesdqqb .gt_right {
+#xetxlljwnd .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#scsiesdqqb .gt_font_normal {
+#xetxlljwnd .gt_font_normal {
   font-weight: normal;
 }
 
-#scsiesdqqb .gt_font_bold {
+#xetxlljwnd .gt_font_bold {
   font-weight: bold;
 }
 
-#scsiesdqqb .gt_font_italic {
+#xetxlljwnd .gt_font_italic {
   font-style: italic;
 }
 
-#scsiesdqqb .gt_super {
+#xetxlljwnd .gt_super {
   font-size: 65%;
 }
 
-#scsiesdqqb .gt_footnote_marks {
+#xetxlljwnd .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;scsiesdqqb&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;xetxlljwnd&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;3&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Verkon kautta saapuneiden hakemusten osuus huhtikuussa 2021 (% kaikista hakemuksista) top 15 kuntaa&lt;/th&gt;
@@ -5078,22 +5078,22 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
 &lt;div class=&#34;eiluokka&#34;&gt;
 
 &lt;/div&gt;
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:09:41&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-14 10:02:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:09:39&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-17 10:02:55&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Saapuneiden hakemusten määriä tarkastellaan &lt;em&gt;viikkotasolla&lt;/em&gt; vertaillen vuoteen 2020. Koko maan ohella saapuneita hakemuksia analysoidaan maakunnittain sekä ikäluokittain ja sukupuolittain. &lt;em&gt;Päiväkohtaisissa&lt;/em&gt; tiedoissa on mukana vain tämä vuosi ja tarkastelutasona koko Suomi ja kaikki hakijat.&lt;/p&gt;
-&lt;p&gt;Tässä raportissa uusin viikko on 18 ja uusin päivä on torstai 2021-05-13&lt;/p&gt;
+&lt;p&gt;Tässä raportissa uusin viikko on 19 ja uusin päivä on sunnuntai 2021-05-16&lt;/p&gt;
 &lt;p&gt;Katso tarkemmat tiedot käytetyistä mittareista &lt;a href=&#34;data_ja_mittarit.html&#34;&gt;Aineiston ja mittarien kuvaus&lt;/a&gt; -sivulta.&lt;/p&gt;
 &lt;div id=&#34;päiväkohtaiset-tarkastelut&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Päiväkohtaiset tarkastelut&lt;/h2&gt;
 &lt;div class=&#34;eiluokka&#34;&gt;
 
 &lt;/div&gt;
-&lt;p&gt;Alla olevassa taulukossa on esitetty uusimman päivän (&lt;em&gt;torstai 2021-05-13&lt;/em&gt;) hakemusmäärät verrattuna a) samaan viikonpäivään viikko sitten, b) eiliseen sekä c) alkuvuoden hakemusmäärien mediaaniin.&lt;/p&gt;
+&lt;p&gt;Alla olevassa taulukossa on esitetty uusimman päivän (&lt;em&gt;sunnuntai 2021-05-16&lt;/em&gt;) hakemusmäärät verrattuna a) samaan viikonpäivään viikko sitten, b) eiliseen sekä c) alkuvuoden hakemusmäärien mediaaniin.&lt;/p&gt;
 &lt;div class=&#34;eiluokkaa&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#zlapxhsfud .gt_table {
+#mxkksgvpav .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5118,7 +5118,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-left-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_heading {
+#mxkksgvpav .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5130,7 +5130,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_title {
+#mxkksgvpav .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -5140,7 +5140,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-width: 0;
 }
 
-#zlapxhsfud .gt_subtitle {
+#mxkksgvpav .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -5150,13 +5150,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-width: 0;
 }
 
-#zlapxhsfud .gt_bottom_border {
+#mxkksgvpav .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_col_headings {
+#mxkksgvpav .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5171,7 +5171,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_col_heading {
+#mxkksgvpav .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5191,7 +5191,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#zlapxhsfud .gt_column_spanner_outer {
+#mxkksgvpav .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5203,15 +5203,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 4px;
 }
 
-#zlapxhsfud .gt_column_spanner_outer:first-child {
+#mxkksgvpav .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zlapxhsfud .gt_column_spanner_outer:last-child {
+#mxkksgvpav .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zlapxhsfud .gt_column_spanner {
+#mxkksgvpav .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5223,7 +5223,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   width: 100%;
 }
 
-#zlapxhsfud .gt_group_heading {
+#mxkksgvpav .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5245,7 +5245,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#zlapxhsfud .gt_empty_group_heading {
+#mxkksgvpav .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5260,15 +5260,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#zlapxhsfud .gt_from_md &gt; :first-child {
+#mxkksgvpav .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#zlapxhsfud .gt_from_md &gt; :last-child {
+#mxkksgvpav .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#zlapxhsfud .gt_row {
+#mxkksgvpav .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5287,7 +5287,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#zlapxhsfud .gt_stub {
+#mxkksgvpav .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5299,7 +5299,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-left: 12px;
 }
 
-#zlapxhsfud .gt_summary_row {
+#mxkksgvpav .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5309,7 +5309,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#zlapxhsfud .gt_first_summary_row {
+#mxkksgvpav .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5319,7 +5319,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_grand_summary_row {
+#mxkksgvpav .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5329,7 +5329,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#zlapxhsfud .gt_first_grand_summary_row {
+#mxkksgvpav .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5339,11 +5339,11 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_striped {
+#mxkksgvpav .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zlapxhsfud .gt_table_body {
+#mxkksgvpav .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5352,7 +5352,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_footnotes {
+#mxkksgvpav .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5366,13 +5366,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_footnote {
+#mxkksgvpav .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zlapxhsfud .gt_sourcenotes {
+#mxkksgvpav .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5386,49 +5386,49 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#zlapxhsfud .gt_sourcenote {
+#mxkksgvpav .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zlapxhsfud .gt_left {
+#mxkksgvpav .gt_left {
   text-align: left;
 }
 
-#zlapxhsfud .gt_center {
+#mxkksgvpav .gt_center {
   text-align: center;
 }
 
-#zlapxhsfud .gt_right {
+#mxkksgvpav .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zlapxhsfud .gt_font_normal {
+#mxkksgvpav .gt_font_normal {
   font-weight: normal;
 }
 
-#zlapxhsfud .gt_font_bold {
+#mxkksgvpav .gt_font_bold {
   font-weight: bold;
 }
 
-#zlapxhsfud .gt_font_italic {
+#mxkksgvpav .gt_font_italic {
   font-style: italic;
 }
 
-#zlapxhsfud .gt_super {
+#mxkksgvpav .gt_super {
   font-size: 65%;
 }
 
-#zlapxhsfud .gt_footnote_marks {
+#mxkksgvpav .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;zlapxhsfud&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;mxkksgvpav&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
-      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saapuneet hakemukset torstaina 2021-05-13&lt;/th&gt;
+      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saapuneet hakemukset sunnuntaina 2021-05-16&lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_subtitle gt_font_normal gt_bottom_border&#34; style&gt;&lt;/th&gt;
@@ -5439,7 +5439,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
       &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_left&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;&lt;/th&gt;
       &lt;th class=&#34;gt_col_heading gt_center gt_columns_bottom_border&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;saapuneet hakemukset&lt;/th&gt;
       &lt;th class=&#34;gt_center gt_columns_top_border gt_column_spanner_outer&#34; rowspan=&#34;1&#34; colspan=&#34;2&#34;&gt;
-        &lt;span class=&#34;gt_column_spanner&#34;&gt;ero viikontakaiseen (torstai 2021-05-06)&lt;/span&gt;
+        &lt;span class=&#34;gt_column_spanner&#34;&gt;ero viikontakaiseen (sunnuntai 2021-05-09)&lt;/span&gt;
       &lt;/th&gt;
       &lt;th class=&#34;gt_center gt_columns_top_border gt_column_spanner_outer&#34; rowspan=&#34;1&#34; colspan=&#34;2&#34;&gt;
         &lt;span class=&#34;gt_column_spanner&#34;&gt;ero alkuvuoden mediaaniin&lt;/span&gt;
@@ -5455,51 +5455,51 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   &lt;tbody class=&#34;gt_table_body&#34;&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;331&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-61,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-530&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-72,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-890&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;335&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+27,9&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+73&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-72,5&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-881&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yrittäjien työmarkkinatuki&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-86,8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-59&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-85,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-55&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;22&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+15,8&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+3&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-65,6&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-42&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;1247&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-48,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1159&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-34,7&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-663&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;1077&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2,4&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-26&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-43,6&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-831&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;2183&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-47,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1974&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-53,8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2537&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;3321&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+133,1&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1896&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-29,5&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1392&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Sairauspäiväraha&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;1032&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-53,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1177&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-50,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1035&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;191&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+37,4&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+52&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-90,7&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1869&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Tartuntatautipäiväraha&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;240&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-73,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-663&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+92&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+115&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;105&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+56,7&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;+38&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-15,3&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-19&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   
@@ -5553,7 +5553,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#jwmgvvucqm .gt_table {
+#bswpfdbmkw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -5578,7 +5578,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-left-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_heading {
+#bswpfdbmkw .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -5590,7 +5590,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_title {
+#bswpfdbmkw .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -5600,7 +5600,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-width: 0;
 }
 
-#jwmgvvucqm .gt_subtitle {
+#bswpfdbmkw .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -5610,13 +5610,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-width: 0;
 }
 
-#jwmgvvucqm .gt_bottom_border {
+#bswpfdbmkw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_col_headings {
+#bswpfdbmkw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5631,7 +5631,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_col_heading {
+#bswpfdbmkw .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5651,7 +5651,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#jwmgvvucqm .gt_column_spanner_outer {
+#bswpfdbmkw .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5663,15 +5663,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 4px;
 }
 
-#jwmgvvucqm .gt_column_spanner_outer:first-child {
+#bswpfdbmkw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jwmgvvucqm .gt_column_spanner_outer:last-child {
+#bswpfdbmkw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jwmgvvucqm .gt_column_spanner {
+#bswpfdbmkw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -5683,7 +5683,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   width: 100%;
 }
 
-#jwmgvvucqm .gt_group_heading {
+#bswpfdbmkw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5705,7 +5705,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#jwmgvvucqm .gt_empty_group_heading {
+#bswpfdbmkw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -5720,15 +5720,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#jwmgvvucqm .gt_from_md &gt; :first-child {
+#bswpfdbmkw .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#jwmgvvucqm .gt_from_md &gt; :last-child {
+#bswpfdbmkw .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#jwmgvvucqm .gt_row {
+#bswpfdbmkw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5747,7 +5747,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#jwmgvvucqm .gt_stub {
+#bswpfdbmkw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -5759,7 +5759,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-left: 12px;
 }
 
-#jwmgvvucqm .gt_summary_row {
+#bswpfdbmkw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5769,7 +5769,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#jwmgvvucqm .gt_first_summary_row {
+#bswpfdbmkw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5779,7 +5779,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_grand_summary_row {
+#bswpfdbmkw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -5789,7 +5789,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#jwmgvvucqm .gt_first_grand_summary_row {
+#bswpfdbmkw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -5799,11 +5799,11 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_striped {
+#bswpfdbmkw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jwmgvvucqm .gt_table_body {
+#bswpfdbmkw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -5812,7 +5812,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_footnotes {
+#bswpfdbmkw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5826,13 +5826,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_footnote {
+#bswpfdbmkw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jwmgvvucqm .gt_sourcenotes {
+#bswpfdbmkw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -5846,46 +5846,46 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#jwmgvvucqm .gt_sourcenote {
+#bswpfdbmkw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jwmgvvucqm .gt_left {
+#bswpfdbmkw .gt_left {
   text-align: left;
 }
 
-#jwmgvvucqm .gt_center {
+#bswpfdbmkw .gt_center {
   text-align: center;
 }
 
-#jwmgvvucqm .gt_right {
+#bswpfdbmkw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jwmgvvucqm .gt_font_normal {
+#bswpfdbmkw .gt_font_normal {
   font-weight: normal;
 }
 
-#jwmgvvucqm .gt_font_bold {
+#bswpfdbmkw .gt_font_bold {
   font-weight: bold;
 }
 
-#jwmgvvucqm .gt_font_italic {
+#bswpfdbmkw .gt_font_italic {
   font-style: italic;
 }
 
-#jwmgvvucqm .gt_super {
+#bswpfdbmkw .gt_super {
   font-size: 65%;
 }
 
-#jwmgvvucqm .gt_footnote_marks {
+#bswpfdbmkw .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;jwmgvvucqm&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;bswpfdbmkw&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;19&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Saapuneet hakemukset viikottain 2020 ja 2021&lt;/th&gt;
@@ -6319,23 +6319,23 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;19&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;11337&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;5563&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-50,9&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;3610&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;239&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-93,4&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;16152&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;13042&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-19,3&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;29001&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;27560&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-5,0&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;12700&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;10111&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;-20,4&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;1305&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;3264&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;150,1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;20&lt;/td&gt;
@@ -7065,10 +7065,10 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
 &lt;div class=&#34;eiluokkaa&#34;&gt;
 
 &lt;/div&gt;
-&lt;p&gt;Alueellinen tarkastelu osoittaa, että &lt;em&gt;työttömyysturvan&lt;/em&gt; hakemusmäärien ero vuoteen 2020 nähden on ollut suurin viikolla 7, jolloin se oli suurinta seuraavissa maakunnissa: Pohjois-Savo (+56,4 %), Pohjois-Karjala (+48,2 %) ja Keski-Suomi (+46,3 %). Viime viikolla (viikko 18) ero vuoden takaiseen oli suurinta näissä maakunnissa: Uusimaa (-67,6 %), Päijät-Häme (-66,3 %) ja Etelä-Karjala (-61,4 %).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Yleisessä asumistuessa&lt;/em&gt; muutos on ollut suurinta vuoteen 2020 verrattuna viikolla 9, jolloin se oli suurinta seuraavissa maakunnissa: Kymenlaakso (+71,4 %), Lappi (+67,2 %) ja Päijät-Häme (+64,5 %). Viime viikolla (viikko 18) ero vuoden takaiseen oli suurinta näissä maakunnissa: Etelä-Karjala (+37,2 %), Keski-Pohjanmaa (+32,3 %) ja Pohjois-Karjala (+27,6 %).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Perustoimeentulotuessa&lt;/em&gt; taas muutos on ollut suurin vuoteen 2020 verrattuna viikolla 15, jolloin se oli suurinta seuraavissa maakunnissa: Pohjanmaa (+52,6 %), Kainuu (+50,9 %) ja Lappi (+45 %). Viime viikolla (viikko 18) ero vuoden takaiseen oli suurinta näissä maakunnissa: Keski-Pohjanmaa (-15,8 %), Päijät-Häme (-15,5 %) ja Etelä-Pohjanmaa (-13,9 %).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sairauspäivärahassa&lt;/em&gt; muutos on ollut suurin vuoteen 2020 verrattuna viikolla 2, jolloin se oli suurinta seuraavissa maakunnissa: Kanta-Häme (+56,2 %), Etelä-Pohjanmaa (+46,8 %) ja Pirkanmaa (+45,6 %). Viime viikolla (viikko 18) ero vuoden takaiseen oli suurinta näissä maakunnissa: Lappi (+44,6 %), Kainuu (+38,7 %) ja Keski-Suomi (+22,5 %).&lt;/p&gt;
+&lt;p&gt;Alueellinen tarkastelu osoittaa, että &lt;em&gt;työttömyysturvan&lt;/em&gt; hakemusmäärien ero vuoteen 2020 nähden on ollut suurin viikolla 7, jolloin se oli suurinta seuraavissa maakunnissa: Pohjois-Savo (+56,4 %), Pohjois-Karjala (+48,2 %) ja Keski-Suomi (+46,3 %). Viime viikolla (viikko 19) ero vuoden takaiseen oli suurinta näissä maakunnissa: Pohjanmaa (-64,2 %), Uusimaa (-58,6 %) ja Keski-Pohjanmaa (-57,6 %).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Yleisessä asumistuessa&lt;/em&gt; muutos on ollut suurinta vuoteen 2020 verrattuna viikolla 9, jolloin se oli suurinta seuraavissa maakunnissa: Kymenlaakso (+71,4 %), Lappi (+67,2 %) ja Päijät-Häme (+64,5 %). Viime viikolla (viikko 19) ero vuoden takaiseen oli suurinta näissä maakunnissa: Kymenlaakso (-31,9 %), Uusimaa (-24,3 %) ja Etelä-Pohjanmaa (-23,7 %).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Perustoimeentulotuessa&lt;/em&gt; taas muutos on ollut suurin vuoteen 2020 verrattuna viikolla 15, jolloin se oli suurinta seuraavissa maakunnissa: Pohjanmaa (+53 %), Kainuu (+50,9 %) ja Lappi (+44,8 %). Viime viikolla (viikko 19) ero vuoden takaiseen oli suurinta näissä maakunnissa: Lappi (-14,6 %), Kainuu (-14 %) ja Satakunta (-9,6 %).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sairauspäivärahassa&lt;/em&gt; muutos on ollut suurin vuoteen 2020 verrattuna viikolla 2, jolloin se oli suurinta seuraavissa maakunnissa: Kanta-Häme (+56,2 %), Etelä-Pohjanmaa (+46,8 %) ja Pirkanmaa (+45,6 %). Viime viikolla (viikko 19) ero vuoden takaiseen oli suurinta näissä maakunnissa: Keski-Pohjanmaa (-42,2 %), Kainuu (-31,6 %) ja Päijät-Häme (-31 %).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;https://koronamittarit.kela.fi/etuushakemukset/index_files/figure-html/viikkotaso_maakunta_kuva-1.png&#34; alt=&#34;Etuushakemukset viikkotasolla eri etuuksittain ja maakunnittain. Kukin etuus omassa kuvassa ja kullekin maakunnalle oma paneeli, jossa eri väreillä vuodet 2019 ja 2020.&#34; width=&#34;1152&#34; /&gt;
@@ -7208,9 +7208,9 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:10:48&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-10 15:40:27&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:10:46&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-17 06:40:55&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Tällä sivulla näytetään viikottaisia tietoja Kelan taksimatkojen matkamääristä, matkapituuksista sekä asiakkaiden määristä koko Suomen ja maakuntien tasolla. Mukana ovat sekä korvatut matkat että alle omavastuun jääneet taksimatkat. Lisätietoja &lt;a href=&#34;http://raportit.kela.fi/ibi_apps/WFServlet?IBIF_ex=NIT130AL&#34;&gt;Kelaston raportissa &lt;code&gt;NIT130AL&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Korvausten käsittelyn ja maksamisen viiveestä johtuen &lt;strong&gt;uusin data on aina kuuden viikon takaa&lt;/strong&gt;. Tässä raportissa uusin tieto on &lt;strong&gt;viikolta 13 vuonna 2021&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Korvausten käsittelyn ja maksamisen viiveestä johtuen &lt;strong&gt;uusin data on aina kuuden viikon takaa&lt;/strong&gt;. Tässä raportissa uusin tieto on &lt;strong&gt;viikolta 14 vuonna 2021&lt;/strong&gt;.&lt;/p&gt;
 &lt;div id=&#34;matkamäärät&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Matkamäärät&lt;/h2&gt;
 &lt;div id=&#34;viikottaiset-tarkastelut&#34; class=&#34;section level3&#34;&gt;
@@ -7231,7 +7231,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#nqyengibbj .gt_table {
+#yqjlxkrtku .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -7256,7 +7256,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-left-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_heading {
+#yqjlxkrtku .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -7268,7 +7268,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_title {
+#yqjlxkrtku .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -7278,7 +7278,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-width: 0;
 }
 
-#nqyengibbj .gt_subtitle {
+#yqjlxkrtku .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -7288,13 +7288,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-width: 0;
 }
 
-#nqyengibbj .gt_bottom_border {
+#yqjlxkrtku .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_col_headings {
+#yqjlxkrtku .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7309,7 +7309,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_col_heading {
+#yqjlxkrtku .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7329,7 +7329,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#nqyengibbj .gt_column_spanner_outer {
+#yqjlxkrtku .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7341,15 +7341,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 4px;
 }
 
-#nqyengibbj .gt_column_spanner_outer:first-child {
+#yqjlxkrtku .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nqyengibbj .gt_column_spanner_outer:last-child {
+#yqjlxkrtku .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nqyengibbj .gt_column_spanner {
+#yqjlxkrtku .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -7361,7 +7361,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   width: 100%;
 }
 
-#nqyengibbj .gt_group_heading {
+#yqjlxkrtku .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7383,7 +7383,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#nqyengibbj .gt_empty_group_heading {
+#yqjlxkrtku .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -7398,15 +7398,15 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   vertical-align: middle;
 }
 
-#nqyengibbj .gt_from_md &gt; :first-child {
+#yqjlxkrtku .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#nqyengibbj .gt_from_md &gt; :last-child {
+#yqjlxkrtku .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#nqyengibbj .gt_row {
+#yqjlxkrtku .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7425,7 +7425,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   overflow-x: hidden;
 }
 
-#nqyengibbj .gt_stub {
+#yqjlxkrtku .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -7437,7 +7437,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-left: 12px;
 }
 
-#nqyengibbj .gt_summary_row {
+#yqjlxkrtku .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7447,7 +7447,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#nqyengibbj .gt_first_summary_row {
+#yqjlxkrtku .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7457,7 +7457,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_grand_summary_row {
+#yqjlxkrtku .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -7467,7 +7467,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   padding-right: 5px;
 }
 
-#nqyengibbj .gt_first_grand_summary_row {
+#yqjlxkrtku .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -7477,11 +7477,11 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-top-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_striped {
+#yqjlxkrtku .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nqyengibbj .gt_table_body {
+#yqjlxkrtku .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -7490,7 +7490,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-bottom-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_footnotes {
+#yqjlxkrtku .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7504,13 +7504,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_footnote {
+#yqjlxkrtku .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#nqyengibbj .gt_sourcenotes {
+#yqjlxkrtku .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -7524,46 +7524,46 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
   border-right-color: #D3D3D3;
 }
 
-#nqyengibbj .gt_sourcenote {
+#yqjlxkrtku .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#nqyengibbj .gt_left {
+#yqjlxkrtku .gt_left {
   text-align: left;
 }
 
-#nqyengibbj .gt_center {
+#yqjlxkrtku .gt_center {
   text-align: center;
 }
 
-#nqyengibbj .gt_right {
+#yqjlxkrtku .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nqyengibbj .gt_font_normal {
+#yqjlxkrtku .gt_font_normal {
   font-weight: normal;
 }
 
-#nqyengibbj .gt_font_bold {
+#yqjlxkrtku .gt_font_bold {
   font-weight: bold;
 }
 
-#nqyengibbj .gt_font_italic {
+#yqjlxkrtku .gt_font_italic {
   font-style: italic;
 }
 
-#nqyengibbj .gt_super {
+#yqjlxkrtku .gt_super {
   font-size: 65%;
 }
 
-#nqyengibbj .gt_footnote_marks {
+#yqjlxkrtku .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;nqyengibbj&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;div id=&#34;yqjlxkrtku&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
       &lt;th colspan=&#34;4&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Kelan korvaamat taksimatkojen määrät viikottain 2019, 2020 ja 2021&lt;/th&gt;
@@ -7584,86 +7584,86 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;1&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;51832&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;46808&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;49344&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;46812&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;49353&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;2&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;70141&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78759&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77778&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78763&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77789&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;3&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72826&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78329&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79577&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78333&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79582&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;4&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72362&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;77971&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;80075&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;80086&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;5&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73435&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;78414&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;80671&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;80686&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;6&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;74171&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;79006&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81117&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81137&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;7&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73400&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;77969&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81747&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81763&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;8&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;69645&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;75483&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79433&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79454&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;9&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;69163&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;74649&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;75361&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;74651&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;75372&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;10&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;71835&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;77654&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77361&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77396&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;11&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;73641&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;69591&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;87409&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;87567&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;12&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72878&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;43969&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78195&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78259&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;13&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72444&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;42361&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;75714&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;75930&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;14&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;72232&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;43083&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;56925&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;15&lt;/td&gt;
@@ -7722,13 +7722,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;24&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;80061&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;67568&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;67570&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;25&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;64758&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;57223&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;57224&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -7752,13 +7752,13 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;29&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;53294&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;53954&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;53956&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;30&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;55036&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;54215&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;54217&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -7770,7 +7770,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;32&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;68432&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;65856&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;65858&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -7793,37 +7793,37 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;36&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81563&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;78541&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81564&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;78545&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;37&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82252&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79805&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79807&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;38&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82820&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82823&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;80188&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;39&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;82463&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81402&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81404&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;40&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82734&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;80956&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82735&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;80958&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;41&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82296&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82307&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;77862&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
@@ -7835,62 +7835,62 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;43&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82264&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82266&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;81545&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;44&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;85333&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81033&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;85334&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81034&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;45&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;86485&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;81731&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;86487&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;81733&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;46&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;86565&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82416&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82418&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;47&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;86767&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;86771&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;83548&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;48&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;88947&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;88948&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;81879&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;49&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;78431&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;83174&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;83184&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;50&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;89347&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;82932&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;89348&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;82960&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;51&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;79273&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;77254&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;79275&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;77257&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;52&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;33279&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;42678&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;33282&lt;/td&gt;
+      &lt;td class=&#34;gt_row gt_right&#34;&gt;42680&lt;/td&gt;
       &lt;td class=&#34;gt_row gt_right&#34;&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -8054,7 +8054,7 @@ Saatavuusajan keskiarvo viikolla 18 oli puhelinpalvelussa 4 ja palvelupisteessä
 &lt;script src=&#34;https://koronamittarit.kela.fi/koronavirustutkimukset/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:10:21&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-10 18:32:45&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:10:19&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-17 10:03:59&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;korvatut-koronavirustutkimukset&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Korvatut koronavirustutkimukset&lt;/h2&gt;
 &lt;p&gt;Tilasto kuvaa Kelan korvaamien yksityisen terveydenhuollon &lt;em&gt;koronavirustutkimusten&lt;/em&gt; eli &lt;em&gt;nukleiinihappotutkimusten&lt;/em&gt;, &lt;em&gt;antigeenitutkimusten&lt;/em&gt; ja &lt;em&gt;vasta-ainetestien&lt;/em&gt; lukumäärää. Viikon numero määräytyy tilastointipäivän eli korvaushakemuksen ratkaisupäivän perusteella. Tilastointipäivä ei siis tarkoita varsinaista tutkimus- tai testipäivää.&lt;/p&gt;
@@ -8160,7 +8160,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 &lt;/style&gt;
 
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:08:53&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-14 10:02:29&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:08:50&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-17 10:02:55&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;div id=&#34;etuushakemukset-data&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;Etuushakemukset data&lt;/h1&gt;
 &lt;ul&gt;
@@ -8323,7 +8323,7 @@ code span.wa { color: #8f5902; font-weight: bold; font-style: italic; } /* Warni
 &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-14 10:10:38&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-12 07:22:28&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;badge badge-kela&#34;&gt;Sivu päivitetty &lt;code&gt;2021-05-17 10:10:36&lt;/code&gt;&lt;br/&gt;Data päivitetty &lt;code&gt;2021-05-12 07:22:28&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Yksityiskohtaisempaa tietoa koronan vaikutuksista lääkekorvauksiin on saatavilla &lt;a href=&#34;https://kelaresearchandanalytics.shinyapps.io/korona_atc_app/&#34;&gt;lääkesovelluksessa&lt;/a&gt;.&lt;/p&gt;
 &lt;div id=&#34;kelan-korvaamien-lääkkeiden-kustannukset-ostomäärät-ja-ostoja-tehneiden-henkilöiden-lukumäärät&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Kelan korvaamien lääkkeiden kustannukset, ostomäärät ja ostoja tehneiden henkilöiden lukumäärät&lt;/h2&gt;
