@@ -19,11 +19,12 @@
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä laski selvästi joulukuusta ja oli myös selvästi edellisvuoden tammikuuta pienempi.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahan&lt;/strong&gt; saajien määrä sen sijaan jatkoi kasvuaan ja sitä maksettiin joulukuussa jo yli 9 500 henkilölle. Tartuntatautipäivärahaa on haettu runsaasti myös helmikuussa. Kahden ensimmäisen viikon aikana saapui yli 7 000 hakemusta (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Kelan etuushakemukset&lt;/a&gt;-sivu).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
+&lt;div id=&#34;nzywldvegx&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#bhwupvurzq .gt_table {
+#nzywldvegx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -48,7 +49,7 @@
   border-left-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_heading {
+#nzywldvegx .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -60,7 +61,7 @@
   border-right-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_title {
+#nzywldvegx .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -70,7 +71,7 @@
   border-bottom-width: 0;
 }
 
-#bhwupvurzq .gt_subtitle {
+#nzywldvegx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -80,13 +81,13 @@
   border-top-width: 0;
 }
 
-#bhwupvurzq .gt_bottom_border {
+#nzywldvegx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_col_headings {
+#nzywldvegx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -101,7 +102,7 @@
   border-right-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_col_heading {
+#nzywldvegx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -121,7 +122,7 @@
   overflow-x: hidden;
 }
 
-#bhwupvurzq .gt_column_spanner_outer {
+#nzywldvegx .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -133,15 +134,15 @@
   padding-right: 4px;
 }
 
-#bhwupvurzq .gt_column_spanner_outer:first-child {
+#nzywldvegx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#bhwupvurzq .gt_column_spanner_outer:last-child {
+#nzywldvegx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#bhwupvurzq .gt_column_spanner {
+#nzywldvegx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -153,7 +154,7 @@
   width: 100%;
 }
 
-#bhwupvurzq .gt_group_heading {
+#nzywldvegx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -175,7 +176,7 @@
   vertical-align: middle;
 }
 
-#bhwupvurzq .gt_empty_group_heading {
+#nzywldvegx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -190,15 +191,15 @@
   vertical-align: middle;
 }
 
-#bhwupvurzq .gt_from_md &gt; :first-child {
+#nzywldvegx .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#bhwupvurzq .gt_from_md &gt; :last-child {
+#nzywldvegx .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#bhwupvurzq .gt_row {
+#nzywldvegx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -217,7 +218,7 @@
   overflow-x: hidden;
 }
 
-#bhwupvurzq .gt_stub {
+#nzywldvegx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -229,7 +230,7 @@
   padding-left: 12px;
 }
 
-#bhwupvurzq .gt_summary_row {
+#nzywldvegx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -239,7 +240,7 @@
   padding-right: 5px;
 }
 
-#bhwupvurzq .gt_first_summary_row {
+#nzywldvegx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -249,7 +250,7 @@
   border-top-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_grand_summary_row {
+#nzywldvegx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -259,7 +260,7 @@
   padding-right: 5px;
 }
 
-#bhwupvurzq .gt_first_grand_summary_row {
+#nzywldvegx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -269,11 +270,11 @@
   border-top-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_striped {
+#nzywldvegx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#bhwupvurzq .gt_table_body {
+#nzywldvegx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -282,7 +283,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_footnotes {
+#nzywldvegx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -296,13 +297,13 @@
   border-right-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_footnote {
+#nzywldvegx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#bhwupvurzq .gt_sourcenotes {
+#nzywldvegx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -316,58 +317,57 @@
   border-right-color: #D3D3D3;
 }
 
-#bhwupvurzq .gt_sourcenote {
+#nzywldvegx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#bhwupvurzq .gt_left {
+#nzywldvegx .gt_left {
   text-align: left;
 }
 
-#bhwupvurzq .gt_center {
+#nzywldvegx .gt_center {
   text-align: center;
 }
 
-#bhwupvurzq .gt_right {
+#nzywldvegx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#bhwupvurzq .gt_font_normal {
+#nzywldvegx .gt_font_normal {
   font-weight: normal;
 }
 
-#bhwupvurzq .gt_font_bold {
+#nzywldvegx .gt_font_bold {
   font-weight: bold;
 }
 
-#bhwupvurzq .gt_font_italic {
+#nzywldvegx .gt_font_italic {
   font-style: italic;
 }
 
-#bhwupvurzq .gt_super {
+#nzywldvegx .gt_super {
   font-size: 65%;
 }
 
-#bhwupvurzq .gt_footnote_marks {
+#nzywldvegx .gt_footnote_marks {
   font-style: italic;
+  font-weight: normal;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;bhwupvurzq&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
-      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
+      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal gt_bottom_border&#34; style&gt;Etuuksien saajat tammikuussa 2021&lt;/th&gt;
     &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_subtitle gt_font_normal gt_bottom_border&#34; style&gt;&lt;/th&gt;
-    &lt;/tr&gt;
+    
   &lt;/thead&gt;
   &lt;thead class=&#34;gt_col_headings&#34;&gt;
     &lt;tr&gt;
       &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_left&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_center gt_columns_bottom_border&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;saajat&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;saajat&lt;/th&gt;
       &lt;th class=&#34;gt_center gt_columns_top_border gt_column_spanner_outer&#34; rowspan=&#34;1&#34; colspan=&#34;2&#34;&gt;
         &lt;span class=&#34;gt_column_spanner&#34;&gt;ero vuodentakaiseen (tammikuu 2020)&lt;/span&gt;
       &lt;/th&gt;
@@ -376,137 +376,108 @@
       &lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody class=&#34;gt_table_body&#34;&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;240910&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+15,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+31730&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-0,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-394&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (uudet saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;6545&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-19,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1569&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+20,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1097&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (aiemmin tukea saaneet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;211990&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+5,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+10924&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-0,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1844&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yrittäjien työmarkkinatuki&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;22375&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+22375&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+353&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (kaikki saajaruokakunnat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;402280&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+7,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+27861&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-0,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-279&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (uudet saajaruokakunnat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;7426&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+15,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+986&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2,7&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-203&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;394854&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+7,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+26875&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;0&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-76&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;210468&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-0,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-895&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-4721&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;7982&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-32,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-3777&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-13,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1201&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;202486&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2882&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1,7&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-3520&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajakotitaloudet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;140444&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2887&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-3461&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajakotitaloudet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;6424&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-21,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1755&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-10,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-743&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;134020&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+3,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+4642&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-2718&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Sairauspäiväraha (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;51747&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-10,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-6323&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-8,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-4813&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Tartuntatautipäiväraha (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;9574&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+79683,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+9562&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+13,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1170&lt;/td&gt;
-    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;240910&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+15,2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+31730&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-0,2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-394&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (uudet saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;6545&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-19,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1569&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+20,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1097&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (aiemmin tukea saaneet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;211990&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+5,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+10924&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-0,9&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1844&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yrittäjien työmarkkinatuki&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;22375&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+22375&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1,6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+353&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (kaikki saajaruokakunnat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;402280&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+7,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+27861&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-0,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-279&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (uudet saajaruokakunnat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;7426&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+15,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+986&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-2,7&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-203&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;394854&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+7,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+26875&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;0&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-76&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;210468&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-0,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-895&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-2,2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-4721&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;7982&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-32,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-3777&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-13,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1201&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;202486&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2882&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1,7&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-3520&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajakotitaloudet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;140444&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2887&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-2,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-3461&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajakotitaloudet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;6424&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-21,5&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1755&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-10,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-743&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;134020&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+3,6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+4642&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-2718&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Sairauspäiväraha (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;51747&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-10,9&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-6323&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-8,5&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-4813&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Tartuntatautipäiväraha (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;9574&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+79683,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+9562&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+13,9&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1170&lt;/td&gt;&lt;/tr&gt;
   &lt;/tbody&gt;
   
   
-&lt;/table&gt;&lt;/div&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div id=&#34;saajat-maakunnittain&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Saajat maakunnittain&lt;/h2&gt;
@@ -550,11 +521,12 @@
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajien määrä kasvoi marraskuusta vain vähän – 260 ruokakunnalla – ja &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä 3 210 kotitaloudella.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä kasvoi marraskuusta selvästi –4 410 saajalla – ja &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä nousi jälleen uusiin ennätyslukemiin, kun sitä maksettiin joulukuussa yli 8 400 henkilölle.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
+&lt;div id=&#34;vermvsdsvr&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#avolitkyfc .gt_table {
+#vermvsdsvr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -579,7 +551,7 @@
   border-left-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_heading {
+#vermvsdsvr .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -591,7 +563,7 @@
   border-right-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_title {
+#vermvsdsvr .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -601,7 +573,7 @@
   border-bottom-width: 0;
 }
 
-#avolitkyfc .gt_subtitle {
+#vermvsdsvr .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -611,13 +583,13 @@
   border-top-width: 0;
 }
 
-#avolitkyfc .gt_bottom_border {
+#vermvsdsvr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_col_headings {
+#vermvsdsvr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -632,7 +604,7 @@
   border-right-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_col_heading {
+#vermvsdsvr .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -652,7 +624,7 @@
   overflow-x: hidden;
 }
 
-#avolitkyfc .gt_column_spanner_outer {
+#vermvsdsvr .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -664,15 +636,15 @@
   padding-right: 4px;
 }
 
-#avolitkyfc .gt_column_spanner_outer:first-child {
+#vermvsdsvr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#avolitkyfc .gt_column_spanner_outer:last-child {
+#vermvsdsvr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#avolitkyfc .gt_column_spanner {
+#vermvsdsvr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -684,7 +656,7 @@
   width: 100%;
 }
 
-#avolitkyfc .gt_group_heading {
+#vermvsdsvr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -706,7 +678,7 @@
   vertical-align: middle;
 }
 
-#avolitkyfc .gt_empty_group_heading {
+#vermvsdsvr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -721,15 +693,15 @@
   vertical-align: middle;
 }
 
-#avolitkyfc .gt_from_md &gt; :first-child {
+#vermvsdsvr .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#avolitkyfc .gt_from_md &gt; :last-child {
+#vermvsdsvr .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#avolitkyfc .gt_row {
+#vermvsdsvr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -748,7 +720,7 @@
   overflow-x: hidden;
 }
 
-#avolitkyfc .gt_stub {
+#vermvsdsvr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -760,7 +732,7 @@
   padding-left: 12px;
 }
 
-#avolitkyfc .gt_summary_row {
+#vermvsdsvr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -770,7 +742,7 @@
   padding-right: 5px;
 }
 
-#avolitkyfc .gt_first_summary_row {
+#vermvsdsvr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -780,7 +752,7 @@
   border-top-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_grand_summary_row {
+#vermvsdsvr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -790,7 +762,7 @@
   padding-right: 5px;
 }
 
-#avolitkyfc .gt_first_grand_summary_row {
+#vermvsdsvr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -800,11 +772,11 @@
   border-top-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_striped {
+#vermvsdsvr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#avolitkyfc .gt_table_body {
+#vermvsdsvr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -813,7 +785,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_footnotes {
+#vermvsdsvr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -827,13 +799,13 @@
   border-right-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_footnote {
+#vermvsdsvr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#avolitkyfc .gt_sourcenotes {
+#vermvsdsvr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -847,58 +819,57 @@
   border-right-color: #D3D3D3;
 }
 
-#avolitkyfc .gt_sourcenote {
+#vermvsdsvr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#avolitkyfc .gt_left {
+#vermvsdsvr .gt_left {
   text-align: left;
 }
 
-#avolitkyfc .gt_center {
+#vermvsdsvr .gt_center {
   text-align: center;
 }
 
-#avolitkyfc .gt_right {
+#vermvsdsvr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#avolitkyfc .gt_font_normal {
+#vermvsdsvr .gt_font_normal {
   font-weight: normal;
 }
 
-#avolitkyfc .gt_font_bold {
+#vermvsdsvr .gt_font_bold {
   font-weight: bold;
 }
 
-#avolitkyfc .gt_font_italic {
+#vermvsdsvr .gt_font_italic {
   font-style: italic;
 }
 
-#avolitkyfc .gt_super {
+#vermvsdsvr .gt_super {
   font-size: 65%;
 }
 
-#avolitkyfc .gt_footnote_marks {
+#vermvsdsvr .gt_footnote_marks {
   font-style: italic;
+  font-weight: normal;
   font-size: 65%;
 }
 &lt;/style&gt;
-&lt;div id=&#34;avolitkyfc&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;&lt;table class=&#34;gt_table&#34;&gt;
+&lt;table class=&#34;gt_table&#34;&gt;
   &lt;thead class=&#34;gt_header&#34;&gt;
     &lt;tr&gt;
-      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
+      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_title gt_font_normal gt_bottom_border&#34; style&gt;Etuuksien saajat joulukuussa 2020&lt;/th&gt;
     &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th colspan=&#34;6&#34; class=&#34;gt_heading gt_subtitle gt_font_normal gt_bottom_border&#34; style&gt;&lt;/th&gt;
-    &lt;/tr&gt;
+    
   &lt;/thead&gt;
   &lt;thead class=&#34;gt_col_headings&#34;&gt;
     &lt;tr&gt;
       &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_left&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_center gt_columns_bottom_border&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;saajat&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;2&#34; colspan=&#34;1&#34;&gt;saajat&lt;/th&gt;
       &lt;th class=&#34;gt_center gt_columns_top_border gt_column_spanner_outer&#34; rowspan=&#34;1&#34; colspan=&#34;2&#34;&gt;
         &lt;span class=&#34;gt_column_spanner&#34;&gt;ero vuodentakaiseen (joulukuu 2019)&lt;/span&gt;
       &lt;/th&gt;
@@ -907,137 +878,108 @@
       &lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
-      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_center&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (%)&lt;/th&gt;
+      &lt;th class=&#34;gt_col_heading gt_columns_bottom_border gt_right&#34; rowspan=&#34;1&#34; colspan=&#34;1&#34;&gt;ero (kpl)&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody class=&#34;gt_table_body&#34;&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;241304&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+19,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+39325&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+5230&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (uudet saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;5448&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-20,9&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1440&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-3,8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-213&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (aiemmin tukea saaneet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;213834&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+9,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+18743&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+4325&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yrittäjien työmarkkinatuki&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;22022&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+5,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1118&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (kaikki saajaruokakunnat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;402559&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+22892&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+0,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+260&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (uudet saajaruokakunnat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;7629&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-5,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-416&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-16,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;-1463&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;394930&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+6,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+23308&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+0,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1723&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;215189&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+5,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+11283&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+4130&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;9183&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+5,8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+502&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+0,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;206006&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+5,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+10781&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+4119&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajakotitaloudet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;143905&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+7,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+10194&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+3210&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajakotitaloudet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;7167&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+11,8&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+757&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,1&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+146&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;136738&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+7,4&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+9437&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,3&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+3064&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Sairauspäiväraha (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;56560&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+2,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+1414&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+8,5&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+4410&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Tartuntatautipäiväraha (kaikki saajat)&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;8404&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+64546,2&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+8391&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+81,6&lt;/td&gt;
-      &lt;td class=&#34;gt_row gt_right&#34;&gt;+3775&lt;/td&gt;
-    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;241304&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+19,5&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+39325&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+5230&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (uudet saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;5448&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-20,9&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1440&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-3,8&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-213&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Työttömyysturva (aiemmin tukea saaneet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;213834&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+9,6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+18743&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+4325&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yrittäjien työmarkkinatuki&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;22022&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;&amp;mdash;&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+5,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1118&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (kaikki saajaruokakunnat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;402559&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+22892&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+0,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+260&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (uudet saajaruokakunnat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;7629&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-5,2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-416&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-16,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;-1463&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Yleinen asumistuki (aiemmin tukea saaneet ruokakunnat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;394930&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+6,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+23308&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+0,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1723&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;215189&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+5,5&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+11283&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+4130&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;9183&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+5,8&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+502&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+0,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+11&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;206006&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+5,5&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+10781&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+4119&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (kaikki saajakotitaloudet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;143905&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+7,6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+10194&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+3210&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (uudet saajakotitaloudet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;7167&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+11,8&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+757&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,1&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+146&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Perustoimeentulotuki (aiemmin tukea saaneet kotitaloudet)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;136738&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+7,4&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+9437&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,3&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+3064&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Sairauspäiväraha (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;56560&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+2,6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+1414&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+8,5&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+4410&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td class=&#34;gt_row gt_left gt_stub&#34;&gt;Tartuntatautipäiväraha (kaikki saajat)&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;8404&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+64546,2&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+8391&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+81,6&lt;/td&gt;
+&lt;td class=&#34;gt_row gt_right&#34;&gt;+3775&lt;/td&gt;&lt;/tr&gt;
   &lt;/tbody&gt;
   
   
-&lt;/table&gt;&lt;/div&gt;
+&lt;/table&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;eiluokkaa&#34;&gt;
 
