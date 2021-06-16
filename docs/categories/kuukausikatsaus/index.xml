@@ -19,12 +19,12 @@
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä laski selvästi joulukuusta ja oli myös selvästi edellisvuoden tammikuuta pienempi.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahan&lt;/strong&gt; saajien määrä sen sijaan jatkoi kasvuaan ja sitä maksettiin joulukuussa jo yli 9 500 henkilölle. Tartuntatautipäivärahaa on haettu runsaasti myös helmikuussa. Kahden ensimmäisen viikon aikana saapui yli 7 000 hakemusta (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Kelan etuushakemukset&lt;/a&gt;-sivu).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;lfkqxcoftg&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;riwayebdgx&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#lfkqxcoftg .gt_table {
+#riwayebdgx .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -49,7 +49,7 @@
   border-left-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_heading {
+#riwayebdgx .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -61,7 +61,7 @@
   border-right-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_title {
+#riwayebdgx .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -71,7 +71,7 @@
   border-bottom-width: 0;
 }
 
-#lfkqxcoftg .gt_subtitle {
+#riwayebdgx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -81,13 +81,13 @@
   border-top-width: 0;
 }
 
-#lfkqxcoftg .gt_bottom_border {
+#riwayebdgx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_col_headings {
+#riwayebdgx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -102,7 +102,7 @@
   border-right-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_col_heading {
+#riwayebdgx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -122,7 +122,7 @@
   overflow-x: hidden;
 }
 
-#lfkqxcoftg .gt_column_spanner_outer {
+#riwayebdgx .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -134,15 +134,15 @@
   padding-right: 4px;
 }
 
-#lfkqxcoftg .gt_column_spanner_outer:first-child {
+#riwayebdgx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#lfkqxcoftg .gt_column_spanner_outer:last-child {
+#riwayebdgx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#lfkqxcoftg .gt_column_spanner {
+#riwayebdgx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -154,7 +154,7 @@
   width: 100%;
 }
 
-#lfkqxcoftg .gt_group_heading {
+#riwayebdgx .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,7 +176,7 @@
   vertical-align: middle;
 }
 
-#lfkqxcoftg .gt_empty_group_heading {
+#riwayebdgx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -191,15 +191,15 @@
   vertical-align: middle;
 }
 
-#lfkqxcoftg .gt_from_md &gt; :first-child {
+#riwayebdgx .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#lfkqxcoftg .gt_from_md &gt; :last-child {
+#riwayebdgx .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#lfkqxcoftg .gt_row {
+#riwayebdgx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -218,7 +218,7 @@
   overflow-x: hidden;
 }
 
-#lfkqxcoftg .gt_stub {
+#riwayebdgx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -230,7 +230,7 @@
   padding-left: 12px;
 }
 
-#lfkqxcoftg .gt_summary_row {
+#riwayebdgx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -240,7 +240,7 @@
   padding-right: 5px;
 }
 
-#lfkqxcoftg .gt_first_summary_row {
+#riwayebdgx .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -250,7 +250,7 @@
   border-top-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_grand_summary_row {
+#riwayebdgx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -260,7 +260,7 @@
   padding-right: 5px;
 }
 
-#lfkqxcoftg .gt_first_grand_summary_row {
+#riwayebdgx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -270,11 +270,11 @@
   border-top-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_striped {
+#riwayebdgx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#lfkqxcoftg .gt_table_body {
+#riwayebdgx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -283,7 +283,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_footnotes {
+#riwayebdgx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -297,13 +297,13 @@
   border-right-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_footnote {
+#riwayebdgx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#lfkqxcoftg .gt_sourcenotes {
+#riwayebdgx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -317,41 +317,41 @@
   border-right-color: #D3D3D3;
 }
 
-#lfkqxcoftg .gt_sourcenote {
+#riwayebdgx .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#lfkqxcoftg .gt_left {
+#riwayebdgx .gt_left {
   text-align: left;
 }
 
-#lfkqxcoftg .gt_center {
+#riwayebdgx .gt_center {
   text-align: center;
 }
 
-#lfkqxcoftg .gt_right {
+#riwayebdgx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#lfkqxcoftg .gt_font_normal {
+#riwayebdgx .gt_font_normal {
   font-weight: normal;
 }
 
-#lfkqxcoftg .gt_font_bold {
+#riwayebdgx .gt_font_bold {
   font-weight: bold;
 }
 
-#lfkqxcoftg .gt_font_italic {
+#riwayebdgx .gt_font_italic {
   font-style: italic;
 }
 
-#lfkqxcoftg .gt_super {
+#riwayebdgx .gt_super {
   font-size: 65%;
 }
 
-#lfkqxcoftg .gt_footnote_marks {
+#riwayebdgx .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -521,12 +521,12 @@
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajien määrä kasvoi marraskuusta vain vähän – 260 ruokakunnalla – ja &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä 3 210 kotitaloudella.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä kasvoi marraskuusta selvästi –4 410 saajalla – ja &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä nousi jälleen uusiin ennätyslukemiin, kun sitä maksettiin joulukuussa yli 8 400 henkilölle.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;wbutmjhysd&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;gbbntmtcwl&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#wbutmjhysd .gt_table {
+#gbbntmtcwl .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -551,7 +551,7 @@
   border-left-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_heading {
+#gbbntmtcwl .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -563,7 +563,7 @@
   border-right-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_title {
+#gbbntmtcwl .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -573,7 +573,7 @@
   border-bottom-width: 0;
 }
 
-#wbutmjhysd .gt_subtitle {
+#gbbntmtcwl .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -583,13 +583,13 @@
   border-top-width: 0;
 }
 
-#wbutmjhysd .gt_bottom_border {
+#gbbntmtcwl .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_col_headings {
+#gbbntmtcwl .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -604,7 +604,7 @@
   border-right-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_col_heading {
+#gbbntmtcwl .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -624,7 +624,7 @@
   overflow-x: hidden;
 }
 
-#wbutmjhysd .gt_column_spanner_outer {
+#gbbntmtcwl .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -636,15 +636,15 @@
   padding-right: 4px;
 }
 
-#wbutmjhysd .gt_column_spanner_outer:first-child {
+#gbbntmtcwl .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wbutmjhysd .gt_column_spanner_outer:last-child {
+#gbbntmtcwl .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wbutmjhysd .gt_column_spanner {
+#gbbntmtcwl .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -656,7 +656,7 @@
   width: 100%;
 }
 
-#wbutmjhysd .gt_group_heading {
+#gbbntmtcwl .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -678,7 +678,7 @@
   vertical-align: middle;
 }
 
-#wbutmjhysd .gt_empty_group_heading {
+#gbbntmtcwl .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -693,15 +693,15 @@
   vertical-align: middle;
 }
 
-#wbutmjhysd .gt_from_md &gt; :first-child {
+#gbbntmtcwl .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#wbutmjhysd .gt_from_md &gt; :last-child {
+#gbbntmtcwl .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#wbutmjhysd .gt_row {
+#gbbntmtcwl .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -720,7 +720,7 @@
   overflow-x: hidden;
 }
 
-#wbutmjhysd .gt_stub {
+#gbbntmtcwl .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -732,7 +732,7 @@
   padding-left: 12px;
 }
 
-#wbutmjhysd .gt_summary_row {
+#gbbntmtcwl .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -742,7 +742,7 @@
   padding-right: 5px;
 }
 
-#wbutmjhysd .gt_first_summary_row {
+#gbbntmtcwl .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -752,7 +752,7 @@
   border-top-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_grand_summary_row {
+#gbbntmtcwl .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -762,7 +762,7 @@
   padding-right: 5px;
 }
 
-#wbutmjhysd .gt_first_grand_summary_row {
+#gbbntmtcwl .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -772,11 +772,11 @@
   border-top-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_striped {
+#gbbntmtcwl .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wbutmjhysd .gt_table_body {
+#gbbntmtcwl .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -785,7 +785,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_footnotes {
+#gbbntmtcwl .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -799,13 +799,13 @@
   border-right-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_footnote {
+#gbbntmtcwl .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wbutmjhysd .gt_sourcenotes {
+#gbbntmtcwl .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -819,41 +819,41 @@
   border-right-color: #D3D3D3;
 }
 
-#wbutmjhysd .gt_sourcenote {
+#gbbntmtcwl .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wbutmjhysd .gt_left {
+#gbbntmtcwl .gt_left {
   text-align: left;
 }
 
-#wbutmjhysd .gt_center {
+#gbbntmtcwl .gt_center {
   text-align: center;
 }
 
-#wbutmjhysd .gt_right {
+#gbbntmtcwl .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wbutmjhysd .gt_font_normal {
+#gbbntmtcwl .gt_font_normal {
   font-weight: normal;
 }
 
-#wbutmjhysd .gt_font_bold {
+#gbbntmtcwl .gt_font_bold {
   font-weight: bold;
 }
 
-#wbutmjhysd .gt_font_italic {
+#gbbntmtcwl .gt_font_italic {
   font-style: italic;
 }
 
-#wbutmjhysd .gt_super {
+#gbbntmtcwl .gt_super {
   font-size: 65%;
 }
 
-#wbutmjhysd .gt_footnote_marks {
+#gbbntmtcwl .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
