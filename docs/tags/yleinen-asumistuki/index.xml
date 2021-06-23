@@ -19,12 +19,12 @@
 &lt;p&gt;&lt;strong&gt;Yleistä asumistukea&lt;/strong&gt; saavia ruokakuntia oli lähes 3 000 ruokakuntaa vähemmän kuin huhtikuussa, mutta kuitenkin yli 14 000 enemmän kuin vuotta aiemmin.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien ja henkilöiden määrä laski noin 2 prosentilla ja tukea saavia henkilöitä oli 10 prosenttia vähemmän ja kotitalouksia 7 prosenttia vähemmän kuin edellisvuoden toukokuussa.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;ucjavyugth&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;quumexociy&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#ucjavyugth .gt_table {
+#quumexociy .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -49,7 +49,7 @@
   border-left-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_heading {
+#quumexociy .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -61,7 +61,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_title {
+#quumexociy .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -71,7 +71,7 @@
   border-bottom-width: 0;
 }
 
-#ucjavyugth .gt_subtitle {
+#quumexociy .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -81,13 +81,13 @@
   border-top-width: 0;
 }
 
-#ucjavyugth .gt_bottom_border {
+#quumexociy .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_col_headings {
+#quumexociy .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -102,7 +102,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_col_heading {
+#quumexociy .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -122,7 +122,7 @@
   overflow-x: hidden;
 }
 
-#ucjavyugth .gt_column_spanner_outer {
+#quumexociy .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -134,15 +134,15 @@
   padding-right: 4px;
 }
 
-#ucjavyugth .gt_column_spanner_outer:first-child {
+#quumexociy .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ucjavyugth .gt_column_spanner_outer:last-child {
+#quumexociy .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ucjavyugth .gt_column_spanner {
+#quumexociy .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -154,7 +154,7 @@
   width: 100%;
 }
 
-#ucjavyugth .gt_group_heading {
+#quumexociy .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,7 +176,7 @@
   vertical-align: middle;
 }
 
-#ucjavyugth .gt_empty_group_heading {
+#quumexociy .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -191,15 +191,15 @@
   vertical-align: middle;
 }
 
-#ucjavyugth .gt_from_md &gt; :first-child {
+#quumexociy .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#ucjavyugth .gt_from_md &gt; :last-child {
+#quumexociy .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#ucjavyugth .gt_row {
+#quumexociy .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -218,7 +218,7 @@
   overflow-x: hidden;
 }
 
-#ucjavyugth .gt_stub {
+#quumexociy .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -230,7 +230,7 @@
   padding-left: 12px;
 }
 
-#ucjavyugth .gt_summary_row {
+#quumexociy .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -240,7 +240,7 @@
   padding-right: 5px;
 }
 
-#ucjavyugth .gt_first_summary_row {
+#quumexociy .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -250,7 +250,7 @@
   border-top-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_grand_summary_row {
+#quumexociy .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -260,7 +260,7 @@
   padding-right: 5px;
 }
 
-#ucjavyugth .gt_first_grand_summary_row {
+#quumexociy .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -270,11 +270,11 @@
   border-top-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_striped {
+#quumexociy .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ucjavyugth .gt_table_body {
+#quumexociy .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -283,7 +283,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_footnotes {
+#quumexociy .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -297,13 +297,13 @@
   border-right-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_footnote {
+#quumexociy .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ucjavyugth .gt_sourcenotes {
+#quumexociy .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -317,41 +317,41 @@
   border-right-color: #D3D3D3;
 }
 
-#ucjavyugth .gt_sourcenote {
+#quumexociy .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ucjavyugth .gt_left {
+#quumexociy .gt_left {
   text-align: left;
 }
 
-#ucjavyugth .gt_center {
+#quumexociy .gt_center {
   text-align: center;
 }
 
-#ucjavyugth .gt_right {
+#quumexociy .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ucjavyugth .gt_font_normal {
+#quumexociy .gt_font_normal {
   font-weight: normal;
 }
 
-#ucjavyugth .gt_font_bold {
+#quumexociy .gt_font_bold {
   font-weight: bold;
 }
 
-#ucjavyugth .gt_font_italic {
+#quumexociy .gt_font_italic {
   font-style: italic;
 }
 
-#ucjavyugth .gt_super {
+#quumexociy .gt_super {
   font-size: 65%;
 }
 
-#ucjavyugth .gt_footnote_marks {
+#quumexociy .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -517,12 +517,12 @@
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä laski maaliskuusta lähes 4 000 henkilöllä ja saajia oli neljänneksen vähemmän kuin edellisvuoden huhtikuussa.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahan&lt;/strong&gt; saajien määrä laski edelliskuusta ensimmäistä kertaa sitten kesän. Etuutta maksettiin kuitenkin edelleen yli 14 000 henkilölle. Myös hakemuksia saapuu edelleen viikoittain yli 4 000 kappaletta.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;zulgwtytot&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;vgphfupazs&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#zulgwtytot .gt_table {
+#vgphfupazs .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -547,7 +547,7 @@
   border-left-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_heading {
+#vgphfupazs .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -559,7 +559,7 @@
   border-right-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_title {
+#vgphfupazs .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -569,7 +569,7 @@
   border-bottom-width: 0;
 }
 
-#zulgwtytot .gt_subtitle {
+#vgphfupazs .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -579,13 +579,13 @@
   border-top-width: 0;
 }
 
-#zulgwtytot .gt_bottom_border {
+#vgphfupazs .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_col_headings {
+#vgphfupazs .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -600,7 +600,7 @@
   border-right-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_col_heading {
+#vgphfupazs .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -620,7 +620,7 @@
   overflow-x: hidden;
 }
 
-#zulgwtytot .gt_column_spanner_outer {
+#vgphfupazs .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -632,15 +632,15 @@
   padding-right: 4px;
 }
 
-#zulgwtytot .gt_column_spanner_outer:first-child {
+#vgphfupazs .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zulgwtytot .gt_column_spanner_outer:last-child {
+#vgphfupazs .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zulgwtytot .gt_column_spanner {
+#vgphfupazs .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -652,7 +652,7 @@
   width: 100%;
 }
 
-#zulgwtytot .gt_group_heading {
+#vgphfupazs .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -674,7 +674,7 @@
   vertical-align: middle;
 }
 
-#zulgwtytot .gt_empty_group_heading {
+#vgphfupazs .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -689,15 +689,15 @@
   vertical-align: middle;
 }
 
-#zulgwtytot .gt_from_md &gt; :first-child {
+#vgphfupazs .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#zulgwtytot .gt_from_md &gt; :last-child {
+#vgphfupazs .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#zulgwtytot .gt_row {
+#vgphfupazs .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -716,7 +716,7 @@
   overflow-x: hidden;
 }
 
-#zulgwtytot .gt_stub {
+#vgphfupazs .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -728,7 +728,7 @@
   padding-left: 12px;
 }
 
-#zulgwtytot .gt_summary_row {
+#vgphfupazs .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -738,7 +738,7 @@
   padding-right: 5px;
 }
 
-#zulgwtytot .gt_first_summary_row {
+#vgphfupazs .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -748,7 +748,7 @@
   border-top-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_grand_summary_row {
+#vgphfupazs .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -758,7 +758,7 @@
   padding-right: 5px;
 }
 
-#zulgwtytot .gt_first_grand_summary_row {
+#vgphfupazs .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -768,11 +768,11 @@
   border-top-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_striped {
+#vgphfupazs .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zulgwtytot .gt_table_body {
+#vgphfupazs .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -781,7 +781,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_footnotes {
+#vgphfupazs .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -795,13 +795,13 @@
   border-right-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_footnote {
+#vgphfupazs .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zulgwtytot .gt_sourcenotes {
+#vgphfupazs .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -815,41 +815,41 @@
   border-right-color: #D3D3D3;
 }
 
-#zulgwtytot .gt_sourcenote {
+#vgphfupazs .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zulgwtytot .gt_left {
+#vgphfupazs .gt_left {
   text-align: left;
 }
 
-#zulgwtytot .gt_center {
+#vgphfupazs .gt_center {
   text-align: center;
 }
 
-#zulgwtytot .gt_right {
+#vgphfupazs .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zulgwtytot .gt_font_normal {
+#vgphfupazs .gt_font_normal {
   font-weight: normal;
 }
 
-#zulgwtytot .gt_font_bold {
+#vgphfupazs .gt_font_bold {
   font-weight: bold;
 }
 
-#zulgwtytot .gt_font_italic {
+#vgphfupazs .gt_font_italic {
   font-style: italic;
 }
 
-#zulgwtytot .gt_super {
+#vgphfupazs .gt_super {
   font-size: 65%;
 }
 
-#zulgwtytot .gt_footnote_marks {
+#vgphfupazs .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1016,12 +1016,12 @@
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä kasvoi selvästi helmikuusta, mutta saajia oli hieman vähemmän kuin vuoden 2020 maaliskuussa.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahaa&lt;/strong&gt; maksettiin maaliskuussa lähes 17 000 henkilölle. Saajien määrä kasvoi helmikuusta 40 prosentilla. Tartuntatautipäivärahaa on maksettu vuoden ensimmäisen kolmen kuukauden aikana yhteensä jo yli 37 000 henkilölle, kun sitä koko viime vuoden aikana maksettiin 27 000 henkilölle.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;pvhvcbatdf&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;prkrxomjwk&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#pvhvcbatdf .gt_table {
+#prkrxomjwk .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1046,7 +1046,7 @@
   border-left-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_heading {
+#prkrxomjwk .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1058,7 +1058,7 @@
   border-right-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_title {
+#prkrxomjwk .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1068,7 +1068,7 @@
   border-bottom-width: 0;
 }
 
-#pvhvcbatdf .gt_subtitle {
+#prkrxomjwk .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1078,13 +1078,13 @@
   border-top-width: 0;
 }
 
-#pvhvcbatdf .gt_bottom_border {
+#prkrxomjwk .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_col_headings {
+#prkrxomjwk .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1099,7 +1099,7 @@
   border-right-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_col_heading {
+#prkrxomjwk .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1119,7 +1119,7 @@
   overflow-x: hidden;
 }
 
-#pvhvcbatdf .gt_column_spanner_outer {
+#prkrxomjwk .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1131,15 +1131,15 @@
   padding-right: 4px;
 }
 
-#pvhvcbatdf .gt_column_spanner_outer:first-child {
+#prkrxomjwk .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#pvhvcbatdf .gt_column_spanner_outer:last-child {
+#prkrxomjwk .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#pvhvcbatdf .gt_column_spanner {
+#prkrxomjwk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1151,7 +1151,7 @@
   width: 100%;
 }
 
-#pvhvcbatdf .gt_group_heading {
+#prkrxomjwk .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1173,7 +1173,7 @@
   vertical-align: middle;
 }
 
-#pvhvcbatdf .gt_empty_group_heading {
+#prkrxomjwk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1188,15 +1188,15 @@
   vertical-align: middle;
 }
 
-#pvhvcbatdf .gt_from_md &gt; :first-child {
+#prkrxomjwk .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#pvhvcbatdf .gt_from_md &gt; :last-child {
+#prkrxomjwk .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#pvhvcbatdf .gt_row {
+#prkrxomjwk .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1215,7 +1215,7 @@
   overflow-x: hidden;
 }
 
-#pvhvcbatdf .gt_stub {
+#prkrxomjwk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1227,7 +1227,7 @@
   padding-left: 12px;
 }
 
-#pvhvcbatdf .gt_summary_row {
+#prkrxomjwk .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1237,7 +1237,7 @@
   padding-right: 5px;
 }
 
-#pvhvcbatdf .gt_first_summary_row {
+#prkrxomjwk .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1247,7 +1247,7 @@
   border-top-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_grand_summary_row {
+#prkrxomjwk .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1257,7 +1257,7 @@
   padding-right: 5px;
 }
 
-#pvhvcbatdf .gt_first_grand_summary_row {
+#prkrxomjwk .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1267,11 +1267,11 @@
   border-top-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_striped {
+#prkrxomjwk .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#pvhvcbatdf .gt_table_body {
+#prkrxomjwk .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1280,7 +1280,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_footnotes {
+#prkrxomjwk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1294,13 +1294,13 @@
   border-right-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_footnote {
+#prkrxomjwk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#pvhvcbatdf .gt_sourcenotes {
+#prkrxomjwk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1314,41 +1314,41 @@
   border-right-color: #D3D3D3;
 }
 
-#pvhvcbatdf .gt_sourcenote {
+#prkrxomjwk .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#pvhvcbatdf .gt_left {
+#prkrxomjwk .gt_left {
   text-align: left;
 }
 
-#pvhvcbatdf .gt_center {
+#prkrxomjwk .gt_center {
   text-align: center;
 }
 
-#pvhvcbatdf .gt_right {
+#prkrxomjwk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#pvhvcbatdf .gt_font_normal {
+#prkrxomjwk .gt_font_normal {
   font-weight: normal;
 }
 
-#pvhvcbatdf .gt_font_bold {
+#prkrxomjwk .gt_font_bold {
   font-weight: bold;
 }
 
-#pvhvcbatdf .gt_font_italic {
+#prkrxomjwk .gt_font_italic {
   font-style: italic;
 }
 
-#pvhvcbatdf .gt_super {
+#prkrxomjwk .gt_super {
   font-size: 65%;
 }
 
-#pvhvcbatdf .gt_footnote_marks {
+#prkrxomjwk .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1514,12 +1514,12 @@
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotukea&lt;/strong&gt; saavia kotitalouksia oli noin 3 000 enemmän kuin edelliskuussa ja vuotta aiemmin. Tukea saavien henkilöiden määrä sen sijaan on hieman pienempi kuin edellisvuoden helmikuussa. Tämä johtuu siitä, että kotitalouksien joukossa on nyt selvästi enemmän yksin asuvien kotitalouksia kuin vuoden 2020 helmikuussa. Tukea saavien useamman hengen kotitalouksien määrä sen sijaan on hieman laskenut.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä laski 8 prosentilla tammikuusta. Saajia oli helmikuussa saman verran kuin vuotta aiemmin. &lt;strong&gt;Tartuntatautipäivärahan&lt;/strong&gt; saajien määrä jatkoi edelleen kasvuaan ja sitä maksettiin helmikuussa jo lähes 12 000 henkilölle.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;jdnupshzyh&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;vluzmprsoe&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#jdnupshzyh .gt_table {
+#vluzmprsoe .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -1544,7 +1544,7 @@
   border-left-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_heading {
+#vluzmprsoe .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1556,7 +1556,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_title {
+#vluzmprsoe .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1566,7 +1566,7 @@
   border-bottom-width: 0;
 }
 
-#jdnupshzyh .gt_subtitle {
+#vluzmprsoe .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1576,13 +1576,13 @@
   border-top-width: 0;
 }
 
-#jdnupshzyh .gt_bottom_border {
+#vluzmprsoe .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_col_headings {
+#vluzmprsoe .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1597,7 +1597,7 @@
   border-right-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_col_heading {
+#vluzmprsoe .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1617,7 +1617,7 @@
   overflow-x: hidden;
 }
 
-#jdnupshzyh .gt_column_spanner_outer {
+#vluzmprsoe .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1629,15 +1629,15 @@
   padding-right: 4px;
 }
 
-#jdnupshzyh .gt_column_spanner_outer:first-child {
+#vluzmprsoe .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jdnupshzyh .gt_column_spanner_outer:last-child {
+#vluzmprsoe .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jdnupshzyh .gt_column_spanner {
+#vluzmprsoe .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1649,7 +1649,7 @@
   width: 100%;
 }
 
-#jdnupshzyh .gt_group_heading {
+#vluzmprsoe .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1671,7 +1671,7 @@
   vertical-align: middle;
 }
 
-#jdnupshzyh .gt_empty_group_heading {
+#vluzmprsoe .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1686,15 +1686,15 @@
   vertical-align: middle;
 }
 
-#jdnupshzyh .gt_from_md &gt; :first-child {
+#vluzmprsoe .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#jdnupshzyh .gt_from_md &gt; :last-child {
+#vluzmprsoe .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#jdnupshzyh .gt_row {
+#vluzmprsoe .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1713,7 +1713,7 @@
   overflow-x: hidden;
 }
 
-#jdnupshzyh .gt_stub {
+#vluzmprsoe .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1725,7 +1725,7 @@
   padding-left: 12px;
 }
 
-#jdnupshzyh .gt_summary_row {
+#vluzmprsoe .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1735,7 +1735,7 @@
   padding-right: 5px;
 }
 
-#jdnupshzyh .gt_first_summary_row {
+#vluzmprsoe .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1745,7 +1745,7 @@
   border-top-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_grand_summary_row {
+#vluzmprsoe .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1755,7 +1755,7 @@
   padding-right: 5px;
 }
 
-#jdnupshzyh .gt_first_grand_summary_row {
+#vluzmprsoe .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1765,11 +1765,11 @@
   border-top-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_striped {
+#vluzmprsoe .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jdnupshzyh .gt_table_body {
+#vluzmprsoe .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1778,7 +1778,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_footnotes {
+#vluzmprsoe .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1792,13 +1792,13 @@
   border-right-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_footnote {
+#vluzmprsoe .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jdnupshzyh .gt_sourcenotes {
+#vluzmprsoe .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1812,41 +1812,41 @@
   border-right-color: #D3D3D3;
 }
 
-#jdnupshzyh .gt_sourcenote {
+#vluzmprsoe .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jdnupshzyh .gt_left {
+#vluzmprsoe .gt_left {
   text-align: left;
 }
 
-#jdnupshzyh .gt_center {
+#vluzmprsoe .gt_center {
   text-align: center;
 }
 
-#jdnupshzyh .gt_right {
+#vluzmprsoe .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jdnupshzyh .gt_font_normal {
+#vluzmprsoe .gt_font_normal {
   font-weight: normal;
 }
 
-#jdnupshzyh .gt_font_bold {
+#vluzmprsoe .gt_font_bold {
   font-weight: bold;
 }
 
-#jdnupshzyh .gt_font_italic {
+#vluzmprsoe .gt_font_italic {
   font-style: italic;
 }
 
-#jdnupshzyh .gt_super {
+#vluzmprsoe .gt_super {
   font-size: 65%;
 }
 
-#jdnupshzyh .gt_footnote_marks {
+#vluzmprsoe .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2012,12 +2012,12 @@
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä laski selvästi joulukuusta ja oli myös selvästi edellisvuoden tammikuuta pienempi.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tartuntatautipäivärahan&lt;/strong&gt; saajien määrä sen sijaan jatkoi kasvuaan ja sitä maksettiin joulukuussa jo yli 9 500 henkilölle. Tartuntatautipäivärahaa on haettu runsaasti myös helmikuussa. Kahden ensimmäisen viikon aikana saapui yli 7 000 hakemusta (ks. tarkemmin &lt;a href=&#34;https://koronamittarit.kela.fi/etuushakemukset/&#34;&gt;Kelan etuushakemukset&lt;/a&gt;-sivu).&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;rxdihvokfz&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;bskztuxssw&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#rxdihvokfz .gt_table {
+#bskztuxssw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2042,7 +2042,7 @@
   border-left-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_heading {
+#bskztuxssw .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2054,7 +2054,7 @@
   border-right-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_title {
+#bskztuxssw .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2064,7 +2064,7 @@
   border-bottom-width: 0;
 }
 
-#rxdihvokfz .gt_subtitle {
+#bskztuxssw .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2074,13 +2074,13 @@
   border-top-width: 0;
 }
 
-#rxdihvokfz .gt_bottom_border {
+#bskztuxssw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_col_headings {
+#bskztuxssw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2095,7 +2095,7 @@
   border-right-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_col_heading {
+#bskztuxssw .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2115,7 +2115,7 @@
   overflow-x: hidden;
 }
 
-#rxdihvokfz .gt_column_spanner_outer {
+#bskztuxssw .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2127,15 +2127,15 @@
   padding-right: 4px;
 }
 
-#rxdihvokfz .gt_column_spanner_outer:first-child {
+#bskztuxssw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#rxdihvokfz .gt_column_spanner_outer:last-child {
+#bskztuxssw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#rxdihvokfz .gt_column_spanner {
+#bskztuxssw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2147,7 +2147,7 @@
   width: 100%;
 }
 
-#rxdihvokfz .gt_group_heading {
+#bskztuxssw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2169,7 +2169,7 @@
   vertical-align: middle;
 }
 
-#rxdihvokfz .gt_empty_group_heading {
+#bskztuxssw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2184,15 +2184,15 @@
   vertical-align: middle;
 }
 
-#rxdihvokfz .gt_from_md &gt; :first-child {
+#bskztuxssw .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#rxdihvokfz .gt_from_md &gt; :last-child {
+#bskztuxssw .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#rxdihvokfz .gt_row {
+#bskztuxssw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2211,7 +2211,7 @@
   overflow-x: hidden;
 }
 
-#rxdihvokfz .gt_stub {
+#bskztuxssw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2223,7 +2223,7 @@
   padding-left: 12px;
 }
 
-#rxdihvokfz .gt_summary_row {
+#bskztuxssw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2233,7 +2233,7 @@
   padding-right: 5px;
 }
 
-#rxdihvokfz .gt_first_summary_row {
+#bskztuxssw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2243,7 +2243,7 @@
   border-top-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_grand_summary_row {
+#bskztuxssw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2253,7 +2253,7 @@
   padding-right: 5px;
 }
 
-#rxdihvokfz .gt_first_grand_summary_row {
+#bskztuxssw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2263,11 +2263,11 @@
   border-top-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_striped {
+#bskztuxssw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#rxdihvokfz .gt_table_body {
+#bskztuxssw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2276,7 +2276,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_footnotes {
+#bskztuxssw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2290,13 +2290,13 @@
   border-right-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_footnote {
+#bskztuxssw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#rxdihvokfz .gt_sourcenotes {
+#bskztuxssw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2310,41 +2310,41 @@
   border-right-color: #D3D3D3;
 }
 
-#rxdihvokfz .gt_sourcenote {
+#bskztuxssw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#rxdihvokfz .gt_left {
+#bskztuxssw .gt_left {
   text-align: left;
 }
 
-#rxdihvokfz .gt_center {
+#bskztuxssw .gt_center {
   text-align: center;
 }
 
-#rxdihvokfz .gt_right {
+#bskztuxssw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#rxdihvokfz .gt_font_normal {
+#bskztuxssw .gt_font_normal {
   font-weight: normal;
 }
 
-#rxdihvokfz .gt_font_bold {
+#bskztuxssw .gt_font_bold {
   font-weight: bold;
 }
 
-#rxdihvokfz .gt_font_italic {
+#bskztuxssw .gt_font_italic {
   font-style: italic;
 }
 
-#rxdihvokfz .gt_super {
+#bskztuxssw .gt_super {
   font-size: 65%;
 }
 
-#rxdihvokfz .gt_footnote_marks {
+#bskztuxssw .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2514,12 +2514,12 @@
 &lt;p&gt;&lt;strong&gt;Perustoimeentulotuen&lt;/strong&gt; saajien ja saajakotitalouksien sekä &lt;strong&gt;yleistä asumistukea&lt;/strong&gt; saavien ruokakuntien määrä kasvoi edellisvuodesta 5 prosentilla. Molemmissa kasvu oli odotettua vähäisempää, mutta tukia sai kuitenkin 2000-luvun ennätysmäärä kotitalouksia ja ruokakuntia. Perustoimeentulotuessa uusia saajia oli 21 000 ja uusia saajakotitalouksia 14 000 enemmän kuin vuonna 2019. Uusia yleistä asumistukea saaneita ruokakuntia oli vuonna 2020 noin 121 000, mikä on 20 500 ruokakuntaa enemmän kuin vuonna 2019.&lt;/p&gt;
 &lt;p&gt;Syksyllä 2020 perustoimeentulotuen saajille maksettiin eduskunnan päätöksellä myös &lt;strong&gt;väliaikaista epidemiakorvausta&lt;/strong&gt;, jonka saamisen edellytyksenä oli, että vähintään yksi perustoimeentulotukea saaneeseen kotitalouteen kuulunut henkilö oli saanut perustoimeentulotukea vähintään yhtenä kuukautena maalis–heinäkuun 2020 välillä ja sai perustoimeentulotukea edelleen elo-marraskuussa 2020. Loka-joulukuun 2020 aikana 75€/kk/henkilö-suuruista korvausta maksettiin 227 500 henkilölle 153 900 kotitaloudessa (ks. tarkemmin &lt;a href=&#34;http://urn.fi/URN:ISBN:978-952-343-339-7&#34;&gt;Tutkimuksesta tiiviisti&lt;/a&gt;). Loka-joulukuussa 74–76 prosentille perustoimeentulotukea saaneista henkilöistä maksettiin siis saman kuukauden aikana myös väliaikaista epidemiakorvausta.&lt;/p&gt;
 &lt;div class=&#34;eiluokka&#34;&gt;
-&lt;div id=&#34;mqxqlgrvis&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;bsusqkkmtn&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#mqxqlgrvis .gt_table {
+#bsusqkkmtn .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2544,7 +2544,7 @@
   border-left-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_heading {
+#bsusqkkmtn .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -2556,7 +2556,7 @@
   border-right-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_title {
+#bsusqkkmtn .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -2566,7 +2566,7 @@
   border-bottom-width: 0;
 }
 
-#mqxqlgrvis .gt_subtitle {
+#bsusqkkmtn .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -2576,13 +2576,13 @@
   border-top-width: 0;
 }
 
-#mqxqlgrvis .gt_bottom_border {
+#bsusqkkmtn .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_col_headings {
+#bsusqkkmtn .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2597,7 +2597,7 @@
   border-right-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_col_heading {
+#bsusqkkmtn .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2617,7 +2617,7 @@
   overflow-x: hidden;
 }
 
-#mqxqlgrvis .gt_column_spanner_outer {
+#bsusqkkmtn .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2629,15 +2629,15 @@
   padding-right: 4px;
 }
 
-#mqxqlgrvis .gt_column_spanner_outer:first-child {
+#bsusqkkmtn .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#mqxqlgrvis .gt_column_spanner_outer:last-child {
+#bsusqkkmtn .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#mqxqlgrvis .gt_column_spanner {
+#bsusqkkmtn .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -2649,7 +2649,7 @@
   width: 100%;
 }
 
-#mqxqlgrvis .gt_group_heading {
+#bsusqkkmtn .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2671,7 +2671,7 @@
   vertical-align: middle;
 }
 
-#mqxqlgrvis .gt_empty_group_heading {
+#bsusqkkmtn .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -2686,15 +2686,15 @@
   vertical-align: middle;
 }
 
-#mqxqlgrvis .gt_from_md &gt; :first-child {
+#bsusqkkmtn .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#mqxqlgrvis .gt_from_md &gt; :last-child {
+#bsusqkkmtn .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#mqxqlgrvis .gt_row {
+#bsusqkkmtn .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2713,7 +2713,7 @@
   overflow-x: hidden;
 }
 
-#mqxqlgrvis .gt_stub {
+#bsusqkkmtn .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -2725,7 +2725,7 @@
   padding-left: 12px;
 }
 
-#mqxqlgrvis .gt_summary_row {
+#bsusqkkmtn .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2735,7 +2735,7 @@
   padding-right: 5px;
 }
 
-#mqxqlgrvis .gt_first_summary_row {
+#bsusqkkmtn .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2745,7 +2745,7 @@
   border-top-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_grand_summary_row {
+#bsusqkkmtn .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -2755,7 +2755,7 @@
   padding-right: 5px;
 }
 
-#mqxqlgrvis .gt_first_grand_summary_row {
+#bsusqkkmtn .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -2765,11 +2765,11 @@
   border-top-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_striped {
+#bsusqkkmtn .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#mqxqlgrvis .gt_table_body {
+#bsusqkkmtn .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -2778,7 +2778,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_footnotes {
+#bsusqkkmtn .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2792,13 +2792,13 @@
   border-right-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_footnote {
+#bsusqkkmtn .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#mqxqlgrvis .gt_sourcenotes {
+#bsusqkkmtn .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -2812,41 +2812,41 @@
   border-right-color: #D3D3D3;
 }
 
-#mqxqlgrvis .gt_sourcenote {
+#bsusqkkmtn .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#mqxqlgrvis .gt_left {
+#bsusqkkmtn .gt_left {
   text-align: left;
 }
 
-#mqxqlgrvis .gt_center {
+#bsusqkkmtn .gt_center {
   text-align: center;
 }
 
-#mqxqlgrvis .gt_right {
+#bsusqkkmtn .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#mqxqlgrvis .gt_font_normal {
+#bsusqkkmtn .gt_font_normal {
   font-weight: normal;
 }
 
-#mqxqlgrvis .gt_font_bold {
+#bsusqkkmtn .gt_font_bold {
   font-weight: bold;
 }
 
-#mqxqlgrvis .gt_font_italic {
+#bsusqkkmtn .gt_font_italic {
   font-style: italic;
 }
 
-#mqxqlgrvis .gt_super {
+#bsusqkkmtn .gt_super {
   font-size: 65%;
 }
 
-#mqxqlgrvis .gt_footnote_marks {
+#bsusqkkmtn .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -2967,12 +2967,12 @@
 &lt;p&gt;&lt;strong&gt;Yleisen asumistuen&lt;/strong&gt; saajien määrä kasvoi marraskuusta vain vähän – 260 ruokakunnalla – ja &lt;strong&gt;perustoimeentulotukea&lt;/strong&gt; saavien kotitalouksien määrä 3 210 kotitaloudella.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sairauspäivärahan&lt;/strong&gt; saajien määrä kasvoi marraskuusta selvästi –4 410 saajalla – ja &lt;strong&gt;tartuntatautipäivärahan&lt;/strong&gt; saajien määrä nousi jälleen uusiin ennätyslukemiin, kun sitä maksettiin joulukuussa yli 8 400 henkilölle.&lt;/p&gt;
 &lt;div class=&#34;plot&#34;&gt;
-&lt;div id=&#34;ludeozstqi&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
+&lt;div id=&#34;zmhucnsgrw&#34; style=&#34;overflow-x:auto;overflow-y:auto;width:auto;height:auto;&#34;&gt;
 &lt;style&gt;html {
   font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Oxygen, Ubuntu, Cantarell, &#39;Helvetica Neue&#39;, &#39;Fira Sans&#39;, &#39;Droid Sans&#39;, Arial, sans-serif;
 }
 
-#ludeozstqi .gt_table {
+#zmhucnsgrw .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -2997,7 +2997,7 @@
   border-left-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_heading {
+#zmhucnsgrw .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -3009,7 +3009,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_title {
+#zmhucnsgrw .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -3019,7 +3019,7 @@
   border-bottom-width: 0;
 }
 
-#ludeozstqi .gt_subtitle {
+#zmhucnsgrw .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -3029,13 +3029,13 @@
   border-top-width: 0;
 }
 
-#ludeozstqi .gt_bottom_border {
+#zmhucnsgrw .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_col_headings {
+#zmhucnsgrw .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3050,7 +3050,7 @@
   border-right-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_col_heading {
+#zmhucnsgrw .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3070,7 +3070,7 @@
   overflow-x: hidden;
 }
 
-#ludeozstqi .gt_column_spanner_outer {
+#zmhucnsgrw .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3082,15 +3082,15 @@
   padding-right: 4px;
 }
 
-#ludeozstqi .gt_column_spanner_outer:first-child {
+#zmhucnsgrw .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#ludeozstqi .gt_column_spanner_outer:last-child {
+#zmhucnsgrw .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#ludeozstqi .gt_column_spanner {
+#zmhucnsgrw .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -3102,7 +3102,7 @@
   width: 100%;
 }
 
-#ludeozstqi .gt_group_heading {
+#zmhucnsgrw .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3124,7 +3124,7 @@
   vertical-align: middle;
 }
 
-#ludeozstqi .gt_empty_group_heading {
+#zmhucnsgrw .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -3139,15 +3139,15 @@
   vertical-align: middle;
 }
 
-#ludeozstqi .gt_from_md &gt; :first-child {
+#zmhucnsgrw .gt_from_md &gt; :first-child {
   margin-top: 0;
 }
 
-#ludeozstqi .gt_from_md &gt; :last-child {
+#zmhucnsgrw .gt_from_md &gt; :last-child {
   margin-bottom: 0;
 }
 
-#ludeozstqi .gt_row {
+#zmhucnsgrw .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3166,7 +3166,7 @@
   overflow-x: hidden;
 }
 
-#ludeozstqi .gt_stub {
+#zmhucnsgrw .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -3178,7 +3178,7 @@
   padding-left: 12px;
 }
 
-#ludeozstqi .gt_summary_row {
+#zmhucnsgrw .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3188,7 +3188,7 @@
   padding-right: 5px;
 }
 
-#ludeozstqi .gt_first_summary_row {
+#zmhucnsgrw .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3198,7 +3198,7 @@
   border-top-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_grand_summary_row {
+#zmhucnsgrw .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -3208,7 +3208,7 @@
   padding-right: 5px;
 }
 
-#ludeozstqi .gt_first_grand_summary_row {
+#zmhucnsgrw .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -3218,11 +3218,11 @@
   border-top-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_striped {
+#zmhucnsgrw .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#ludeozstqi .gt_table_body {
+#zmhucnsgrw .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -3231,7 +3231,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_footnotes {
+#zmhucnsgrw .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3245,13 +3245,13 @@
   border-right-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_footnote {
+#zmhucnsgrw .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#ludeozstqi .gt_sourcenotes {
+#zmhucnsgrw .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -3265,41 +3265,41 @@
   border-right-color: #D3D3D3;
 }
 
-#ludeozstqi .gt_sourcenote {
+#zmhucnsgrw .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#ludeozstqi .gt_left {
+#zmhucnsgrw .gt_left {
   text-align: left;
 }
 
-#ludeozstqi .gt_center {
+#zmhucnsgrw .gt_center {
   text-align: center;
 }
 
-#ludeozstqi .gt_right {
+#zmhucnsgrw .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#ludeozstqi .gt_font_normal {
+#zmhucnsgrw .gt_font_normal {
   font-weight: normal;
 }
 
-#ludeozstqi .gt_font_bold {
+#zmhucnsgrw .gt_font_bold {
   font-weight: bold;
 }
 
-#ludeozstqi .gt_font_italic {
+#zmhucnsgrw .gt_font_italic {
   font-style: italic;
 }
 
-#ludeozstqi .gt_super {
+#zmhucnsgrw .gt_super {
   font-size: 65%;
 }
 
-#ludeozstqi .gt_footnote_marks {
+#zmhucnsgrw .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
