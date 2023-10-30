@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fi" xml:lang="fi"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.450">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title> Koronamittarit - Tilannekatsaukset</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "Ei tuloksia",
+    "search-matching-documents-text": "tulokset",
+    "search-copy-link-title": "Kopioi linkki hakuun",
+    "search-hide-matches-text": "Piilota loput tulokset",
+    "search-more-match-text": "tulos tässä dokumentissa",
+    "search-more-matches-text": "tulosta tässä dokumentissa",
+    "search-clear-button-title": "Tyhjennä",
+    "search-detached-cancel-button-title": "Peruuta",
+    "search-submit-button-title": "Lähetä",
+    "search-label": "Hae"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-sample-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-sample-listings'] = new List('listing-sample-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
+<link rel="alternate" type="application/rss+xml" title="<img src = &quot;/logo/logo.svg&quot; height = &quot;35px&quot; > Koronamittarit" href="index.xml"></head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title"><img src="../logo/logo.svg" height="35px"> Koronamittarit</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Hae"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Vaihda navigointi" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-mittarit" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Mittarit</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-mittarit">    
+        <li>
+    <a class="dropdown-item" href="../mittari_etuushakemukset/index.html" rel="" target="">
+ <span class="dropdown-text">Etuushakemukset</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../mittari_etuuksien_saajat/index.html" rel="" target="">
+ <span class="dropdown-text">Etuuksien saajat</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../mittari_laakekorvaukset/index.html" rel="" target="">
+ <span class="dropdown-text">Lääkekorvaukset</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../mittari_koronavirustutkimukset/index.html" rel="" target="">
+ <span class="dropdown-text">Koronavirustutkimukset</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../mittari_asiakaspalvelu/index.html" rel="" target="">
+ <span class="dropdown-text">Kelan asiakaspalvelu</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../mittari_matkakorvaukset/index.html" rel="" target="">
+ <span class="dropdown-text">Matkakorvaukset taksimatkoista</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="../sivu_tilannekatsaukset/index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Tilannekatsaukset</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-lisätietoja" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+ <span class="menu-text">Lisätietoja</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-lisätietoja">    
+        <li>
+    <a class="dropdown-item" href="../sivu_data_ja_mittarit/index.html" rel="" target="">
+ <span class="dropdown-text">Aineiston ja mittarien kuvaus</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../sivu_yhteystiedot/index.html" rel="" target="">
+ <span class="dropdown-text">Yhteystiedot</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../sivu_saavutettavuusseloste/index.html" rel="" target="">
+ <span class="dropdown-text">Saavutettavuusseloste</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../sivu_tietosuojaseloste/index.html" rel="" target="">
+ <span class="dropdown-text">Tietosuojaseloste</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../sivu_esimerkit/index.html" rel="" target="">
+ <span class="dropdown-text">Esimerkit datan hyödyntämiseen R-kielellä</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <div class="quarto-navbar-tools">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content column-page" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Tilannekatsaukset</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-sample-listings">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="kuukausikatsaus" data-listing-date-sort="1631257261000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2021-09-01-month-8fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat elokuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-09-01-month-8fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-09-01-month-8fi/index.html">
+<div class="listing-date">
+10.9.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="kuukausikatsaus" data-listing-date-sort="1628578861000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="body">
+<a href="../posts/2021-08-01-month-7fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat heinäkuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-08-01-month-7fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-08-01-month-7fi/index.html">
+<div class="listing-date">
+10.8.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="kuukausikatsaus" data-listing-date-sort="1615708861000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2021-03-01-month-2fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat helmikuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-03-01-month-2fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-03-01-month-2fi/index.html">
+<div class="listing-date">
+14.3.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="kuukausikatsaus" data-listing-date-sort="1620630061000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="body">
+<a href="../posts/2021-05-01-month-4fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat huhtikuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-05-01-month-4fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-05-01-month-4fi/index.html">
+<div class="listing-date">
+10.5.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="kuukausikatsaus" data-listing-date-sort="1611561661000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="body">
+<a href="../posts/2021-01-22-month-12-fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat joulukuussa
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-01-22-month-12-fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-01-22-month-12-fi/index.html">
+<div class="listing-date">
+25.1.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="kuukausikatsaus" data-listing-date-sort="1642654861000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="body">
+<a href="../posts/2022-01-19-month-12fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat joulukuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2022-01-19-month-12fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2022-01-19-month-12fi/index.html">
+<div class="listing-date">
+20.1.2022
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="kuukausikatsaus" data-listing-date-sort="1628060461000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2021-07-01-month-6fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat kesäkuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-07-01-month-6fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-07-01-month-6fi/index.html">
+<div class="listing-date">
+4.8.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="kuukausikatsaus" data-listing-date-sort="1636704061000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2021-11-01-month-10fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat lokakuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-11-01-month-10fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-11-01-month-10fi/index.html">
+<div class="listing-date">
+12.11.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="kuukausikatsaus" data-listing-date-sort="1618210861000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2021-04-01-month-3fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat maaliskuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-04-01-month-3fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-04-01-month-3fi/index.html">
+<div class="listing-date">
+12.4.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="kuukausikatsaus" data-listing-date-sort="1606809661000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<div class="body">
+<a href="../posts/2020-12-01-month-11/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat marraskuussa
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2020-12-01-month-11/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2020-12-01-month-11/index.html">
+<div class="listing-date">
+1.12.2020
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="kuukausikatsaus" data-listing-date-sort="1639468861000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="body">
+<a href="../posts/2021-12-01-month-11fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat marraskuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-12-01-month-11fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-12-01-month-11fi/index.html">
+<div class="listing-date">
+14.12.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="kuukausikatsaus" data-listing-date-sort="1633849261000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2021-10-01-month-9fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat syyskuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-10-01-month-9fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-10-01-month-9fi/index.html">
+<div class="listing-date">
+10.10.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="kuukausikatsaus" data-listing-date-sort="1613685600000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6">
+<div class="body">
+<a href="../posts/2021-02-12-custom-1fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat tammikuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-02-12-custom-1fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-02-12-custom-1fi/index.html">
+<div class="listing-date">
+19.2.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="kuukausikatsaus" data-listing-date-sort="1623646861000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13">
+<div class="body">
+<a href="../posts/2021-06-01-month-5fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat toukokuussa 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('kuukausikatsaus'); return false;">
+kuukausikatsaus
+</div>
+</div>
+<a href="../posts/2021-06-01-month-5fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-06-01-month-5fi/index.html">
+<div class="listing-date">
+14.6.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-categories="vuosikatsaus" data-listing-date-sort="1612735200000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12">
+<div class="body">
+<a href="../posts/2021-01-25-custom-1fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat vuonna 2020
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('vuosikatsaus'); return false;">
+vuosikatsaus
+</div>
+</div>
+<a href="../posts/2021-01-25-custom-1fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2021-01-25-custom-1fi/index.html">
+<div class="listing-date">
+8.2.2021
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-categories="vuosikatsaus" data-listing-date-sort="1643011261000" data-listing-file-modified-sort="1698659524411" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14">
+<div class="body">
+<a href="../posts/2022-01-20-custom-1fi/index.html">
+<h3 class="no-anchor listing-title">
+Etuuksien saajat vuonna 2021
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('vuosikatsaus'); return false;">
+vuosikatsaus
+</div>
+</div>
+<a href="../posts/2022-01-20-custom-1fi/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2022-01-20-custom-1fi/index.html">
+<div class="listing-date">
+24.1.2022
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-categories="viikkokatsaus" data-listing-date-sort="1604390461000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="body">
+<a href="../posts/2020-11-03-week-43/index.html">
+<h3 class="no-anchor listing-title">
+Viikko 43
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('viikkokatsaus'); return false;">
+viikkokatsaus
+</div>
+</div>
+<a href="../posts/2020-11-03-week-43/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2020-11-03-week-43/index.html">
+<div class="listing-date">
+3.11.2020
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-categories="viikkokatsaus" data-listing-date-sort="1605600061000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="body">
+<a href="../posts/2020-11-17-week-45/index.html">
+<h3 class="no-anchor listing-title">
+Viikko 45
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('viikkokatsaus'); return false;">
+viikkokatsaus
+</div>
+</div>
+<a href="../posts/2020-11-17-week-45/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2020-11-17-week-45/index.html">
+<div class="listing-date">
+17.11.2020
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-categories="viikkokatsaus" data-listing-date-sort="1606809661000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="body">
+<a href="../posts/2020-12-01-week-47/index.html">
+<h3 class="no-anchor listing-title">
+Viikko 47
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('viikkokatsaus'); return false;">
+viikkokatsaus
+</div>
+</div>
+<a href="../posts/2020-12-01-week-47/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2020-12-01-week-47/index.html">
+<div class="listing-date">
+1.12.2020
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-categories="viikkokatsaus" data-listing-date-sort="1607417625000" data-listing-file-modified-sort="1698651574969" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4">
+<div class="body">
+<a href="../posts/2020-12-8-week-49/index.html">
+<h3 class="no-anchor listing-title">
+Viikko 49
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('viikkokatsaus'); return false;">
+viikkokatsaus
+</div>
+</div>
+<a href="../posts/2020-12-8-week-49/index.html"> </a>
+</div>
+<div class="metadata">
+<a href="../posts/2020-12-8-week-49/index.html">
+<div class="listing-date">
+8.12.2020
+</div>
+<div class="listing-author">
+Tuija Korpela
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+Ei hakutuloksia
+</div>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Kopioitu!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Kopioitu!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
